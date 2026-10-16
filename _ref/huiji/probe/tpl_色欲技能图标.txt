@@ -1,0 +1,21 @@
+跳转至：[[技能图标]]{{色欲技能图标|等级=3}}
+<includeonly>
+<onlyinclude>
+<center>
+<div style="position:relative;z-index:3;width:75px;height:80px">
+<div style="position:absolute;z-index:2;">
+{{#switch:{{{等级|1}}}|1=[[file:色欲-等级1.png|75px|link=]]|2=[[file:色欲-等级2.png|75px|link=]]|3=[[file:Icon_skillFrame_1_1.png|75px|link=]]}}</div>
+<div style="position:absolute;color:#BB521F;{{#switch:{{{等级|1}}}
+|1=margin-left:8px; margin-top:8px;
+|2=margin-left:7px; margin-top:8px;
+|3=margin-left:7px; margin-top:13px;
+}}clip-path: polygon(73% 4%, 98% 40%,90% 80%,50% 100%,10% 80%,2% 40%,27% 4%)">[[file:{{{图标|803106}}}.png|60px|link=]]</div>
+<div style="position:absolute;z-index:-1;{{#switch:{{{等级|1}}}
+|1=margin-left:-1px; margin-top:-5px;
+|2=margin-left:-1px; margin-top:-8px;
+|3=margin-left:-2px; margin-top:-6px;
+}}">
+{{#switch:{{{等级|1}}}|1=[[file:色欲-等级1-底部.png|75px|link=]]|2=[[file:色欲-等级2-底部.png|75px|link=]]|3=[[file:Icon_skillFrame_Invert_8.png|75px|link=]]}}
+</div></div>
+</center>
+</onlyinclude></includeonly>

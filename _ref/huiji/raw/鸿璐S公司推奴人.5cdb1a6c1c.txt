@@ -1,0 +1,182 @@
+{{人格（上）|{{PAGENAME}}}}
+{{技能链接|
+|1技能-图标=1061501
+|1技能-名称=捆紧捕绳
+|1技能-类型=斩击
+|1技能-罪孽=暴食
+|1技能-硬币数=3
+|1技能-修正值=+2
+|1技能-1阶技能威力=2
+|1技能-1阶硬币威力=+2
+|1技能-1阶={{颜色|使用时}}使自身获得3层{{BuffPro|Breath}}<br>{{硬币|1}}{{颜色|命中时}}使自身增加3级{{BuffPro|Breath}}强度<br>{{颜色|命中时}}对目标施加2层{{BuffPro|Laceration}}<br>{{硬币|2}}{{颜色|命中时}}使目标增加2级{{BuffPro|Laceration}}强度<br>{{硬币|3}}{{颜色|命中时}}下回合对目标施加1层{{BuffPro|Binding}}<br>{{颜色|命中时}}若目标带有{{BuffPro|TiedRopeHonglu}}，则使其{{BuffPro|TiedRopeHonglu}}层数增加1层
+|1技能-2阶={{颜色|使用时}}若自身的{{BuffPro|Breath}}强度与目标的{{BuffPro|Laceration}}强度之和不低于6级，则使本技能的硬币威力+1<br>{{颜色|使用时}}使自身获得3层{{BuffPro|Breath}}<br>{{硬币|1}}{{颜色|命中时}}使自身增加4级{{BuffPro|Breath}}强度<br>{{颜色|命中时}}对目标施加2层{{BuffPro|Laceration}}<br>{{硬币|2}}{{颜色|命中时}}使目标增加2级{{BuffPro|Laceration}}强度<br>{{硬币|3}}{{颜色|命中时}}下回合对目标施加1层{{BuffPro|Binding}}<br>{{颜色|命中时}}若目标带有{{BuffPro|TiedRopeHonglu}}，则使其{{BuffPro|TiedRopeHonglu}}层数增加1层
+|1技能-3阶技能威力=2
+|1技能-3阶硬币威力=+3
+|1技能-4阶技能威力=2
+|1技能-4阶硬币威力=+3
+|1技能-4阶={{颜色|使用时}}自身的{{BuffPro|Breath}}强度与目标的{{BuffPro|Laceration}}强度之和每有6级，使本技能的硬币威力+1(最多+2)<br>{{颜色|使用时}}若目标带有{{BuffPro|TiedRopeHonglu}}，则使本技能的最终威力+1<br>{{颜色|使用时}}使自身获得3层{{BuffPro|Breath}}<br>{{硬币|1}}{{颜色|命中时}}使自身增加4级{{BuffPro|Breath}}强度<br>{{颜色|命中时}}对目标施加2层{{BuffPro|Laceration}}<br>{{硬币|2}}{{颜色|命中时}}使目标增加2级{{BuffPro|Laceration}}强度<br>{{硬币|3}}{{颜色|命中时}}下回合对目标施加1层{{BuffPro|Binding}}<br>{{颜色|命中时}}若目标带有{{BuffPro|TiedRopeHonglu}}，则使其{{BuffPro|TiedRopeHonglu}}层数增加1层
+|2技能-图标=1061502
+|2技能-名称=斩裂
+|2技能-类型=斩击
+|2技能-罪孽=色欲
+|2技能-硬币数=2
+|2技能-修正值=+3
+|2技能-1阶技能威力=3
+|2技能-1阶硬币威力=+5
+|2技能-1阶={{颜色|使用时}}使自身获得2层{{BuffPro|Breath}}<br>{{硬币|1}}{{颜色|命中时}}使自身增加2级{{BuffPro|Breath}}强度<br>{{颜色|命中时}}使目标增加2级{{BuffPro|Laceration}}强度<br>{{硬币|2}}{{颜色|命中时}}若目标的{{BuffPro|TiedRopeHonglu}}层数不低于2层，则消耗1层{{BuffPro|TiedRopeHonglu}}并重复使用本硬币(每个技能最多1次)<br>{{颜色|暴击命中时}}对目标施加1层{{BuffPro|ScratchesHurtID}}<br>{{颜色|重复使用 - 命中时}}下回合使自身获得2层{{BuffPro|Agility}}<br>{{颜色|重复使用 - 命中时}}触发目标的{{BuffPro|Laceration}}，并使其{{BuffPro|Laceration}}层数减少1层
+|2技能-2阶={{颜色|使用时}}若自身的{{BuffPro|Breath}}强度与目标的{{BuffPro|Laceration}}强度之和不低于6级，则使本技能的硬币威力+1<br>{{颜色|使用时}}使自身获得2层{{BuffPro|Breath}}<br>{{硬币|1}}{{颜色|命中时}}使自身增加2级{{BuffPro|Breath}}强度<br>{{颜色|命中时}}使目标增加2级{{BuffPro|Laceration}}强度<br>{{硬币|2}}{{颜色|命中时}}若目标的{{BuffPro|TiedRopeHonglu}}层数不低于2层，则消耗1层{{BuffPro|TiedRopeHonglu}}并重复使用本硬币(每个技能最多1次)<br>{{颜色|暴击命中时}}对目标施加1层{{BuffPro|ScratchesHurtID}}<br>{{颜色|重复使用 - 命中时}}下回合使自身获得2层{{BuffPro|Agility}}<br>{{颜色|重复使用 - 命中时}}触发目标的{{BuffPro|Laceration}}，并使其{{BuffPro|Laceration}}层数减少1层
+|2技能-3阶技能威力=4
+|2技能-3阶硬币威力=+5
+|2技能-4阶技能威力=4
+|2技能-4阶硬币威力=+6
+|2技能-4阶={{颜色|使用时}}自身的{{BuffPro|Breath}}强度与目标的{{BuffPro|Laceration}}强度之和每有6级，使本技能的硬币威力+1(最多+2)<br>{{颜色|使用时}}若目标带有{{BuffPro|TiedRopeHonglu}}，则使本技能的最终威力+1<br>{{颜色|使用时}}使自身获得2层{{BuffPro|Breath}}<br>{{硬币|1}}{{颜色|命中时}}使自身增加3级{{BuffPro|Breath}}强度<br>{{颜色|命中时}}使目标增加2级{{BuffPro|Laceration}}强度<br>{{硬币|2}}{{颜色|命中时}}若目标的{{BuffPro|TiedRopeHonglu}}层数不低于2层，则消耗1层{{BuffPro|TiedRopeHonglu}}并重复使用本硬币(每个技能最多1次)<br>{{颜色|暴击命中时}}对目标施加1层{{BuffPro|ScratchesHurtID}}<br>{{颜色|重复使用 - 命中时}}下回合使自身获得2层{{BuffPro|Agility}}<br>{{颜色|重复使用 - 命中时}}触发目标的{{BuffPro|Laceration}}，并使其{{BuffPro|Laceration}}层数减少1层
+|3技能-图标=1061503
+|3技能-名称=执行推刷
+|3技能-类型=斩击
+|3技能-罪孽=傲慢
+|3技能-硬币数=4
+|3技能-修正值=+4
+|3技能-3阶技能威力=3
+|3技能-3阶硬币威力=+3
+|3技能-3阶={{颜色|使用时}}若自身的{{BuffPro|Breath}}强度与目标的{{BuffPro|Laceration}}强度之和不低于6级，则使本技能的硬币威力+1<br>{{颜色|使用时}}若目标带有{{BuffPro|TiedRopeHonglu}}，<br>则使本技能的所有硬币转化为{{BuffPro|SuperCoin}}，最终威力+1，并使最后一枚硬币命中时触发以下效果<br>- 对目标施加2层{{BuffPro|Laceration}}<br>- 下回合对目标施加1层{{BuffPro|Reduction}}<br>{{颜色|使用时}}使自身增加5级{{BuffPro|Breath}}强度<br>{{颜色|使用时}}使自身获得3层{{BuffPro|Breath}}<br>{{硬币|1}}{{颜色|命中时}}下回合对目标施加1层{{BuffPro|Binding}}<br>{{颜色|命中时}}若目标未带有{{BuffPro|TiedRopeHonglu}}，则对其施加{{BuffPro|TiedRopeHonglu}}<br>{{硬币|2}}{{颜色|命中时}}对目标施加2层{{BuffPro|Laceration}}<br>{{硬币|3}}{{颜色|命中时}}使目标增加2级{{BuffPro|Laceration}}强度<br>{{硬币|4}}{{颜色|命中时}}使目标增加3级{{BuffPro|Laceration}}强度<br>{{颜色|命中时}}对目标施加1层{{BuffPro|ScratchesHurtID}}<br>{{颜色|暴击命中时}}对目标施加1层{{BuffPro|ScratchesHurtID}}
+|3技能-4阶技能威力=4
+|3技能-4阶硬币威力=+3
+|3技能-4阶={{颜色|使用时}}自身的{{BuffPro|Breath}}强度与目标的{{BuffPro|Laceration}}强度之和每有6级，使本技能的硬币威力+1(最多+2)<br>{{颜色|使用时}}若目标带有{{BuffPro|ScratchesHurtID}}，则使本技能造成的伤害+20%<br>{{颜色|使用时}}若目标带有{{BuffPro|TiedRopeHonglu}}，<br>则使本技能的所有硬币转化为{{BuffPro|SuperCoin}}，最终威力+1，并使最后一枚硬币命中时触发以下效果<br>- 对目标施加2层{{BuffPro|Laceration}}<br>- 下回合对目标施加1层{{BuffPro|Reduction}}<br>{{颜色|使用时}}使自身增加5级{{BuffPro|Breath}}强度<br>{{颜色|使用时}}使自身获得3层{{BuffPro|Breath}}<br>{{硬币|1}}{{颜色|命中时}}下回合对目标施加1层{{BuffPro|Binding}}<br>{{颜色|命中时}}若目标未带有{{BuffPro|TiedRopeHonglu}}，则对其施加{{BuffPro|TiedRopeHonglu}}<br>{{硬币|2}}{{颜色|命中时}}对目标施加2层{{BuffPro|Laceration}}<br>{{硬币|3}}{{颜色|命中时}}使目标增加2级{{BuffPro|Laceration}}强度<br>{{硬币|4}}使本硬币暴击时造成的伤害+50%<br>{{颜色|命中时}}使目标增加3级{{BuffPro|Laceration}}强度<br>{{颜色|命中时}}对目标施加1层{{BuffPro|ScratchesHurtID}}<br>{{颜色|暴击命中时}}对目标施加1层{{BuffPro|ScratchesHurtID}}<br>{{颜色|暴击命中时}}下回合对目标施加1层{{BuffPro|IndigoTakeDamageUp}}
+|4技能-图标=1061504
+|4技能-名称=套上捕绳
+|类型=攻击
+|4技能-类型=斩击
+|4技能-罪孽=傲慢
+|4技能-硬币数=1
+|4技能-修正值=+2
+|4技能-3阶技能威力=5
+|4技能-3阶硬币威力=+8
+|4技能-3阶={{颜色|可拼点反击}}<br>{{颜色|使用时}}若自身的{{BuffPro|Breath}}强度与目标的{{BuffPro|Laceration}}强度之和不低于6级，则使本技能的拼点威力+2<br>{{颜色|使用时}}使自身增加5级{{BuffPro|Breath}}强度<br>{{硬币|1}}{{BuffPro|SuperCoin}}<br>{{颜色|命中时}}对目标施加{{BuffPro|TiedRopeHonglu}}<br>{{颜色|未摧毁 - 命中时}}使目标增加1级{{BuffPro|Laceration}}强度
+|4技能-4阶技能威力=5
+|4技能-4阶硬币威力=+8
+|4技能-4阶={{颜色|可拼点反击}}<br>{{颜色|使用时}}若自身的{{BuffPro|Breath}}强度与目标的{{BuffPro|Laceration}}强度之和不低于6级，则使本技能的拼点威力+2<br>{{颜色|使用时}}使自身增加5级{{BuffPro|Breath}}强度<br>{{颜色|拼点胜利}}使自身获得3层{{BuffPro|Breath}}<br>{{硬币|1}}{{BuffPro|SuperCoin}}<br>{{颜色|命中时}}对目标施加{{BuffPro|TiedRopeHonglu}}<br>{{颜色|未摧毁 - 命中时}}使目标增加1级{{BuffPro|Laceration}}强度
+}}
+===被动===
+{{人格被动链接|1061502}}
+{{人格被动链接|1061501}}
+{{人格被动链接|1061521}}
+==人格相关信息==
+#该人格的三技能{{罪孽颜色|傲慢|执行推刷}}拥有特殊拼点胜利动画。
+#战斗中，若该人格带有{{状态2|押送准备（我方）|押送准备}}，则自身模型将出现{{罪孽颜色|暴怒|绳索拖拽特效}}。
+#带有{{状态2|捕缚【鸿璐】|4=负面}}的单位，其模型上将出现{{罪孽颜色|暴怒|绳索捆绑特效}}。
+
+==预览==
+===演示===
+{{RichTab
+|prefix=2
+|闲置
+|[[文件:10615idle.png|x300px|center]]
+|移动
+|[[文件:10615move.png|x300px|center]]
+|闪避
+|[[文件:10615miss.png|x300px|center]]
+|受伤
+|[[文件:10615dmg.png|x300px|center]]
+|防御
+|[[文件:10615gud.png|x300px|center]]
+|动态文件
+|
+<gallery>
+slavehunter_honglu_idle-off-animation.gif
+slavehunter_honglu_idle-on-animation.gif
+10615skill1.gif
+10615skill2.gif
+10615skill3.gif
+</gallery>
+}}
+{{#html:Personalitygif2|{"1":"170","2":"https://huiji-public.huijistatic.com/limbuscompany/uploads/4/45/Slavehunter_honglu_idle-off-animation.gif","3":"https://huiji-public.huijistatic.com/limbuscompany/uploads/c/c6/Slavehunter_honglu_idle-on-animation.gif"} }}
+===语音台词===
+{{语音台词|
+|角色=10615
+|格式=2
+|获得时=哈哈。我明确说过了吧？就算跳起来逃跑，也不过是跳蚤那般的程度吗~
+|早间问候=虽然名册上还留有许多应该抓捕的奴婢……嗯。啊，不行。因为整夜都在追逐他们，我现在十分疲倦了啊……<br>待到正午时分……呼啊……再去抓捕吧。
+|午间问候=时间还没有确定呢……我们要不要去酒馆吃顿饭再走？出去的话可是又要跑上一整天，所以一定要好好吃饭哦~<br>老板娘~！请给这桌来两杯酒~
+|晚间问候=明月如此皎洁，在这巷中还能有多少地方被阴影遮蔽呢？<br>躲藏也好~逃窜也罢~各位都会被抓住的。
+|对话 1=骨肉相接后，唯余血泪流……不觉得这是条不错的表述吗？说的就是骨头和皮肉都黏连在一起，血液汩汩流淌的样子嘛~。<br>多亏如此，我们这些推奴人可是忙得团团转呢。人跑了又抓，抓住了又跑……工作可真是无穷无尽呢？
+|对话 2=你听说过党派中“血”党所属的技术人员逃往T公司的传言吗？<br>呼呼。不管在哪里生活都并不容易，真不明白他们为什么要像那样拼命地逃跑呢？哪里都比在这要好……没有比这样的期待更空洞的了。
+|对话 3=如果想做推奴人的话，建议一定要购买头带……推刷巾。只要戴上它，即便是夜晚也能看得见，还能为你引路……只要得到许可的话，也能用于确认S巢居民的身份~
+|同步后对话 1=虽说能理解你的皮肤和筋腱被撕裂，难以移动，也有剧痛传来……但我不会杀你，不是已经说过十次了嘛？<br>想杀你的话，一息之间就能用剑刃把你的头砍落呢~嗯~反正我不会那么做，所以就乖乖和我走吧？怎么样？
+|同步后对话 2=虽说不知道是哪个朋党的成员，但看你被打上了烙印，应该是个大人物吧？<br>因为并不是每一个犯罪的人都会被盯上的嘛。那些人要么是S公司需要的人，要么是犯了大逆不道之罪的人。还是说……你是那种优秀到需要限制你力量的武官？
+|闲置=……你该不会是想逃跑吧？
+|进行同步=好，请过来吧！奴婢就得像奴婢那样，罪犯也得像罪犯那样，乖乖被这条绳子捆住吧。
+|人格出战=叫我过来是因为……啊哈，奴婢逃跑了是吗？
+|进入战斗=推刷，开始咯~
+|战斗中选中人格=哎呀。请小心些！刚刚我差点就把你当成奴婢绑起来了哦~
+|进行攻击=把他们全都抓起来！
+|敌方混乱=若你还是不想回去的话……
+|陷入混乱=唔……
+|击杀敌方=就把脑袋留下来吧！
+|友方阵亡=……被抓的反而是我啊……咳……
+|判定成功=从事追人的工作的话，你能做的事情会变多哦~
+|判定失败=嘛……反正又不是在追捕奴婢嘛？
+|战斗胜利=虽然有几个人溜走了……反正需要抓住的奴婢还有很多呢，不是吗？哪怕此时此刻，依然有众多百姓正翻越围墙，试图逃往其他地区呢。<br>这次的推刷也是喜忧参半，下次再好好地抓捕吧。
+|EX CLEAR战斗胜利=委托要求的奴婢已经全部抓到了……其中不乏有着烙印的奴婢……哈哈。明天买些酒肉，开上一场宴会也没关系吧？
+|战斗失败=哎呀，又让他们跑了。唔嗯……也不能在其他翼的属地浪费太长时间……在损失扩大之前，就从这里撤退吧？<br>至于在这里的奴婢们……嘛，如果真有必要的话，其他推奴人会来追捕他们的。
+}}
+===技能语音===
+<div class="mw-collapsible">
+<div class="mw-collapsible-content">
+{| class="wikitable" style="width: 100%"
+|-
+|width="105px"|技能二-1
+|width="75px"|[[文件:Battle_s2_10615_1_1.ogg|50px]]
+|width="75px"|[[文件:Battle_s2_10615_1_1-01.ogg|50px]]
+||[[文件:Battle_s2_10615_1_1-04.ogg|50px]]
+
+|-
+||技能二-2
+||[[文件:Battle_s2_10615_1_2.ogg|50px]]
+||[[文件:Battle_s2_10615_1_2-01.ogg|50px]]
+|-
+||技能二-3
+||[[文件:Battle_s2_10615_1_3-01.ogg|50px]]
+||[[文件:Battle_s2_10615_1_3-02.ogg|50px]]
+||[[文件:Battle_s2_10615_1_3-04.ogg|50px]]
+|-
+||技能三
+||[[文件:Battle_s3_10615_1_1.ogg|50px]]
+|colspan="10" style="text-align: left;"|请老实点！
+|-
+||
+||[[文件:Battle_s3_10615_1_2.ogg|50px]]
+|-
+||
+||[[文件:Battle_s3_10615_1_3-03.ogg|50px]]
+|colspan="10" style="text-align: left;"|被捕绳捆住吧！
+|}
+</div></div>
+===音效===
+{| class="wikitable" style="width: 100%"
+|width="75px"|技能1
+|width="75px"|[[文件:trackhonglu_1_1-1.ogg|50px]]
+|width="75px"|[[文件:trackhonglu_1_1-2.ogg|50px]]
+|width="75px"|[[文件:trackhonglu_1_2.ogg|50px]]
+|width="75px"|[[文件:trackhonglu_1_3.ogg|50px]]
+|width="75px"|[[文件:trackhonglu_p_1.ogg|50px]]
+|[[文件:trackhonglu_w_1.ogg|50px]]
+|-
+|width="75px"|技能2
+||[[文件:trackhonglu_2_3.ogg|50px]]
+||[[文件:trackhonglu_2_4-1.ogg|50px]]
+||[[文件:trackhonglu_2_4-2.ogg|50px]]
+||[[文件:trackhonglu_p_2.ogg|50px]]
+|-
+|width="75px"|技能3
+|width="75px"|[[文件:trackhonglu_3_1-1.ogg|50px]]
+|width="75px"|[[文件:trackhonglu_3_1-2.ogg|50px]]
+|width="75px"|[[文件:trackhonglu_3_1-3.ogg|50px]]
+|width="75px"|[[文件:trackhonglu_3_2-1.ogg|50px]]
+|width="75px"|[[文件:trackhonglu_3_4-1.ogg|50px]]
+|[[文件:trackhonglu_3_4-2.ogg|50px]]
+|-
+|}
+
+==导航==
+{{鸿璐人格导航}}{{镜像世界人格导航|10615}}
+{{人格导航}}

@@ -1,0 +1,1 @@
+{{ask|table = Buff.tabx|query = name::{{{1}}}|?name = name|?page= page|?image = image|?desc = desc|?desc2 = desc2|?annotation = annotation|?show = show|?kind = kind|format = template|named args = yes|template = 状态/smongo}}<noinclude>{{Documentation}}</noinclude>

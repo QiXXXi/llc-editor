@@ -1,0 +1,386 @@
+{{人格（上）|{{PAGENAME}}}}
+{{技能链接|
+|1技能-图标=1111501
+|1技能-名称=踏碎
+|1技能-类型=打击
+|1技能-罪孽=色欲
+|1技能-硬币数=2
+|1技能-修正值=+2
+|1技能-1阶技能威力=3
+|1技能-1阶硬币威力=+2
+|1技能-1阶={{颜色|使用时}}使自身恢复5点理智值<br>{{硬币|1}}{{颜色|命中时}}对目标施加1层{{BuffPro|Laceration}}<br>{{硬币|2}}{{颜色|命中时}}使目标增加1级{{BuffPro|Laceration}}强度
+|1技能-2阶=目标的{{BuffPro|Combustion}}强度与{{BuffPro|Laceration}}强度之和每有6级，使本技能的硬币威力+1(最多+2)<br>{{颜色|使用时}}使自身恢复5点理智值<br>{{硬币|1}}{{颜色|命中时}}对目标施加2层{{BuffPro|Laceration}}<br>{{硬币|2}}{{颜色|命中时}}使目标增加1级{{BuffPro|Laceration}}强度
+|1技能-3阶技能威力=3
+|1技能-3阶硬币威力=+3
+|1技能-3阶=目标的{{BuffPro|Combustion}}强度与{{BuffPro|Laceration}}强度之和每有6级，使本技能的硬币威力+1(最多+2)<br>{{颜色|使用前}}若自身的剑处于{{BuffPro|MiddleFatherSwordFourOutis}}状态，则改为使用“剖开你的肚子”<br>{{颜色|使用时}}使自身恢复5点理智值<br>{{硬币|1}}{{颜色|命中时}}对目标施加2层{{BuffPro|Laceration}}<br>{{硬币|2}}{{颜色|命中时}}使目标增加1级{{BuffPro|Laceration}}强度<br>{{颜色|命中时}}若自身带有{{BuffPro|ReinforcedTattooSpiderOutis}}，则下回合对目标施加1层{{BuffPro|Binding}}(每回合最多1次)
+|1技能-4阶技能威力=3
+|1技能-4阶硬币威力=+4
+|1技能-4阶=目标的{{BuffPro|Combustion}}强度与{{BuffPro|Laceration}}强度之和每有6级，使本技能的硬币威力+1(最多+2)<br>{{颜色|使用前}}若自身的剑处于{{BuffPro|MiddleFatherSwordFourOutis}}状态，则改为使用“剖开你的肚子”<br>{{颜色|使用时}}若自身带有{{BuffPro|ReinforcedTattooSpiderOutis}}，则使本技能的第2枚硬币转化为{{BuffPro|SuperCoin}}<br>{{颜色|使用时}}使自身恢复5点理智值<br>{{硬币|1}}{{颜色|命中时}}对目标施加2层{{BuffPro|Laceration}}<br>{{颜色|命中时}}使目标的混乱阈值前移5<br>{{硬币|2}}{{颜色|命中时}}使目标增加1级{{BuffPro|Laceration}}强度<br>{{颜色|命中时}}若自身带有{{BuffPro|ReinforcedTattooSpiderOutis}}，则下回合对目标施加1层{{BuffPro|Binding}}(每回合最多1次)
+|更多1技能=1
+|强化1技能-图标=1111505
+|强化1技能-名称=剖开你的肚子
+|强化1技能-类型=打击
+|强化1技能-罪孽=嫉妒
+|强化1技能-硬币数=2
+|强化1技能-修正值=+3
+|强化1技能-1阶技能威力=
+|强化1技能-1阶硬币威力=
+|强化1技能-1阶=（在同步阶段Ⅲ解锁）
+|强化1技能-2阶=（在同步阶段Ⅲ解锁）
+|强化1技能-3阶技能威力=3
+|强化1技能-3阶硬币威力=+3
+|强化1技能-3阶={{BuffPro|MiddleFatherSwordFourOutis}}专用技能<br>目标的{{BuffPro|Combustion}}强度与{{BuffPro|Laceration}}强度之和每有6级，使本技能的硬币威力+1(最多+2)<br>{{颜色|使用时}}使本技能增加(最大共鸣数/2)级攻击等级(最多3级，向下取整)<br>{{颜色|攻击前}}使自身增加相当于本技能硬币数的{{BuffPro|Combustion}}强度<br>{{颜色|攻击后}}使自身失去5点理智值<br>{{硬币|1}}{{BuffPro|SuperCoin}}<br>{{颜色|命中时}}对目标施加2层{{BuffPro|Laceration}}<br>{{颜色|命中时}}使目标的混乱阈值前移5<br>{{硬币|2}}{{BuffPro|SuperCoin}}<br>{{颜色|命中时}}使目标增加4级{{BuffPro|Combustion}}强度并对其施加2层{{BuffPro|Combustion}}<br>{{颜色|命中时}}若自身带有{{BuffPro|ReinforcedTattooSpiderOutis}}，则下回合对目标施加1层{{BuffPro|Binding}}(每回合最多1次)
+|强化1技能-4阶技能威力=3
+|强化1技能-4阶硬币威力=+4
+|强化1技能-4阶={{BuffPro|MiddleFatherSwordFourOutis}}专用技能<br>目标的{{BuffPro|Combustion}}强度与{{BuffPro|Laceration}}强度之和每有6级，使本技能的硬币威力+1(最多+2)<br>{{颜色|使用时}}使本技能增加(最大共鸣数/2)级攻击等级(最多3级，向下取整)<br>{{颜色|使用时}}若自身带有{{BuffPro|ReinforcedTattooSpiderOutis}}，则令本技能的硬币命中时额外使目标增加1级{{BuffPro|Laceration}}强度<br>{{颜色|攻击前}}使自身增加相当于本技能硬币数的{{BuffPro|Combustion}}强度<br>{{颜色|攻击后}}使自身失去5点理智值<br>{{硬币|1}}{{BuffPro|SuperCoin}}<br>{{颜色|命中时}}对目标施加2层{{BuffPro|Laceration}}<br>{{颜色|命中时}}使目标的混乱阈值前移10<br>{{硬币|2}}{{BuffPro|SuperCoin}}<br>{{颜色|命中时}}使目标增加4级{{BuffPro|Combustion}}强度并对其施加2层{{BuffPro|Combustion}}<br>{{颜色|命中时}}若自身带有{{BuffPro|ReinforcedTattooSpiderOutis}}，则下回合对目标施加1层{{BuffPro|Binding}}与1层{{BuffPro|Paralysis}}(每回合最多1次)
+|2技能-图标=1111502
+|2技能-名称=别这样就被玩坏了！
+|2技能-类型=打击
+|2技能-罪孽=嫉妒
+|2技能-硬币数=3
+|2技能-修正值=+3
+|2技能-1阶技能威力=3
+|2技能-1阶硬币威力=+3
+|2技能-1阶={{颜色|使用时}}使本技能增加(最大共鸣数/2)级攻击等级(最多3级，向下取整)<br>{{颜色|使用时}}若自身的剑处于{{BuffPro|MiddleFatherSwordTwoOutis}}状态，则令本技能的硬币命中时额外施加相当于本技能基础{{BuffPro|Laceration}}施加量的{{BuffPro|Combustion}}<br>{{颜色|使用时}}下回合使本技能对应行动槽的{{BuffPro|Aggro}}+5<br>{{硬币|1}}{{颜色|命中时}}使目标增加1级{{BuffPro|Laceration}}强度<br>{{硬币|2}}{{颜色|命中时}}使目标增加1级{{BuffPro|Laceration}}强度<br>{{硬币|3}}{{颜色|命中时}}使目标增加1级{{BuffPro|Laceration}}强度
+|2技能-2阶=目标的{{BuffPro|Combustion}}强度与{{BuffPro|Laceration}}强度之和每有6级，使本技能的硬币威力+1(最多+2)<br>{{颜色|使用时}}使本技能增加(最大共鸣数/2)级攻击等级(最多3级，向下取整)<br>{{颜色|使用时}}若自身的剑处于{{BuffPro|MiddleFatherSwordTwoOutis}}状态，则令本技能的硬币命中时额外施加相当于本技能基础{{BuffPro|Laceration}}施加量的{{BuffPro|Combustion}}<br>{{颜色|使用时}}下回合使本技能对应行动槽的{{BuffPro|Aggro}}+5<br>{{硬币|1}}{{颜色|命中时}}使目标增加1级{{BuffPro|Laceration}}强度<br>{{颜色|命中时}}下回合对目标施加1层{{BuffPro|Binding}}(每回合最多1次)<br>{{硬币|2}}{{颜色|命中时}}使目标增加1级{{BuffPro|Laceration}}强度<br>{{硬币|3}}{{颜色|命中时}}使目标增加1级{{BuffPro|Laceration}}强度
+|2技能-3阶技能威力=3
+|2技能-3阶硬币威力=+4
+|2技能-3阶=目标的{{BuffPro|Combustion}}强度与{{BuffPro|Laceration}}强度之和每有6级，使本技能的硬币威力+1(最多+2)<br>{{颜色|使用前}}若自身的剑处于{{BuffPro|MiddleFatherSwordFourOutis}}状态，则改为使用“穿腹”<br>{{颜色|使用时}}使本技能增加(最大共鸣数/2)级攻击等级(最多3级，向下取整)<br>{{颜色|使用时}}若自身的剑处于{{BuffPro|MiddleFatherSwordTwoOutis}}或{{BuffPro|MiddleFatherSwordThreeOutis}}状态，则令本技能的硬币命中时额外施加相当于本技能基础{{BuffPro|Laceration}}施加量的{{BuffPro|Combustion}}<br>{{颜色|使用时}}下回合使本技能对应行动槽的{{BuffPro|Aggro}}+5<br>{{硬币|1}}{{颜色|命中时}}使目标增加1级{{BuffPro|Laceration}}强度<br>{{颜色|命中时}}下回合对目标施加1层{{BuffPro|Binding}}(每回合最多1次)<br>{{硬币|2}}{{颜色|命中时}}使目标增加1级{{BuffPro|Laceration}}强度<br>{{硬币|3}}{{颜色|命中时}}使目标增加1级{{BuffPro|Laceration}}强度<br>{{颜色|命中时}}若自身带有{{BuffPro|ReinforcedTattooSpiderOutis}}，则对目标造成本硬币最终伤害量(目标的{{BuffPro|Combustion}}强度与{{BuffPro|Laceration}}强度之和)%的打击伤害(最多20%)
+|2技能-4阶技能威力=4
+|2技能-4阶硬币威力=+4
+|2技能-4阶=目标的{{BuffPro|Combustion}}强度与{{BuffPro|Laceration}}强度之和每有6级，使本技能的硬币威力+1(最多+2)<br>{{颜色|使用前}}若自身的剑处于{{BuffPro|MiddleFatherSwordFourOutis}}状态，则改为使用“穿腹”<br>{{颜色|使用时}}使本技能增加(最大共鸣数/2)级攻击等级(最多3级，向下取整)<br>{{颜色|使用时}}从本技能的第3枚硬币起，使(自身的{{BuffPro|ReinforcedTattooSpiderOutis}}层数)枚硬币转化为{{BuffPro|SuperCoin}}<br>{{颜色|使用时}}若自身的剑处于{{BuffPro|MiddleFatherSwordTwoOutis}}或{{BuffPro|MiddleFatherSwordThreeOutis}}状态，则令本技能的硬币命中时额外施加相当于本技能基础{{BuffPro|Laceration}}施加量的{{BuffPro|Combustion}}<br>{{颜色|使用时}}下回合使本技能对应行动槽的{{BuffPro|Aggro}}+5<br>{{硬币|1}}{{颜色|命中时}}使目标增加1级{{BuffPro|Laceration}}强度<br>{{颜色|命中时}}下回合对目标施加1层{{BuffPro|Binding}}(每回合最多1次)<br>{{硬币|2}}{{颜色|命中时}}使目标增加1级{{BuffPro|Laceration}}强度<br>{{颜色|命中时}}下回合对目标施加1层{{BuffPro|Paralysis}}(每回合最多1次)<br>{{硬币|3}}{{颜色|命中时}}使目标增加1级{{BuffPro|Laceration}}强度<br>{{颜色|命中时}}若自身带有{{BuffPro|ReinforcedTattooSpiderOutis}}，则对目标造成本硬币最终伤害量(目标的{{BuffPro|Combustion}}强度与{{BuffPro|Laceration}}强度之和)%的打击伤害(最多20%)
+|更多2技能=1
+|强化2技能-图标=1111506
+|强化2技能-名称=穿腹[莱瓦汀]
+|强化2技能-类型=打击
+|强化2技能-罪孽=嫉妒
+|强化2技能-硬币数=5
+|强化2技能-修正值=+4
+|强化2技能-1阶技能威力=
+|强化2技能-1阶硬币威力=
+|强化2技能-1阶=（在同步阶段Ⅲ解锁）
+|强化2技能-2阶=（在同步阶段Ⅲ解锁）
+|强化2技能-3阶技能威力=2
+|强化2技能-3阶硬币威力=+3
+|强化2技能-3阶={{BuffPro|MiddleFatherSwordFourOutis}}专用技能<br>若目标的{{BuffPro|Combustion}}强度与{{BuffPro|Laceration}}强度之和不低于4级，则使本技能的最终威力+1<br>{{颜色|使用时}}使本技能增加(最大共鸣数/2)级攻击等级(最多3级，向下取整)<br>{{颜色|使用时}}下回合使本技能对应行动槽的{{BuffPro|Aggro}}+5<br>{{颜色|攻击前}}使自身增加相当于本技能硬币数的{{BuffPro|Combustion}}强度<br>{{颜色|攻击后}}使自身失去5点理智值<br>{{硬币|1}}{{BuffPro|SuperCoin}}<br>{{颜色|命中时}}使目标增加2级{{BuffPro|Combustion}}强度<br>{{硬币|2}}{{BuffPro|SuperCoin}}<br>{{颜色|命中时}}使目标增加2级{{BuffPro|Laceration}}强度<br>{{硬币|3}}{{BuffPro|SuperCoin}}<br>{{颜色|命中时}}对目标施加1层{{BuffPro|Combustion}}<br>{{硬币|4}}{{BuffPro|SuperCoin}}<br>{{颜色|命中时}}对目标施加2层{{BuffPro|Laceration}}<br>{{硬币|5}}{{BuffPro|SuperCoin}}<br>{{颜色|命中时}}下回合对目标施加1层{{BuffPro|Binding}}(每回合最多1次)
+|强化2技能-4阶技能威力=3
+|强化2技能-4阶硬币威力=+3
+|强化2技能-4阶={{BuffPro|MiddleFatherSwordFourOutis}}专用技能<br>若目标的{{BuffPro|Combustion}}强度与{{BuffPro|Laceration}}强度之和不低于4级，则使本技能的最终威力+1<br>{{颜色|使用时}}使本技能增加(最大共鸣数/2)级攻击等级(最多3级，向下取整)<br>{{颜色|使用时}}下回合使本技能对应行动槽的{{BuffPro|Aggro}}+5<br>{{颜色|攻击前}}使自身增加相当于本技能硬币数的{{BuffPro|Combustion}}强度<br>{{颜色|攻击后}}使自身失去5点理智值<br>{{硬币|1}}{{BuffPro|SuperCoin}}<br>{{颜色|命中时}}使目标增加4级{{BuffPro|Combustion}}强度<br>{{硬币|2}}{{BuffPro|SuperCoin}}<br>{{颜色|命中时}}使目标增加4级{{BuffPro|Laceration}}强度<br>{{硬币|3}}{{BuffPro|SuperCoin}}<br>{{颜色|命中时}}对目标施加1层{{BuffPro|Combustion}}<br>{{硬币|4}}{{BuffPro|SuperCoin}}<br>{{颜色|命中时}}对目标施加2层{{BuffPro|Laceration}}<br>{{硬币|5}}{{BuffPro|SuperCoin}}<br>{{颜色|命中时}}下回合对目标施加1层{{BuffPro|Binding}}与1层{{BuffPro|Paralysis}}(每回合最多1次)
+|3技能-图标=1111503
+|3技能-名称=仇怨重踏
+|3技能-类型=打击
+|3技能-罪孽=嫉妒
+|3技能-硬币数=4
+|3技能-修正值=+4
+|3技能-3阶技能威力=3
+|3技能-3阶硬币威力=+3
+|3技能-3阶=目标的{{BuffPro|Combustion}}强度与{{BuffPro|Laceration}}强度之和每有4级，使本技能的最终威力+1(最多+3)<br>{{颜色|使用前}}若自身的剑处于{{BuffPro|MiddleFatherSwordFourOutis}}状态，则改为使用“即刻处刑”<br>{{颜色|使用时}}使本技能增加(最大共鸣数)级攻击等级(最多6级)<br>{{颜色|使用时}}自身每带有1层{{BuffPro|ReinforcedTattooSpiderOutis}}，使本技能的最终威力+1(最多+3)<br>{{颜色|使用时}}若自身的剑处于{{BuffPro|MiddleFatherSwordTwoOutis}}或{{BuffPro|MiddleFatherSwordThreeOutis}}状态，则令本技能的硬币命中时额外施加相当于本技能基础{{BuffPro|Laceration}}施加量的{{BuffPro|Combustion}}<br>{{颜色|攻击后}}消耗自身所有{{BuffPro|ResentmentSpiderOutis}}<br>{{硬币|1}}{{颜色|命中时}}使目标增加2级{{BuffPro|Laceration}}强度<br>{{硬币|2}}{{颜色|命中时}}对目标施加1层{{BuffPro|Laceration}}<br>{{硬币|3}}{{颜色|命中时}}使目标增加2级{{BuffPro|Laceration}}强度<br>{{硬币|4}}{{BuffPro|SuperCoin}}<br>{{颜色|命中时}}对目标施加1层{{BuffPro|Laceration}}
+|3技能-4阶技能威力=4
+|3技能-4阶硬币威力=+3
+|3技能-4阶=目标的{{BuffPro|Combustion}}强度与{{BuffPro|Laceration}}强度之和每有4级，使本技能的最终威力+1(最多+3)<br>若嫉妒完全共鸣数不低于6，则使本技能的硬币威力+1<br>{{颜色|使用前}}若自身的剑处于{{BuffPro|MiddleFatherSwordFourOutis}}状态，则改为使用“即刻处刑”<br>{{颜色|使用时}}使本技能增加(最大共鸣数)级攻击等级(最多6级)<br>{{颜色|使用时}}自身每带有1层{{BuffPro|ReinforcedTattooSpiderOutis}}，使本技能的最终威力+1(最多+3)<br>{{颜色|使用时}}从本技能的第3枚硬币起，使(自身的{{BuffPro|ReinforcedTattooSpiderOutis}}层数)枚硬币转化为{{BuffPro|SuperCoin}}<br>{{颜色|使用时}}若自身的剑处于{{BuffPro|MiddleFatherSwordTwoOutis}}或{{BuffPro|MiddleFatherSwordThreeOutis}}状态，则令本技能的硬币命中时额外施加相当于本技能基础{{BuffPro|Laceration}}施加量的{{BuffPro|Combustion}}<br>{{颜色|攻击后}}消耗自身所有{{BuffPro|ResentmentSpiderOutis}}<br>{{颜色|攻击后}}若本技能以反击技能被使用，则下回合使自身获得1层{{BuffPro|HitDamageUp}}(每回合最多1次)<br>{{硬币|1}}{{颜色|命中时}}使目标增加3级{{BuffPro|Laceration}}强度<br>{{硬币|2}}{{颜色|命中时}}对目标施加1层{{BuffPro|Laceration}}<br>{{硬币|3}}{{颜色|命中时}}使目标增加2级{{BuffPro|Laceration}}强度<br>{{硬币|4}}{{BuffPro|SuperCoin}}<br>{{颜色|命中时}}对目标施加1层{{BuffPro|Laceration}}
+|5技能-图标=1111507
+|5技能-攻击容量=1
+|5技能-名称=即刻处刑[莱瓦汀]
+|5技能-类型=打击
+|5技能-罪孽=嫉妒
+|5技能-硬币数=5
+|5技能-修正值=+5
+|5技能-3阶技能威力=3
+|5技能-3阶硬币威力=+3
+|5技能-3阶={{BuffPro|MiddleFatherSwordFourOutis}}专用技能<br>目标的{{BuffPro|Combustion}}强度与{{BuffPro|Laceration}}强度之和每有4级，使本技能的最终威力+1(最多+3)<br>目标的{{BuffPro|Combustion}}强度与{{BuffPro|Laceration}}强度之和每有1级，使本技能造成的伤害+1%(最多+20%)<br>{{颜色|使用时}}使本技能增加(最大共鸣数)级攻击等级(最多+6)<br>{{颜色|使用时}}若自身带有{{BuffPro|ReinforcedTattooSpiderOutis}}，则使本技能的硬币威力+1<br>{{颜色|攻击前}}使自身增加相当于本技能硬币数的{{BuffPro|Combustion}}强度<br>{{颜色|攻击后}}使自身失去5点理智值<br>{{颜色|攻击后}}消耗自身所有{{BuffPro|ResentmentSpiderOutis}}<br>{{硬币|1}}{{BuffPro|SuperCoin}}<br>{{颜色|命中时}}使目标增加2级{{BuffPro|Combustion}}强度<br>{{硬币|2}}{{BuffPro|SuperCoin}}<br>{{颜色|命中时}}对目标施加2层{{BuffPro|Combustion}}<br>{{硬币|3}}{{BuffPro|SuperCoin}}<br>{{颜色|命中时}}使目标增加2级{{BuffPro|Laceration}}强度<br>{{硬币|4}}{{BuffPro|SuperCoin}}<br>{{颜色|命中时}}对目标施加2层{{BuffPro|Laceration}}<br>{{硬币|5}}{{BuffPro|SuperCoin}}<br>{{颜色|命中时}}对目标造成本硬币最终伤害量(目标的{{BuffPro|Combustion}}强度与{{BuffPro|Laceration}}强度之和)%的突刺伤害(最多25%)<br>{{颜色|命中时}}对目标造成本硬币最终伤害量(目标的{{BuffPro|Combustion}}强度与{{BuffPro|Laceration}}强度之和)%的打击伤害(最多25%)
+|5技能-4阶技能威力=4
+|5技能-4阶硬币威力=+3
+|5技能-4阶={{BuffPro|MiddleFatherSwordFourOutis}}专用技能<br>目标的{{BuffPro|Combustion}}强度与{{BuffPro|Laceration}}强度之和每有4级，使本技能的最终威力+1(最多+3)<br>目标的{{BuffPro|Combustion}}强度与{{BuffPro|Laceration}}强度之和每有1级，使本技能造成的伤害+1%(最多+40%)<br>{{颜色|使用时}}使本技能增加(最大共鸣数)级攻击等级(最多+6)<br>{{颜色|使用时}}若自身带有{{BuffPro|ReinforcedTattooSpiderOutis}}，则使本技能的硬币威力+1<br>{{颜色|使用时}}若自身带有{{BuffPro|ReinforcedTattooSpiderOutis}}，则令本技能的硬币命中时额外使目标增加1级{{BuffPro|Laceration}}强度<br>{{颜色|攻击前}}使自身增加相当于本技能硬币数的{{BuffPro|Combustion}}强度<br>{{颜色|攻击后}}使自身失去5点理智值<br>{{颜色|攻击后}}消耗自身所有{{BuffPro|ResentmentSpiderOutis}}<br>{{颜色|攻击后}}若本技能以反击技能被使用，则下回合使自身获得1层{{BuffPro|HitDamageUp}}(每回合最多1次) <br>{{硬币|1}}{{BuffPro|SuperCoin}}<br>{{颜色|命中时}}使目标增加4级{{BuffPro|Combustion}}强度<br>{{硬币|2}}{{BuffPro|SuperCoin}}<br>{{颜色|命中时}}对目标施加2层{{BuffPro|Combustion}}<br>{{硬币|3}}{{BuffPro|SuperCoin}}<br>{{颜色|命中时}}使目标增加4级{{BuffPro|Laceration}}强度<br>{{颜色|命中时}}对目标造成本硬币最终伤害量(目标的{{BuffPro|Combustion}}强度与{{BuffPro|Laceration}}强度之和×2)%的斩击伤害(最多50%)<br>{{硬币|4}}{{BuffPro|SuperCoin}}<br>{{颜色|命中时}}对目标施加2层{{BuffPro|Laceration}}<br>{{颜色|命中时}}对目标造成本硬币最终伤害量(目标的{{BuffPro|Combustion}}强度与{{BuffPro|Laceration}}强度之和×2)%的斩击伤害(最多50%)<br>{{硬币|5}}{{BuffPro|SuperCoin}}<br>{{颜色|命中时}}对目标造成本硬币最终伤害量(目标的{{BuffPro|Combustion}}强度与{{BuffPro|Laceration}}强度之和)%的突刺伤害(最多25%)<br>{{颜色|命中时}}对目标造成本硬币最终伤害量(目标的{{BuffPro|Combustion}}强度与{{BuffPro|Laceration}}强度之和)%的打击伤害(最多25%)
+|强化3技能2-图标=1111508
+|强化3技能2-罪孽=嫉妒
+|强化3技能2-名称=拆开包装吧
+|强化3技能2-类型=打击
+|强化3技能2-硬币数=4
+|强化3技能2-攻击容量=1
+|强化3技能2-修正值=+4
+|强化3技能2-1阶技能威力=4
+|强化3技能2-1阶硬币威力=+3
+|强化3技能2-1阶=本技能不会因外部效果而重复使用<br>{{颜色|攻击后}}使自身当前的剑转化为下一状态<br>{{硬币|1}}{{BuffPro|SuperCoin}}<br>{{颜色|命中时}}使目标增加3级{{BuffPro|Combustion}}强度<br>{{硬币|2}}{{BuffPro|SuperCoin}}<br>{{颜色|命中时}}使目标增加3级{{BuffPro|Laceration}}强度<br>{{硬币|3}}{{BuffPro|SuperCoin}}<br>{{颜色|命中时}}使目标的混乱阈值前移10<br>{{硬币|4}}{{BuffPro|SuperCoin}}<br>{{颜色|命中时}}下回合对目标施加2层{{BuffPro|VioletTakeDamageUp}}
+|强化3技能2-3阶技能威力=4
+|强化3技能2-3阶硬币威力=+3
+|强化3技能2-3阶=本技能不会因外部效果而重复使用<br>{{颜色|使用时}}若自身带有{{BuffPro|ReinforcedTattooSpiderOutis}}，则使本技能的硬币命中时对目标造成(该硬币最终伤害量25%)点斩击伤害<br>{{颜色|攻击后}}使自身当前的剑转化为下一状态<br>{{硬币|1}}{{BuffPro|SuperCoin}}<br>{{颜色|命中时}}使目标增加3级{{BuffPro|Combustion}}强度<br>{{硬币|2}}{{BuffPro|SuperCoin}}<br>{{颜色|命中时}}使目标增加3级{{BuffPro|Laceration}}强度<br>{{硬币|3}}{{BuffPro|SuperCoin}}<br>{{颜色|命中时}}使目标的混乱阈值前移10<br>{{硬币|4}}{{BuffPro|SuperCoin}}<br>{{颜色|命中时}}下回合对目标施加2层{{BuffPro|VioletTakeDamageUp}}
+|强化3技能2-4阶技能威力=4
+|强化3技能2-4阶硬币威力=+3
+|强化3技能2-4阶=本技能不会因外部效果而重复使用<br>{{颜色|使用时}}若自身带有{{BuffPro|ReinforcedTattooSpiderOutis}}，则使本技能的硬币命中时对目标造成(该硬币最终伤害量25%)点斩击伤害<br>{{颜色|攻击后}}使自身当前的剑转化为下一状态<br>{{硬币|1}}{{BuffPro|SuperCoin}}<br>{{颜色|命中时}}使目标增加3级{{BuffPro|Combustion}}强度<br>{{硬币|2}}{{BuffPro|SuperCoin}}<br>{{颜色|命中时}}使目标增加3级{{BuffPro|Laceration}}强度<br>{{硬币|3}}{{BuffPro|SuperCoin}}<br>{{颜色|命中时}}使目标的混乱阈值前移10<br>{{硬币|4}}{{BuffPro|SuperCoin}}<br>{{颜色|命中时}}下回合对目标施加2层{{BuffPro|VioletTakeDamageUp}}
+|强化3技能3-图标=1111509
+|强化3技能3-罪孽=嫉妒
+|强化3技能3-名称=永不遗忘闺女为家人牺牲的心意，我会如数奉还
+|强化3技能3-类型=打击
+|强化3技能3-硬币数=1
+|强化3技能3-攻击容量=2
+|强化3技能3-修正值=+4
+|强化3技能3-3阶技能威力=16
+|强化3技能3-3阶硬币威力=+2
+|强化3技能3-3阶={{BuffPro|MiddleFatherSwordFourOutis}}专用技能<br>{{颜色|无法拼点}}<br>{{颜色|无法改变目标}}<br>本技能不会因外部效果而重复使用，且不会触发守备技能<br>主要目标的{{BuffPro|Combustion}}强度与{{BuffPro|Laceration}}强度之和每有4级，使本技能的最终威力+1(最多+3)<br>{{颜色|使用时}}自身每带有1层{{BuffPro|ReinforcedTattooSpiderOutis}}，使本技能的最终威力+1，造成的伤害+10%(最多+3；最多+100%)<br>{{颜色|使用时}}若攻击目标包括蜘蛛巢 中指 子辈 以实玛利，则使本技能造成的伤害+100%<br>{{颜色|攻击后}}消耗自身所有{{BuffPro|ResentmentSpiderOutis}}并使自身获得5层{{BuffPro|ResentmentSpiderOutis}}<br>{{颜色|攻击后}}若指定为攻击目标的友方单位阵亡，则使自身获得10层{{BuffPro|ResentmentSpiderOutis}}<br>{{硬币|1}}{{BuffPro|SuperCoin}}<br>若目标的打击抗性低于一般(1.0)，则视作一般(1.0)<br>{{颜色|命中时}}使目标增加3级{{BuffPro|Combustion}}强度并对其施加2层{{BuffPro|Combustion}}<br>{{颜色|命中时}}使目标增加3级{{BuffPro|Laceration}}强度并对其施加2层{{BuffPro|Laceration}}<br>{{颜色|命中时}}对目标造成本硬币最终伤害量100%的打击伤害
+|强化3技能3-4阶技能威力=16
+|强化3技能3-4阶硬币威力=+2
+|强化3技能3-4阶={{BuffPro|MiddleFatherSwordFourOutis}}专用技能<br>{{颜色|无法拼点}}<br>{{颜色|无法改变目标}}<br>本技能不会因外部效果而重复使用，且不会触发守备技能<br>主要目标的{{BuffPro|Combustion}}强度与{{BuffPro|Laceration}}强度之和每有4级，使本技能的最终威力+1(最多+3)<br>{{颜色|使用时}}自身每带有1层{{BuffPro|ReinforcedTattooSpiderOutis}}，使本技能的最终威力+1，造成的伤害+10%(最多+3；最多+100%)<br>{{颜色|使用时}}若攻击目标包括蜘蛛巢 中指 子辈 以实玛利，则使本技能造成的伤害+100%<br>{{颜色|攻击后}}消耗自身所有{{BuffPro|ResentmentSpiderOutis}}并使自身获得5层{{BuffPro|ResentmentSpiderOutis}}<br>{{颜色|攻击后}}若指定为攻击目标的友方单位阵亡，则使自身获得10层{{BuffPro|ResentmentSpiderOutis}}<br>{{硬币|1}}{{BuffPro|SuperCoin}}<br>若目标的打击抗性低于一般(1.0)，则视作一般(1.0)<br>{{颜色|命中时}}使目标增加3级{{BuffPro|Combustion}}强度并对其施加2层{{BuffPro|Combustion}}<br>{{颜色|命中时}}使目标增加3级{{BuffPro|Laceration}}强度并对其施加2层{{BuffPro|Laceration}}<br>{{颜色|命中时}}对目标造成本硬币最终伤害量100%的打击伤害
+|4技能-图标=1111504
+|4技能-名称=犯规
+|类型=攻击
+|4技能-类型=打击
+|4技能-罪孽=嫉妒
+|4技能-硬币数=2
+|4技能-修正值=+3
+|4技能-3阶技能威力=4
+|4技能-3阶硬币威力=+4
+|4技能-3阶={{颜色|战斗开始}}使自身获得已失去体力15%的护盾(每回合最多1次)<br>{{硬币|1}}{{颜色|命中时}}使目标增加2级{{BuffPro|Laceration}}强度<br>{{硬币|2}}{{颜色|命中时}}使自身的混乱阈值后移5
+|4技能-4阶技能威力=4
+|4技能-4阶硬币威力=+6
+|4技能-4阶={{颜色|战斗开始}}若嫉妒完全共鸣数总计不低于6，则反击时改为使用“仇怨重踏”或“即刻处刑”进行反击(仪表盘上位于左侧的技能优先触发，每回合最多触发2次)<br>{{颜色|战斗开始}}使自身获得已失去体力30%的护盾(每回合最多1次)<br>{{硬币|1}}{{颜色|命中时}}使目标增加2级{{BuffPro|Laceration}}强度<br>{{硬币|2}}{{颜色|命中时}}使自身的混乱阈值后移10
+}}
+===被动===
+{{人格被动链接|1111502}}
+{{人格被动链接|1111503}}
+{{人格被动链接|1111504}}
+{{人格被动链接|1111505}}
+{{人格被动链接|1111506}}
+{{人格被动链接|1111501}}
+{{人格被动链接|1111521}}
+==人格相关信息==
+{{人物筛选|picture=剧情头像-马蒂亚斯|page=马蒂亚斯|organize=中指 父辈|name=马蒂亚斯}}
+#该人格存在特殊[[人格剧情CG]]
+#该人格的三技能{{罪孽颜色|嫉妒|仇怨重踏}}与强化技能{{罪孽颜色|嫉妒|即刻处刑[莱瓦汀]}}拥有特殊拼点胜利动画；特殊技能{{罪孽颜色|嫉妒|拆开包装吧}}拥有特殊技能结束动画。
+#该人格每次使用特殊技能{{罪孽颜色|嫉妒|拆开包装吧}}时，将在本技能攻击后转换自身形态（武器解除一道封印），第一次使用本技能时{{罪孽颜色|嫉妒|莱瓦汀的剑鞘}}会被甩飞出去，第二次使用本技能时还会触发{{罪孽颜色|嫉妒|抬起墨镜动画}}。
+#随着该人格武器的逐步解封，自身的二技能{{罪孽颜色|嫉妒|别这样就被玩坏了！}}的攻击动作将越来越迅速，在武器解封为{{BuffPro|MiddleFatherSwordTwoOutis}}及后续解封阶段使用本技能时的攻击特效将追加{{罪孽颜色|暴怒|高温灼烧特效}}。
+#战斗中，当该人格触发战斗被动“封印之剑[莱瓦汀]”的解除混乱效果时，将触发{{罪孽颜色|嫉妒|武器挥舞动画}}。
+#战斗中，若该人格带有{{BuffPro|MiddleFatherSwordFourOutis}}，则全场所有单位模型均会出现{{罪孽颜色|暴怒|热浪灼烧特效}}，守备技能{{罪孽颜色|嫉妒|犯规}}还会获得全新的攻击动作。
+#战斗中，若该人格带有不低于5层{{BuffPro|ResentmentSpiderOutis}}，则自身模型将出现{{罪孽颜色|嫉妒|收缩}}特效，且在此状态下使用{{罪孽颜色|嫉妒|仇怨重踏}}和{{罪孽颜色|嫉妒|即刻处刑[莱瓦汀]}}时（包括反击转化后的对应技能），自身模型还会额外出现{{罪孽颜色|嫉妒|能量喷发特效}}。
+#战斗中，若该人格带有{{BuffPro|ReinforcedTattooSpiderOutis}}，则自身模型将出现{{罪孽颜色|嫉妒|紫色符文与电流特效}}。
+#战斗中，若该人格带有{{BuffPro|MiddleFatherGutsOutis}}，则自身模型将出现{{color|#FFFFFF|黑雾特效}}。
+#战斗中，若该人格带有{{BuffPro|DaughterEducationSpiderOutis}}，则自身模型上将出现{{罪孽颜色|怠惰|夸赞声特效动画}}。
+
+==预览==
+===演示===
+{{RichTab
+|prefix=2
+|闲置
+|
+<gallery>
+11115idle_f1_l3_b.png
+11115idle_f1_l1_p1.png
+11115idle_f1_l2_p2.png
+11115idle_f1_l4_p3.png
+11115dmg f1 l5 p4.png
+11115idle_f1_l6_p5.png
+11115idle_f1_l7_p6.png
+</gallery>
+|移动
+|
+<gallery>
+11115move_f1_l3_b.png
+11115move_f1_l1_p1.png
+11115move_f1_l2_p2.png
+11115move_f1_l4_p3.png
+11115move_f1_l5_p4.png
+11115move_f1_l6_p5.png
+11115move_f1_l7_p6.png
+</gallery>
+|闪避
+|
+<gallery>
+11115miss_f1_l3_b.png
+11115miss_f1_l1_p1.png
+11115miss_f1_l2_p2.png
+11115miss_f1_l4_p3.png
+11115miss_f1_l5_p4.png
+11115miss_f1_l6_p5.png
+11115miss_f1_l7_p6.png
+</gallery>
+|受伤
+|
+<gallery>
+11115dmg_f1_l3_b.png
+11115dmg_f1_l1_p1.png
+11115dmg_f1_l2_p2.png
+11115dmg_f1_l4_p3.png
+11115dmg_f1_l5_p4.png
+11115dmg_f1_l6_p5.png
+11115dmg_f1_l7_p6.png
+</gallery>
+|防御
+|
+<gallery>
+11115gud_f1_l7_b.png
+11115gud_f1_l5_p1.png
+11115gud_f1_l6_p2.png
+11115gud_f1_l1_p3.png
+11115gud_f1_l2_p4.png
+11115gud_f1_l3_p5.png
+11115gud_f1_l4_p6.png
+</gallery>
+|动态
+|
+<gallery>
+11115skill1.gif
+11115skill2.gif
+11115skill3.gif
+11115skill3.gif
+middlefinger_father_outis-head_off-animation.gif
+middlefinger_father_outis-head_on-animation.gif
+</gallery>
+}}
+{{#html:Personalitygif2|{"1":"170","2":"https://huiji-public.huijistatic.com/limbuscompany/uploads/b/bf/Middlefinger_father_outis-head_off-animation.gif","3":"https://huiji-public.huijistatic.com/limbuscompany/uploads/c/c4/Middlefinger_father_outis-head_on-animation.gif"} }}
+
+===语音台词===
+{{语音台词|
+|角色=11115
+|格式=2
+|获得时=闺女！还记得老妈跟你说过的吧？要是有什么让你不顺心的！随时告诉我！
+|早间问候=闺女。今天有空吧？收尾人影片……那些先录下来等之后再看也行吧？
+嗯……今天要一起玩的游戏是兵棋推演。为了老妈执行结束回来的时候可以立刻玩上，你能先准备好棋子和地图的吧？哈哈哈！不错。不愧是我家闺女。
+|午间问候=积攒了挺久的作业居然又要我一个人处理，麻烦归麻烦，不过和闺女一起的话也能稍微轻松点。看样子能早点结束。
+嗯……闺女想要的收尾人杂志和漫画都准备好了，给生病的闺女准备的水果有这么多应该也够了……呼。我眼前都能浮现出她那高兴的模样了。
+|晚间问候=……老妈还没睡呢。
+哎呦。你说有想看的收尾人直播？嗯。等老妈把现在看的都看完，闺女就能看你想看的了。大概1个小时就能结束了，可以吧？
+|对话 1=卑鄙吗。看样子那家伙从来没提起过我啊。难道你以为中指会像Cinq协会那样一对一决斗吗？
+哈哈哈！真可惜啊！我可是更喜欢这样局势混沌的乱战啊！
+|对话 2=那是碎铁。虽然腿部零件有些独特，但也是钢铁军团系列之一。这是软铁。当然也是钢铁军团之一。
+……闺女，我记得我有说过，虽然陨铁看上去像是钢铁军团的，也曾经被叫做钢铁军团，但并不是钢铁军团。唉……放到对面的架子上去。
+|对话 3=南部那儿棘手的仇怨未免有些太多了吧？有些貌似完全可以当做功课了。
+……看样子是因为那件事，导致完全找不到能进行忠义巡礼的人才了啊。哈。没办法。为了家人，只能由我这大姐出马了。
+|同步后对话 1=嗯……没有物证吧。我的证言……应该也没有前后矛盾的地方。即使如此……还是要怀疑我吗？
+哈。说得也是。区区一些怀疑又能怎样？这把传说之剑……已经握在我手中了。
+|同步后对话 2=对家人而言，只要是为了其他家人，就算自己稍微牺牲一点也不会感到痛苦。
+既然我如此真诚地对待家人，那么理所当然，不管是大哥、大姐、弟弟妹妹们还是闺女，都能为了我欣然接受少许的牺牲吧？毕竟那就是……忠义啊。
+|闲置=一、二、三……啧。真是有够吝啬的。再怎么说我也是他们的长姊，起码要给够十张才对吧。
+|进行同步=……做得好，闺女！
+|人格出战=我看看。根据蜘蛛巢特别条款……
+|进入战斗=不用看都知道要处刑！
+|战斗中选中人格=不祥的声音……让我有种不好的预感。不要放松警惕。
+|进行攻击=那里可是杀戮地带！
+|敌方混乱=就准备了这点花招吗？
+|陷入混乱=哈哈！我好久没这样呼吸困难了！
+|击杀敌方=那么，结束了！
+|友方阵亡=……我的剑……不会让你拿走……绝对不会……
+|判定成功=呵。所以说力气够就不用让脑袋受苦了。
+|判定失败=在都市里稍微犯点小错没什么大不了的。
+|战斗胜利=最后那招可真没品味。早知道你会用那么拙劣的战术，我都不会陪你玩。
+到此为止吧。我有些无聊了。
+|EX CLEAR战斗胜利=哈哈哈哈哈！怎么样，闺女？果然老妈最棒了吧？
+|战斗失败=这种花招有些卑鄙吧？啧。我现在很忙，这次就先写在账簿上吧。
+你这家伙……别因为这样就得寸进尺。
+}}
+===技能语音===
+<div class="mw-collapsible">
+<div class="mw-collapsible-content">
+{| class="wikitable" style="width: 100%"
+|-
+|width="105px"|技能一-1
+|width="75px"|[[文件:battle_s1_11115_1-01.ogg|50px]]
+|width="75px"|[[文件:battle_s1_11115_1-02.ogg|50px]]
+|width="75px"|[[文件:battle_s1_11115_1-03.ogg|50px]]
+|width="75px"|[[文件:battle_s1_11115_1-04.ogg|50px]]
+|width="75px"|[[文件:battle_s1_11115_1-05.ogg|50px]]
+|width="75px"|[[文件:battle_s1_11115_1-06.ogg|50px]]
+|width="75px"|[[文件:battle_s1_11115_1-07.ogg|50px]]
+|-
+||技能二-1
+||[[文件:battle_s2_11115_1_1-01.ogg|50px]]
+||[[文件:battle_s2_11115_1_1-02.ogg|50px]]
+||[[文件:battle_s2_11115_1_1-03.ogg|50px]]
+|-
+|技能二-2
+||[[文件:battle_s2_11115_1_2-01.ogg|50px]]
+||[[文件:battle_s2_11115_1_2-02.ogg|50px]]
+||[[文件:battle_s2_11115_1_2-03.ogg|50px]]
+|-
+|技能二-3
+||[[文件:battle_s2_11115_1_3-01.ogg|50px]]
+||[[文件:battle_s2_11115_1_3-02.ogg|50px]]
+||[[文件:battle_s2_11115_1_3-03.ogg|50px]]
+|-
+||技能三-1
+||[[文件:battle_s3_11115_1_1.ogg|50px]]
+|colspan="10" style="text-align: left;"|已经！
+|-
+||
+||[[文件:battle_s3_11115_1_2.ogg|50px]]
+|colspan="10" style="text-align: left;"|玩！
+|-
+||
+||[[文件:battle_s3_11115_1_3.ogg|50px]]
+|colspan="10" style="text-align: left;"|腻了！
+||
+|}
+</div></div>
+
+===特殊语音===
+*此翻译由wiki成员制作
+{| class="wikitable" style="width: 100%"
+|width="55px"|[[文件:battle_special_11115_1.ogg|50px]]||使用反击技能 犯规 时触发
+|-style="color:#E5CAA5"
+|| ||给我过来！
+|-
+|width="55px"|[[文件:battle_special_11115_2_1.ogg|50px]]||使用强化二技能 穿腹[莱瓦汀] 第1币时触发<!--气泡文本中不存在-->
+|-style="color:#E5CAA5"
+|| ||哈哈…！
+|-
+|width="55px"|[[文件:battle_special_11115_2_2.ogg|50px]]||使用强化二技能 穿腹[莱瓦汀] 第2币时触发
+|-style="color:#E5CAA5"
+|| ||这会很烫的！
+|-
+|width="55px"|[[文件:battle_special_11115_2_3.ogg|50px]]||使用强化二技能 穿腹[莱瓦汀] 第5币时触发
+|-style="color:#E5CAA5"
+|| ||非常烫！
+|-
+|width="55px"|[[文件:battle_special_11115_3.ogg|50px]]||使用强化三技能 即刻处刑[莱瓦汀] 第5币时触发 
+|-style="color:#E5CAA5"
+|| ||正中靶心啊！
+|-
+|width="55px"|[[文件:battle_special_11115_4.ogg|50px]]||第一次使用解放技能 拆开包装吧 时触发
+|-style="color:#E5CAA5"
+|| ||都做到这个份上了，那也该拆开一层包装纸了！
+|-
+|width="55px"|[[文件:battle_special_11115_5.ogg|50px]]||第二次使用解放技能 拆开包装吧 时触发
+|-style="color:#E5CAA5"
+|| ||哈哈哈！有趣！
+|-
+|width="55px"|[[文件:battle_special_11115_6.ogg|50px]]||第三次使用解放技能 拆开包装吧 时触发
+|-style="color:#E5CAA5"
+|| ||睁大眼睛看清楚了！
+|-
+|width="55px"|[[文件:battle_special_11115_7.ogg|50px]]||{{BuffPro|ResentmentSpiderOutis}}到达15层时触发
+|-style="color:#E5CAA5"
+|| ||哈。看来都不用打开账簿了。
+|-
+|width="55px"|[[文件:battle_special_11115_8.ogg|50px]]||每回合[[以实玛利蜘蛛巢中指子辈]]第一次获得{{BuffPro|GotAComplimentIshmael}}时触发
+|-style="color:#E5CAA5"
+|| ||没错！就是这样，闺女！
+|-
+|width="55px"|[[文件:battle_special_11115_9.ogg|50px]]||使用技能三-4 永不遗忘闺女为家人牺牲的心意，我会如数奉还 时若次要目标为[[以实玛利蜘蛛巢中指子辈]]则触发
+|-style="color:#E5CAA5"
+|| ||闺女，记得吗？家人之间，为了彼此牺牲也不会痛苦！
+|-
+|width="55px"|[[文件:battle_special_11115_10_1-01.ogg|50px]]||使用技能三-4 永不遗忘闺女为家人牺牲的心意，我会如数奉还 时触发 1<!--气泡文本中不存在-->
+|-style="color:#E5CAA5"
+|| ||呃！
+|-
+|width="55px"|[[文件:battle_special_11115_10_1-02.ogg|50px]]||使用技能三-4 永不遗忘闺女为家人牺牲的心意，我会如数奉还 时触发 2<!--气泡文本中不存在-->
+|-style="color:#E5CAA5"
+|| ||哈啊！
+|-
+|width="55px"|[[文件:battle_special_11115_10_2-03.ogg|50px]]||使用技能三-4 永不遗忘闺女为家人牺牲的心意，我会如数奉还 时次要目标非[[以实玛利蜘蛛巢中指子辈]]则触发
+|-style="color:#E5CAA5"
+|| ||这都是为了家人！
+|}
+
+===音效===
+{| class="wikitable" style="width: 100%"
+|width="75px"|其他
+|width="75px"|[[文件:middleoutis_ad1.ogg|50px]]
+|width="75px"|[[文件:middleoutis_ad2.ogg|50px]]
+|width="75px"|[[文件:middleoutis_ad3.ogg|50px]]
+|[[文件:middleoutis_ad4.ogg|50px]]
+|-
+|}
+*该人格大部分的技能音效为[[敌方单位/1327|中指父辈-马蒂亚斯]]的音效复用，可前往页面[[敌方单位/1327#音效|中指父辈-马蒂亚斯]]查看。
+
+==导航==
+{{奥提斯人格导航}}{{镜像世界人格导航|11115}}
+{{人格导航}}

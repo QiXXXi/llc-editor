@@ -1,0 +1,86 @@
+{{EGO（上）|{{PAGENAME}}}}{{#html:Personalitygif|{"1":"https://huiji-public.huijistatic.com/limbuscompany/uploads/a/a0/20909idle.gif","2":"230"} }}
+==升阶属性==
+{{EGO技能链接
+|类型=E.G.O觉醒
+|名称=步入晚霞
+|硬币数=1
+|理智值消耗=20
+|修正值=-1
+|图片=20909
+|攻击属性=打击
+|罪孽属性=色欲
+|基础值1=15
+|变动值1=+7
+|攻击容量1=3
+|效果1={{颜色|攻击后}}使现存体力比例最低的2名友方单位恢复其体力上限5%的体力并使其获得2层{{BuffPro|ScarletMothRodion}}(最低体力恢复量：1)<br>- 额外使(色欲共鸣数-1)名友方单位恢复(最多额外2名)<br>{{硬币|1}}{{颜色|命中时}}使目标增加2级{{BuffPro|Combustion}}强度<br>{{颜色|命中时}}使目标增加2级{{BuffPro|Laceration}}强度
+|基础值3=16
+|变动值3=+7
+|攻击容量3=3
+|效果3={{颜色|使用时}}全体目标的{{BuffPro|Combustion}}强度与{{BuffPro|Laceration}}强度之和每有6级，使本技能的拼点威力+1(最多+2)<br>{{颜色|攻击后}}使现存体力比例最低的2名友方单位恢复其体力上限8%的体力并使其获得2层{{BuffPro|ScarletMothRodion}}(最低体力恢复量：1)<br>- 额外使(色欲共鸣数-1)名友方单位恢复(最多额外2名)<br>- 若恢复的目标装备了色欲技能，则使其恢复3点理智值<br>{{硬币|1}}{{颜色|命中时}}使目标增加3级{{BuffPro|Combustion}}强度<br>{{颜色|命中时}}使目标增加3级{{BuffPro|Laceration}}强度
+|基础值4=16
+|变动值4=+8
+|攻击容量4=3
+|效果4={{颜色|使用时}}全体目标的{{BuffPro|Combustion}}强度与{{BuffPro|Laceration}}强度之和每有6级，使本技能的拼点威力+1(最多+2)<br>{{颜色|攻击后}}使现存体力比例最低的2名友方单位恢复其体力上限10%的体力并使其获得2层{{BuffPro|ScarletMothRodion}}(最低体力恢复量：1)<br>- 额外使(色欲共鸣数-1)名友方单位恢复(最多额外2名)<br>- 若恢复的目标装备了色欲技能，则使其恢复6点理智值<br>{{硬币|1}}{{颜色|命中时}}使目标增加3级{{BuffPro|Combustion}}强度<br>{{颜色|命中时}}使目标增加3级{{BuffPro|Laceration}}强度<br>{{颜色|硬币攻击结束时}}下回合对命中的目标施加1层{{BuffPro|CrimsonTakeDamageUp}}与1层{{BuffPro|ScarletTakeDamageUp}}
+}}
+{{EGO技能链接
+|类型=E.G.O侵蚀
+|名称=步入晚霞
+|硬币数=2
+|理智值消耗=20
+|修正值=+0
+|图片=20909
+|攻击属性=打击
+|罪孽属性=色欲
+|基础值1=22
+|变动值1=-6
+|攻击容量1=3
+|效果1={{颜色|无差别攻击}}<br>随机指定目标<br>{{颜色|攻击前}}全体目标的{{BuffPro|Combustion}}强度与{{BuffPro|Laceration}}强度之和每有4级，使本技能造成的伤害+5%(最多+15%)<br>{{颜色|攻击前}}本技能每有1枚硬币被摧毁，使本技能的基础威力-6(最多-12)<br>{{颜色|攻击后}}随机使友方单位获得1层{{BuffPro|ScarletMothRodion}}，触发3次<br>{{硬币|1}}{{BuffPro|SuperCoin}}<br>{{颜色|命中时}}使目标增加1级{{BuffPro|Combustion}}强度<br>{{颜色|命中时}}对目标施加1层{{BuffPro|Combustion}}<br>{{颜色|硬币攻击结束时}}下回合对命中的目标施加1层{{BuffPro|CrimsonTakeDamageUp}}(每回合最多1次)<br>{{硬币|2}}{{BuffPro|SuperCoin}}<br>{{颜色|命中时}}使目标增加1级{{BuffPro|Laceration}}强度<br>{{颜色|命中时}}对目标施加1层{{BuffPro|Laceration}}<br>{{颜色|硬币攻击结束时}}下回合对命中的目标施加1层{{BuffPro|ScarletTakeDamageUp}}(每回合最多1次)
+|基础值3=24
+|变动值3=-6
+|攻击容量3=3
+|效果3={{颜色|无差别攻击}}<br>随机指定目标<br>{{颜色|攻击前}}全体目标的{{BuffPro|Combustion}}强度与{{BuffPro|Laceration}}强度之和每有4级，使本技能造成的伤害+5%(最多+15%)<br>- 若激活了暴怒完全共鸣或色欲完全共鸣，则使本技能造成的伤害额外+10%<br>{{颜色|攻击前}}本技能每有1枚硬币被摧毁，使本技能的基础威力-6(最多-12)<br>{{颜色|攻击后}}随机使友方单位获得1层{{BuffPro|ScarletMothRodion}}，触发4次<br>{{硬币|1}}{{BuffPro|SuperCoin}}<br>{{颜色|命中时}}使目标增加2级{{BuffPro|Combustion}}强度<br>{{颜色|命中时}}对目标施加1层{{BuffPro|Combustion}}<br>{{颜色|硬币攻击结束时}}下回合对命中的目标施加1层{{BuffPro|CrimsonTakeDamageUp}}(每回合最多1次)<br>{{硬币|2}}{{BuffPro|SuperCoin}}<br>{{颜色|命中时}}使目标增加2级{{BuffPro|Laceration}}强度<br>{{颜色|命中时}}对目标施加1层{{BuffPro|Laceration}}<br>{{颜色|硬币攻击结束时}}下回合对命中的目标施加1层{{BuffPro|ScarletTakeDamageUp}}(每回合最多1次)
+|基础值4=24
+|变动值4=-5
+|攻击容量4=3
+|效果4={{颜色|无差别攻击}}<br>随机指定目标<br>{{颜色|攻击前}}全体目标的{{BuffPro|Combustion}}强度与{{BuffPro|Laceration}}强度之和每有4级，使本技能造成的伤害+10%(最多+30%)<br>- 若激活了暴怒完全共鸣或色欲完全共鸣，则使本技能造成的伤害额外+20%<br>{{颜色|攻击前}}本技能每有1枚硬币被摧毁，使本技能的基础威力-5(最多-10)<br>{{颜色|攻击后}}随机使友方单位获得1层{{BuffPro|ScarletMothRodion}}，触发5次<br>{{硬币|1}}{{BuffPro|SuperCoin}}<br>{{颜色|命中时}}使目标增加2级{{BuffPro|Combustion}}强度<br>{{颜色|命中时}}对目标施加2层{{BuffPro|Combustion}}<br>{{颜色|硬币攻击结束时}}下回合对命中的目标施加1层{{BuffPro|CrimsonTakeDamageUp}}(每回合最多1次)<br>{{硬币|2}}{{BuffPro|SuperCoin}}<br>{{颜色|命中时}}使目标增加2级{{BuffPro|Laceration}}强度<br>{{颜色|命中时}}对目标施加2层{{BuffPro|Laceration}}<br>{{颜色|硬币攻击结束时}}下回合对命中的目标施加1层{{BuffPro|ScarletTakeDamageUp}}(每回合最多1次)
+}}
+
+
+==被动==
+{{EGO被动链接|
+|名称=蛾与蝶的差异
+|效果=若自身位于仪表盘最左侧的基础攻击技能为暴怒技能或色欲技能，则该技能攻击结束后，随机对1名敌方单位造成相当于该技能对主要目标造成伤害量30%的对应罪孽属性的伤害（最多30点；若是集中遭遇战，则改为1个部位）<br>若自身通过以上效果造成的伤害达到最大值，则下回合使自身获得1层对应罪孽属性的伤害强化，并在2回合内使以上效果无法触发
+}}
+
+
+==相关异想体==
+[[晚霞旅人]]<br>
+PS:暂无此E.G.O相关异想体更详细的信息
+
+
+==预览==
+===语音===
+{{E.G.O语音|编号=20909|1=是啊，来的路上很辛苦吧？在这里休息一会怎么样。光是看着就会觉得温暖吧。|2=I know... Wasn't it tiring coming all the way here?\nWhy don't you stop for a moment and take a breather?<br>The sight alone will warm your heart.|3=だよね、来るの大変だったでしょ？ここでちょっと休んでいって。見てるだけで暖かくなるから。|4=알아, 오느라 힘들었지? 여기서 잠깐 쉬어. 쳐다만 봐도 따스해질테니까.|5=你看上去很忙啊……不是说过让你休息一会了吗……？看吧，这些小家伙因为想跟着你……都闹腾成这样了。|6=You look awfully busy... But really, you should take a breather.<br>Look! These little ones are itching to tag along with you.|7=忙しそうだね…。ちょっと休んでけって言ったでしょ…？<br>見てよ、この子たちが君に付いていきたいって…こんなに大騒ぎしてるじゃない。|8=바빠보이네… 좀 쉬고 가라니까…? 이것 봐, 이 아이들이 너를 따라가고 싶어서… 이렇게 야단이잖아.}}
+
+===演示===
+{{RichTab
+|prefix=2
+|站姿（侵蚀）
+|[[文件:20909-idle.png|100px|center]]
+|移动（侵蚀）
+|[[文件:20909-move.png|140px|center]]
+|拼点（侵蚀）
+|[[文件:20909-s1.png|140px|center]]
+|受击（侵蚀）
+|[[文件:20909-dmg.png|140px|center]]
+|攻击（动态文件）
+|<gallery>
+20909-awaken-skill.gif|觉醒
+20909-erosion-skill.gif|侵蚀
+</gallery>
+|背景
+|[[文件:步入晚霞-背景.png|600px|center]]
+}}
+==导航==
+{{罗佳E.G.O导航}}
+{{E.G.O导航}}

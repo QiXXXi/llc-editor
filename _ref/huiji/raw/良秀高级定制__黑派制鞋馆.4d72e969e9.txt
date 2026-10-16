@@ -1,0 +1,250 @@
+{{人格（上）|良秀高级定制:黑派制鞋馆}}
+{{技能链接|
+|1技能-图标=1041601
+|1技能-名称=真是肮脏
+|1技能-类型=打击
+|1技能-罪孽=嫉妒
+|1技能-硬币数=2
+|1技能-修正值=+2
+|1技能-1阶技能威力=3
+|1技能-1阶硬币威力=+3
+|1技能-1阶={{颜色|战斗开始}}若自身的{{BuffPro|ChargeNoirAlly}}强度不低于3级，{{BuffPro|ChargeNoirAlly}}层数不低于12层，<br>则消耗6层{{BuffPro|ChargeNoirAlly}}并使自身获得体力上限5%的护盾(每回合最多2次)<br>{{颜色|使用时}}若自身的{{BuffPro|ChargeNoirAlly}}层数低于10层，则使自身获得1层{{BuffPro|ChargeNoirAlly}}<br>{{颜色|使用时}}消耗最多15层{{BuffPro|RealisationAlly}}<br>- 使本技能的拼点威力+1<br>- 使本技能造成的伤害+(消耗的{{BuffPro|RealisationAlly}}层数×3)%(最多+45%)<br>{{硬币|1}}{{颜色|命中时}}使目标增加2级{{BuffPro|Vibration}}强度<br>{{硬币|2}}{{颜色|命中时}}使自身获得3层{{BuffPro|ChargeNoirAlly}}
+|1技能-2阶={{颜色|战斗开始}}若自身的{{BuffPro|ChargeNoirAlly}}强度不低于3级，{{BuffPro|ChargeNoirAlly}}层数不低于12层，<br>则消耗6层{{BuffPro|ChargeNoirAlly}}并使自身获得体力上限5%的护盾(每回合最多2次)<br>{{颜色|使用时}}若自身的{{BuffPro|ChargeNoirAlly}}层数低于10层，则使自身获得2层{{BuffPro|ChargeNoirAlly}}<br>{{颜色|使用时}}消耗最多15层{{BuffPro|RealisationAlly}}<br>- 使本技能的拼点威力+1<br>- 使本技能造成的伤害+(消耗的{{BuffPro|RealisationAlly}}层数×3)%(最多+45%)<br>{{硬币|1}}{{颜色|命中时}}使目标增加2级{{BuffPro|Vibration}}强度<br>{{硬币|2}}{{颜色|命中时}}使自身获得4层{{BuffPro|ChargeNoirAlly}}
+|1技能-3阶技能威力=3
+|1技能-3阶硬币威力=+4
+|1技能-4阶技能威力=3
+|1技能-4阶硬币威力=+4
+|1技能-4阶={{颜色|战斗开始}}若自身的{{BuffPro|ChargeNoirAlly}}强度不低于3级，{{BuffPro|ChargeNoirAlly}}层数不低于12层，<br>则消耗6层{{BuffPro|ChargeNoirAlly}}并使自身获得体力上限5%的护盾(每回合最多2次)<br>{{颜色|使用时}}若自身的{{BuffPro|ChargeNoirAlly}}层数低于12层，则使自身获得2层{{BuffPro|ChargeNoirAlly}}<br>{{颜色|使用时}}若自身的{{BuffPro|NoirSuitAlly}}层数不低于50层，<br>则使本技能的拼点威力+1，造成的伤害+30%<br>{{颜色|使用时}}消耗最多15层{{BuffPro|RealisationAlly}}<br>- 使本技能的最终威力+1<br>- 使本技能造成的伤害+(消耗的{{BuffPro|RealisationAlly}}层数×3)%(最多+45%)<br>{{硬币|1}}{{颜色|命中时}}使目标增加2级{{BuffPro|Vibration}}强度<br>{{硬币|2}}{{颜色|命中时}}使自身获得5层{{BuffPro|ChargeNoirAlly}}
+|2技能-图标=1041602
+|2技能-名称=来试穿看看
+|2技能-类型=打击
+|2技能-罪孽=傲慢
+|2技能-硬币数=3
+|2技能-修正值=+2
+|2技能-1阶技能威力=4
+|2技能-1阶硬币威力=+3
+|2技能-1阶={{颜色|使用时}}<br>- 若自身的{{BuffPro|ChargeNoirAlly}}层数不低于12层，则消耗6层{{BuffPro|ChargeNoirAlly}}并使本技能的拼点威力+1，造成的伤害+10%<br>- 使自身获得2层{{BuffPro|ChargeNoirAlly}}<br>{{颜色|使用时}}消耗最多20层{{BuffPro|RealisationAlly}}<br>- 使本技能的拼点威力+1<br>- 使本技能造成的伤害+(消耗的{{BuffPro|RealisationAlly}}层数)%(最多+20%)<br>{{硬币|1}}{{颜色|命中时}}使自身获得(自身的{{BuffPro|ChargeNoirAlly}}强度+1)层{{BuffPro|ChargeNoirAlly}}(最多4层)<br>{{硬币|2}}{{颜色|命中时}}使目标增加2级{{BuffPro|Vibration}}强度并对其施加1层{{BuffPro|Vibration}}
+|2技能-2阶={{颜色|使用时}}<br>- 若自身的{{BuffPro|ChargeNoirAlly}}层数不低于12层，则消耗6层{{BuffPro|ChargeNoirAlly}}并使本技能的拼点威力+1，造成的伤害+10%<br>- 使自身获得2层{{BuffPro|ChargeNoirAlly}}<br>{{颜色|使用时}}消耗最多20层{{BuffPro|RealisationAlly}}<br>- 使本技能的拼点威力+1<br>- 使本技能造成的伤害+(消耗的{{BuffPro|RealisationAlly}}层数)%(最多+20%)<br>{{硬币|1}}{{颜色|命中时}}使自身获得(自身的{{BuffPro|ChargeNoirAlly}}强度+1)层{{BuffPro|ChargeNoirAlly}}(最多6层)<br>{{硬币|2}}{{颜色|命中时}}使目标增加2级{{BuffPro|Vibration}}强度并对其施加1层{{BuffPro|Vibration}}<br>{{硬币|3}}{{颜色|命中时}}若自身的{{BuffPro|ChargeNoirAlly}}强度不低于3级，则使目标{{BuffPro|VibrationExplosion}}，并使目标的{{BuffPro|Vibration}}层数减少1层
+|2技能-3阶技能威力=4
+|2技能-3阶硬币威力=+4
+|2技能-4阶技能威力=4
+|2技能-4阶硬币威力=+4
+|2技能-4阶={{颜色|使用时}}<br>- 若自身的{{BuffPro|ChargeNoirAlly}}层数不低于12层，<br>则消耗6层{{BuffPro|ChargeNoirAlly}}并使本技能的最终威力+1，造成的伤害+20%<br>- 使自身获得4层{{BuffPro|ChargeNoirAlly}}<br>{{颜色|使用时}}若自身的{{BuffPro|NoirSuitAlly}}层数不低于50层，则使本技能造成的伤害+15%<br>{{颜色|使用时}}消耗最多20层{{BuffPro|RealisationAlly}}<br>- 使本技能的最终威力+1<br>- 使本技能造成的伤害+(消耗的{{BuffPro|RealisationAlly}}层数)%(最多+20%)<br>{{硬币|1}}{{颜色|命中时}}使自身获得(自身的{{BuffPro|ChargeNoirAlly}}强度+3)层{{BuffPro|ChargeNoirAlly}}(最多6层)<br>{{硬币|2}}{{颜色|命中时}}使目标增加2级{{BuffPro|Vibration}}强度并对其施加2层{{BuffPro|Vibration}}<br>{{硬币|3}}{{颜色|命中时}}若自身的{{BuffPro|ChargeNoirAlly}}强度不低于3级，则使目标{{BuffPro|VibrationExplosion}}，并使目标的{{BuffPro|Vibration}}层数减少1层
+|3技能-图标=1041603
+|3技能-名称=三线印花缝纫
+|3技能-类型=打击
+|3技能-罪孽=怠惰
+|3技能-硬币数=3
+|3技能-修正值=+3
+|3技能-3阶技能威力=3
+|3技能-3阶硬币威力=+4
+|3技能-3阶={{颜色|使用时}}<br>- 若自身的{{BuffPro|ChargeNoirAlly}}层数不低于10层，则消耗最多20层{{BuffPro|ChargeNoirAlly}}<br>并使本技能造成的伤害+(消耗的{{BuffPro|ChargeNoirAlly}}层数)%(最多+20%)<br>- 使自身获得3层{{BuffPro|ChargeNoirAlly}}<br>{{颜色|使用时}}自身每带有40层{{BuffPro|NoirSuitAlly}}，使本技能的拼点威力+1，造成的伤害+10%(分别最多+2，+20%)<br>{{硬币|1}}{{颜色|命中时}}使自身获得3层{{BuffPro|ChargeNoirAlly}}<br>{{硬币|2}}{{颜色|命中时}}使目标增加2级{{BuffPro|Vibration}}强度并对其施加2层{{BuffPro|Vibration}}<br>{{硬币|3}}使本硬币造成的伤害+(自身的{{BuffPro|NoirSuitAlly}}层数/2)%(最多+50%)<br>{{颜色|命中时}}使目标{{BuffPro|VibrationExplosion}}，并使其{{BuffPro|Vibration}}层数减少1层<br>{{颜色|命中时}}若自身的{{BuffPro|ChargeNoirAlly}}强度不低于3级，则使目标{{BuffPro|VibrationExplosion}}，并使目标的{{BuffPro|Vibration}}层数减少1层
+|3技能-4阶技能威力=5
+|3技能-4阶硬币威力=+4
+|3技能-4阶={{颜色|战斗开始}}使自身获得20层{{BuffPro|NoirSuitAlly}}(每回合最多1次)<br>{{颜色|使用时}}<br>- 若自身的{{BuffPro|ChargeNoirAlly}}层数不低于10层，则消耗最多20层{{BuffPro|ChargeNoirAlly}}<br>并使本技能造成的伤害+(消耗的{{BuffPro|ChargeNoirAlly}}层数)%(最多+20%)<br>- 使自身获得5层{{BuffPro|ChargeNoirAlly}}<br>{{颜色|使用时}}自身每带有30层{{BuffPro|NoirSuitAlly}}，使本技能的拼点威力+1，造成的伤害+20%(分别最多+3，+60%)<br>{{硬币|1}}{{颜色|命中时}}使自身获得5层{{BuffPro|ChargeNoirAlly}}<br>{{硬币|2}}{{颜色|命中时}}使目标增加3级{{BuffPro|Vibration}}强度并对其施加3层{{BuffPro|Vibration}}<br>{{硬币|3}}使本硬币造成的伤害+(自身的{{BuffPro|NoirSuitAlly}}层数)%(最多+100%)<br>{{颜色|命中时}}使目标{{BuffPro|VibrationExplosion}}，并使其{{BuffPro|Vibration}}层数减少1层<br>{{颜色|命中时}}若自身的{{BuffPro|ChargeNoirAlly}}强度不低于3级，则使目标{{BuffPro|VibrationExplosion}}2次，并使目标的{{BuffPro|Vibration}}层数减少2层
+|5技能-图标=1041605
+|5技能-名称=单踢-多样定制时装
+|5技能-类型=打击
+|5技能-罪孽=怠惰
+|5技能-硬币数=4
+|5技能-修正值=+3
+|5技能-3阶技能威力=3
+|5技能-3阶硬币威力=+4
+|5技能-3阶={{颜色|使用时}}<br>- 消耗自身最多20层{{BuffPro|ChargeNoirAlly}}<br>并使本技能造成的伤害+(消耗的{{BuffPro|ChargeNoirAlly}}层数)%(最多+20%)<br>- 使自身获得3层{{BuffPro|ChargeNoirAlly}}<br>{{颜色|使用时}}消耗最多60层{{BuffPro|RealisationAlly}}<br>- 若消耗的{{BuffPro|RealisationAlly}}层数不低于60层，则使本技能的最终威力+1<br>- 使本技能造成的伤害+(消耗的{{BuffPro|RealisationAlly}}层数/3)%(最多+20%)<br>{{硬币|1}}{{颜色|命中时}}使自身获得3层{{BuffPro|ChargeNoirAlly}}<br>{{硬币|2}}{{颜色|命中时}}使目标增加3级{{BuffPro|Vibration}}强度并对其施加3层{{BuffPro|Vibration}}<br>{{颜色|命中时}}若自身的{{BuffPro|ChargeNoirAlly}}强度不低于3级，则使目标{{BuffPro|VibrationExplosion}}，并使目标的{{BuffPro|Vibration}}层数减少1层<br>{{硬币|3}}{{颜色|命中时}}若自身的{{BuffPro|ChargeNoirAlly}}强度不低于2级，则使目标{{BuffPro|VibrationExplosion}}，并使目标的{{BuffPro|Vibration}}层数减少1层<br>{{硬币|4}}{{颜色|命中时}}使目标{{BuffPro|VibrationExplosion}}，并使其{{BuffPro|Vibration}}层数减少1层<br>{{颜色|命中时}}对目标造成本硬币最终伤害量10%的突刺伤害
+|5技能-4阶技能威力=4
+|5技能-4阶硬币威力=+4
+|5技能-4阶={{颜色|使用时}}<br>- 消耗自身最多20层{{BuffPro|ChargeNoirAlly}}<br>并使本技能造成的伤害+(消耗的{{BuffPro|ChargeNoirAlly}}层数)%(最多+20%)<br>- 使自身获得5层{{BuffPro|ChargeNoirAlly}}<br>{{颜色|使用时}}消耗最多60层{{BuffPro|RealisationAlly}}<br>- 每消耗30层{{BuffPro|RealisationAlly}}，使本技能的最终威力+1(最多+2)<br>- 使本技能造成的伤害+(消耗的{{BuffPro|RealisationAlly}}层数/3)%(最多+20%)<br>{{硬币|1}}{{颜色|命中时}}使自身获得5层{{BuffPro|ChargeNoirAlly}}<br>{{硬币|2}}{{颜色|命中时}}使目标增加3级{{BuffPro|Vibration}}强度并对其施加3层{{BuffPro|Vibration}}<br>{{颜色|命中时}}若自身的{{BuffPro|ChargeNoirAlly}}强度不低于3级，则使目标{{BuffPro|VibrationExplosion}}，并使目标的{{BuffPro|Vibration}}层数减少1层<br>{{硬币|3}}{{颜色|命中时}}若自身的{{BuffPro|ChargeNoirAlly}}强度不低于2级，则使目标{{BuffPro|VibrationExplosion}}，并使目标的{{BuffPro|Vibration}}层数减少1层<br>{{颜色|命中时}}对目标造成本硬币最终伤害量10%的突刺伤害<br>{{硬币|4}}{{颜色|命中时}}使目标{{BuffPro|VibrationExplosion}}，并使其{{BuffPro|Vibration}}层数减少1层<br>{{颜色|命中时}}对目标造成本硬币最终伤害量15%的突刺伤害
+|4技能-图标=1041604
+|4技能-名称=混账顾客！商品不都起皱了吗！
+|类型=攻击
+|4技能-突破=1
+|4技能-类型=打击
+|4技能-罪孽=怠惰
+|4技能-硬币数=2
+|4技能-修正值=+2
+|4技能-2阶技能威力=4
+|4技能-2阶硬币威力=+3
+|4技能-3阶技能威力=4
+|4技能-3阶硬币威力=+3
+|4技能-2阶={{颜色|可拼点反击}}<br>{{颜色|战斗开始}}<br>- 若自身的{{BuffPro|NoirSuitAlly}}层数不低于60层，则下回合使该效果转化为{{BuffPro|RealisationAlly}}<br>- 若自身的{{BuffPro|RealisationAlly}}层数低于60层，则下回合使该效果转化为{{BuffPro|NoirSuitAlly}}<br>{{颜色|使用时}}使自身获得2层{{BuffPro|ChargeNoirAlly}}(每回合最多2次)<br>{{硬币|2}}{{BuffPro|SuperCoin}}<br>{{颜色|命中时}}使目标增加1级{{BuffPro|Vibration}}强度(每回合最多2次)
+|4技能-3阶={{颜色|可拼点反击}}<br>{{颜色|战斗开始}}<br>- 若自身的{{BuffPro|NoirSuitAlly}}层数不低于60层，<br>则下回合使该效果转化为{{BuffPro|RealisationAlly}}<br>- 若自身的{{BuffPro|RealisationAlly}}层数低于60层，<br>则下回合使该效果转化为{{BuffPro|NoirSuitAlly}}<br>{{颜色|使用前}}若自身的{{BuffPro|RealisationAlly}}层数不低于60层，<br>则改为使用“单踢-多样定制时装”(每回合最多1次)<br>- 触发该效果后，攻击后消耗所有{{BuffPro|RealisationAlly}}<br>{{颜色|使用时}}使自身获得2层{{BuffPro|ChargeNoirAlly}}(每回合最多2次)<br>{{硬币|2}}{{BuffPro|SuperCoin}}<br>{{颜色|命中时}}使目标增加1级{{BuffPro|Vibration}}强度(每回合最多2次)
+|4技能-4阶技能威力=5
+|4技能-4阶硬币威力=+4
+|4技能-4阶={{颜色|可拼点反击}}<br>{{颜色|战斗开始}}<br>- 若自身的{{BuffPro|NoirSuitAlly}}层数不低于60层，<br>则下回合使该效果转化为{{BuffPro|RealisationAlly}}<br>- 若自身的{{BuffPro|RealisationAlly}}层数低于60层，<br>则下回合使该效果转化为{{BuffPro|NoirSuitAlly}}<br>{{颜色|使用前}}若自身的{{BuffPro|RealisationAlly}}层数不低于60层，<br>则改为使用“单踢-多样定制时装”(每回合最多1次)<br>- 触发该效果后，攻击后消耗所有{{BuffPro|RealisationAlly}}<br>{{颜色|使用时}}若自身的{{BuffPro|ChargeNoirAlly}}强度不低于3/5级，则使本技能的硬币威力+1/+2<br>{{颜色|使用时}}使自身获得2层{{BuffPro|ChargeNoirAlly}}(每回合最多2次)<br>{{硬币|2}}{{BuffPro|SuperCoin}}<br>{{颜色|命中时}}使目标增加2级{{BuffPro|Vibration}}强度(每回合最多2次)
+}}
+===被动===
+{{人格被动链接|1041602}}
+{{人格被动链接|1041603}}
+{{人格被动链接|1041601}}
+{{人格被动链接|1041621}}
+==人格相关信息==
+#该人格的三技能{{罪孽颜色|怠惰|三线印花缝纫}}及其强化{{罪孽颜色|怠惰|单踢-多样定制时装}}拥有特殊拼点胜利动画。
+#该人格行动槽选择技能{{罪孽颜色|怠惰|混账顾客！商品不都起皱了吗！}}时，若该技能满足可转化为强化技能{{罪孽颜色|怠惰|单踢-多样定制时装}}的条件，技能图标会出现闪光特效。
+#战斗中，若该人格带有因{{BuffPro|NoirSuitAlly}}获得的护盾时，自身模型将出现<font style="text-shadow:0px 0px 10px #000000, 0px 0px 10px #000000,0px 0px 10px #000000">{{color|#FFFFFF|包裹的黑雾特效动画}}</font>；若该人格带有{{BuffPro|RealisationAlly}}，自身模型将出现环绕的金纹动画。
+
+==预览==
+===演示===
+{{RichTab
+|prefix=2
+|闲置
+|[[文件:10416Default.png|x300px|center]]
+|移动
+|[[文件:10416Move.png|x300px|center]]
+|闪避
+|[[文件:10416Evade.png|x300px|center]]
+|受伤
+|[[文件:10416Damaged.png|x300px|center]]
+|防御
+|[[文件:10416Guard.png|x300px|center]]
+|动态文件
+|<gallery>
+10416skill1.gif
+10416skill2.gif
+10416skill3.gif
+10416idle.gif
+</gallery>
+}}{{#html:Personalitygif|{"1":"https://huiji-public.huijistatic.com/limbuscompany/uploads/4/40/10416idle.gif"} }}
+===语音台词===
+{{语音台词|
+|角色=10416
+|格式=2
+|获得时=触及地面的脚的数量，在制鞋馆中便正是受恩宠程度的象征。<br>作为单脚人的我，有什么和追逐着过时的时尚(à la mode)的那并不高洁的顾客做交易的理由吗？
+|早间问候=……过了一季的时间，店铺又被弄脏了。啧。或许我根本就不该再让有太多脚的家伙们进来了。
+|午间问候=阳光下，闪耀着黄金松脂的光泽的工作靴……我竟制出了若是如此卖给顾客便显得太过可惜的艺术品啊。其……正应由高贵的我来穿着。
+|晚间问候=售罄了。这次登门的顾客，还算得上有眼光。四·脚·人。到了该关店门的时间了。<br>有没有鞋子受日晒而褪色，地面上有没有留下恶心的痕迹，把这些全都确认好再回去。毕竟这就是你们这帮低贱的四脚人仅有的作用了。
+|对话 1=别把我和低贱的两脚人相提并论。费尽心思制鞋、售卖、最终站在地面上的我，跨越了一只脚和两只脚的界限。<br>……所以一点，一点。无限接近单脚人的我，远比两脚人来得高贵。
+|对话 2=品牌经理告诉我……红派似乎开始信仰伪神了。那些并不高贵的家伙们，居然也在奢侈品馆中占据了一席之地吗……颓废主义的时装秀要开始了。黑与红，似乎终于可以一决高下了。
+|对话 3=两个季度之前，这个楼层中就流传起了谣言。在褐派聚集居住的某家店中，藏着传说之剑……哼，反正和我的刀比起来，也不够高贵吧。
+|同步后对话 1=黑派的美学始于节制。那些只是一个劲地想要展示自己的红派是绝对不能理解的吧。<br>那些家伙的时尚中，高光之处过于多了。因为不知道该把目光投向哪里，所以才无法忍受反复将其踩·粉的欲望。
+|同步后对话 2=鞋履是为了足踏大地而创作出的艺术……与地面接触面积越小，作品便愈显高雅，其时尚价值也一并升高。<br>那些拒绝接受这一常识，若无其事地重重踏在地面上的红派设计师们……让他们全·退都不足为惜。
+|闲置=……这次的顾客，是用两只脚行走的吗。哈，比起那帮四脚人令人不快的脚步……倒算是好多了。
+|进行同步=试过只用一只脚支撑身体吗？若无法理解这高贵的步态，那么堕落便是你注定的命运。
+|人格出战=到了去瓦解红派的诡·计的时候了。
+|进入战斗=顺应事理，保持高洁。
+|战斗中选中人格=我……不和你们这样的多·脚顾客做生意。
+|进行攻击=我来给你特别接待。
+|敌方混乱=连自己的程度都不清楚。
+|陷入混乱=咕！
+|击杀敌方=与你相称的结局。
+|友方阵亡=还……没有达到完美……
+|判定成功=时·地。根据这些要素进行搭配可是基本功。
+|判定失败=和那群贱·人打交道太久，观察力也变得迟钝了吗……
+|战斗胜利=结实又贪婪的这皮革……对红派也很有用处呢。没有比这更适合作为鞋垫的材料了。
+|EX CLEAR战斗胜利=制鞋馆中剩余的所有黄金松脂，最后都归我所有了吗。哼。似乎够我以一直想要的方式装修我的工作室了。
+|战斗失败=不快……至极啊……本该高洁的制鞋馆……竟在令人作呕的红派的脚下……
+}}
+
+===技能语音===
+<div class="mw-collapsible">
+<div class="mw-collapsible-content">
+{| class="wikitable" style="width: 100%"
+|-
+|width="105px"|技能1-1
+|width="75px"|[[文件:battle_s1_10416_1_1.ogg|50px]]
+|width="75px"|[[文件:battle_s1_10416_1_1-01.ogg|50px]]
+|width="75px"|[[文件:battle_s1_10416_1_1-02.ogg|50px]]
+|-
+||技能1-2
+||[[文件:battle_s1_10416_1_2.ogg|50px]]
+||[[文件:battle_s1_10416_1_2-01.ogg|50px]]
+||[[文件:battle_s1_10416_1_2-02.ogg|50px]]
+|-
+||技能2-1
+||[[文件:battle_s2_10416_1_1.ogg|50px]]
+||[[文件:battle_s2_10416_1_1-01.ogg|50px]]
+||[[文件:battle_s2_10416_1_1-02.ogg|50px]]
+||[[文件:battle_s2_10416_1_1-03.ogg|50px]]
+|-
+||技能2-2
+||[[文件:battle_s2_10416_1_2.ogg|50px]]
+||[[文件:battle_s2_10416_1_2-01.ogg|50px]]
+||[[文件:battle_s2_10416_1_2-02.ogg|50px]]
+||[[文件:battle_s2_10416_1_2-03.ogg|50px]]
+|-
+||技能2-3
+||[[文件:battle_s2_10416_1_3.ogg|50px]]
+||[[文件:battle_s2_10416_1_3-01.ogg|50px]]
+||[[文件:battle_s2_10416_1_3-02.ogg|50px]]
+||[[文件:battle_s2_10416_1_3-03.ogg|50px]]
+|-
+||技能3
+||[[文件:battle_s3_10416_1_1.ogg|50px]]
+|colspan="10" style="text-align: left;"|我踏出的每一步。
+|-
+||
+||[[文件:battle_s3_10416_1_2.ogg|50px]]
+|colspan="10" style="text-align: left;"|（语气词）
+|-
+||
+||[[文件:battle_s3_10416_1_3.ogg|50px]]
+|colspan="10" style="text-align: left;"|都会在你们身上！刻下痛苦！
+|}
+</div></div>
+
+===特殊语音===
+<div class="mw-collapsible">
+<div class="mw-collapsible-content">
+{| class="wikitable" style="width:100%"
+|-
+|width="55px"|[[文件:battle_special_10416_1_1.ogg|50px]]||触发条件未知
+|-style="color:#E5CAA5"
+|| ||（语气词）
+|-
+|width="55px"|[[文件:battle_special_10416_1_2.ogg|50px]]||触发条件未知
+|-style="color:#E5CAA5"
+|| ||（语气词）
+|-
+|width="55px"|[[文件:battle_special_10416_1_3.ogg|50px]]||使用技能三-2 单踢-多样定制时装 第3币时触发
+|-style="color:#E5CAA5"
+|| ||我很乐意把你踩在脚下！
+|-
+|width="55px"|[[文件:battle_special_10416_1_4.ogg|50px]]||使用技能三-2 单踢-多样定制时装 第4币时触发
+|-style="color:#E5CAA5"
+|| ||退下！
+|-
+|width="55px"|[[文件:battle_special_10416_2.ogg|50px]]||获得{{BuffPro|RealisationAlly}}时触发
+|-style="color:#E5CAA5"
+|| ||干净利落。
+|}
+</div></div>
+
+===音效===
+<div class="mw-collapsible">
+<div class="mw-collapsible-content">
+{| class="wikitable" style="width: 100%"
+|-
+|width="75px"|技能1
+||[[文件:contemryoshu_1_1.ogg|50px]]
+||[[文件:contemryoshu_1_2.ogg|50px]]
+|-
+|width="75px"|技能2
+|width="75px"|[[文件:contemryoshu_2_1.ogg|50px]]
+|width="75px"|[[文件:contemryoshu_2_3-1.ogg|50px]]
+|width="75px"|[[文件:contemryoshu_2_3-2.ogg|50px]]
+|[[文件:contemryoshu_2_3-3.ogg|50px]]
+|-
+|width="75px"|技能3
+||[[文件:contemryoshu_3_1.ogg|50px]]
+||[[文件:contemryoshu_3_3.ogg|50px]]
+|-
+|width="75px"|技能4
+||[[文件:contemryoshu_4_2.ogg|50px]]
+||[[文件:contemryoshu_4_3.ogg|50px]]
+||[[文件:contemryoshu_4_3-01.ogg|50px]]
+|-
+|width="75px"|拼点
+||[[文件:contemryoshu_p_1.ogg|50px]]
+||[[文件:contemryoshu_p_2.ogg|50px]]
+||[[文件:contemryoshu_p_3.ogg|50px]]
+|-
+|width="75px"|其他
+||[[文件:contemryoshu_ad1.ogg|50px]]
+||[[文件:contemryoshu_ad1-01.ogg|50px]]
+||[[文件:contemryoshu_ad1-02.ogg|50px]]
+|-
+|}
+</div></div>
+
+==导航==
+{{良秀人格导航}}{{镜像世界人格导航|10416}}
+{{人格导航}}

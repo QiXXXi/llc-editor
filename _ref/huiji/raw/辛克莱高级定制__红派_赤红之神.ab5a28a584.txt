@@ -1,0 +1,247 @@
+{{正在施工|月海伦娜}}{{人格（上）|辛克莱高级定制:红派_赤红之神}}
+{{技能链接|
+|1技能-图标=1101601
+|1技能-名称=驱力(la pulsion)
+|1技能-类型=突刺
+|1技能-罪孽=暴食
+|1技能-硬币数=1
+|1技能-修正值=+1
+|1技能-1阶技能威力=4
+|1技能-1阶硬币威力=+5
+|1技能-1阶={{颜色|无法改变目标}}<br>{{BuffPro|SupportAlly}}<br>{{颜色|使用时}}使自身获得5层{{BuffPro|ChargeRougeAlly}}<br>- 若目标为友方单位，则使自身额外获得5层{{BuffPro|ChargeRougeAlly}}<br>{{硬币|1}}{{颜色|硬币攻击结束时}}若目标为友方单位，则触发以下效果(每回合最多2次)<br>- 使目标恢复其体力上限10%的体力<br>· 若目标属于红派，则改为消耗其体力上限20%的体力并使其获得2层{{BuffPro|ResultEnhancement}}<br>- 使目标恢复10点理智值<br>· 若目标理智值为最大值，则改为使其获得4层{{BuffPro|Charge}}
+|1技能-2阶={{颜色|无法改变目标}}<br>{{BuffPro|SupportAlly}}<br>{{颜色|使用时}}目标每带有4级{{BuffPro|Laceration}}强度，使本技能的拼点威力+1(最多+2)<br>{{颜色|使用时}}使自身获得5层{{BuffPro|ChargeRougeAlly}}<br>- 若目标为友方单位，则使自身额外获得5层{{BuffPro|ChargeRougeAlly}}<br>{{硬币|1}}{{颜色|硬币攻击结束时}}若目标为友方单位，则触发以下效果(每回合最多2次)<br>- 使目标恢复其体力上限10%的体力<br>· 若目标属于红派，则改为消耗其体力上限20%的体力并使其获得2层{{BuffPro|ResultEnhancement}}<br>- 使目标恢复10点理智值<br>· 若目标理智值为最大值，则改为使其获得4层{{BuffPro|Charge}}
+|1技能-3阶技能威力=4
+|1技能-3阶硬币威力=+6
+|1技能-4阶技能威力=5
+|1技能-4阶硬币威力=+6
+|1技能-4阶={{颜色|无法改变目标}}<br>{{BuffPro|SupportAlly}}<br>{{颜色|使用时}}使本技能的攻击容量+(自身的{{BuffPro|ChargeRougeAlly}}强度-)(最多+2)<br>- 优先指定属于红派的友方单位为次要目标，按现存体力比例由低到高指定目标<br>{{颜色|使用时}}目标每带有4级{{BuffPro|Laceration}}强度，使本技能的拼点威力+1(最多+2)<br>{{颜色|使用时}}使自身获得5层{{BuffPro|ChargeRougeAlly}}<br>- 若目标为友方单位，则使自身额外获得5层{{BuffPro|ChargeRougeAlly}}<br>{{硬币|1}}{{颜色|硬币攻击结束时}}若目标为友方单位，则触发以下效果(每回合最多2次)<br>- 使目标恢复其体力上限(10+自身的{{BuffPro|ChargeRougeAlly}}强度)%的体力(最多15%)<br>· 若目标属于红派，则改为消耗其体力上限20%的体力并使其获得2层{{BuffPro|ResultEnhancement}}<br>- 使目标恢复(10+自身的{{BuffPro|ChargeRougeAlly}}强度)点理智值(最多15点)<br>· 若目标理智值为最大值，则改为使其获得4层{{BuffPro|Charge}}
+|强化1技能-图标=1101605
+|强化1技能-类型=突刺
+|强化1技能-罪孽=傲慢
+|强化1技能-名称=我来帮忙(je vous aide)
+|强化1技能-硬币数=1
+|强化1技能-攻击容量=1
+|强化1技能-修正值=+1
+|强化1技能-1阶技能威力=4
+|强化1技能-1阶硬币威力=+5
+|强化1技能-1阶={{颜色|无法拼点}}<br>本技能不会触发守备技能<br>若自身处于{{BuffPro|BuffetSinclair}}状态，则使本技能造成的伤害+50%<br>{{颜色|使用时}}使自身获得5层{{BuffPro|HungrySinclair}}<br>{{硬币|1}}{{颜色|命中时}}对目标施加2层{{BuffPro|Laceration}}
+|强化1技能-2阶={{颜色|无法拼点}}<br>本技能不会触发守备技能<br>若自身处于{{BuffPro|BuffetSinclair}}状态，则使本技能造成的伤害+50%<br>{{颜色|使用时}}目标每带有4级{{BuffPro|Laceration}}强度，使本技能的最终威力+1(最多+4)<br>{{颜色|使用时}}使自身获得5层{{BuffPro|HungrySinclair}}<br>{{硬币|1}}{{颜色|命中时}}对目标施加2层{{BuffPro|Laceration}}
+|强化1技能-3阶技能威力=4
+|强化1技能-3阶硬币威力=+6
+|强化1技能-4阶技能威力=5
+|强化1技能-4阶硬币威力=+6
+|强化1技能-4阶={{颜色|无法拼点}}<br>本技能不会触发守备技能<br>若自身处于{{BuffPro|BuffetSinclair}}状态，则使本技能造成的伤害+50%<br>目标每失去1%的体力，使本技能造成的伤害+5%(最多+100%)<br>{{颜色|使用时}}目标每带有4级{{BuffPro|Laceration}}强度，使本技能的最终威力+1(最多+4)<br>{{颜色|使用时}}使自身获得5层{{BuffPro|HungrySinclair}}<br>{{硬币|1}}{{颜色|命中时}}对目标施加2层{{BuffPro|Laceration}}<br>{{颜色|命中时}}对目标施加1层{{BuffPro|ScarletTakeDamageUp}}(每回合最多1次)
+|强化1技能2-图标=1101606
+|强化1技能2-类型=突刺
+|强化1技能2-罪孽=暴食
+|强化1技能2-名称=自我排泄(je m'expulse)
+|强化1技能2-硬币数=3
+|强化1技能2-攻击容量=1
+|强化1技能2-修正值=+3
+|强化1技能2-1阶技能威力=3
+|强化1技能2-1阶硬币威力=+3
+|强化1技能2-1阶=（在同步阶段3解锁）
+|强化1技能2-2阶=（在同步阶段3解锁）
+|强化1技能2-3阶技能威力=3
+|强化1技能2-3阶硬币威力=+3
+|强化1技能2-3阶={{BuffPro|TransformSinclair}}专用技能<br>{{颜色|使用时}}使自身获得3层{{BuffPro|ChargeRougeAlly}}<br>{{硬币|1}}{{颜色|命中时}}对目标施加2层{{BuffPro|Laceration}}<br>{{硬币|2}}{{颜色|命中时}}使目标增加2级{{BuffPro|Laceration}}强度<br>{{硬币|3}}{{颜色|命中时}}对目标施加1层{{BuffPro|BoneNailSinclair}}
+|强化1技能2-4阶技能威力=3
+|强化1技能2-4阶硬币威力=+3
+|强化1技能2-4阶={{BuffPro|TransformSinclair}}专用技能<br>{{颜色|使用时}}若目标的{{BuffPro|Laceration}}强度不低于6级，则使本技能的硬币威力+1<br>{{颜色|使用时}}使自身获得3层{{BuffPro|ChargeRougeAlly}}<br>{{硬币|1}}{{颜色|命中时}}对目标施加2层{{BuffPro|Laceration}}<br>{{硬币|2}}{{颜色|命中时}}使目标增加2级{{BuffPro|Laceration}}强度<br>{{硬币|3}}{{颜色|命中时}}对目标施加2层{{BuffPro|BoneNailSinclair}}
+|2技能-图标=1101602
+|2技能-名称=食欲(l'appétit)
+|2技能-类型=突刺
+|2技能-罪孽=暴怒
+|2技能-硬币数=2
+|2技能-修正值=+2
+|2技能-1阶技能威力=4
+|2技能-1阶硬币威力=+4
+|2技能-1阶={{颜色|无法改变目标}}<br>{{BuffPro|SupportAlly}}<br>{{颜色|使用时}}使自身获得3层{{BuffPro|ChargeRougeAlly}}<br>{{颜色|使用时}}若目标为友方单位，则在触发本技能第1枚硬币效果后结束本技能<br>{{硬币|1}}{{颜色|硬币攻击结束时}}若目标为友方单位，则触发以下效果<br>- 使目标获得1层{{BuffPro|BuffetThirst}}<br>- 若目标为{{BuffPro|PersonalityCharge}}，则使其获得4层{{BuffPro|Charge}}<br>- 若目标属于红派，则消耗其体力上限10%的体力并使其获得2层{{BuffPro|AttackUp}}<br>{{硬币|2}}{{颜色|命中时}}使目标增加3级{{BuffPro|Laceration}}强度
+|2技能-2阶={{颜色|无法改变目标}}<br>{{BuffPro|SupportAlly}}<br>{{颜色|使用时}}自身每带有3层{{BuffPro|ChargeRougeAlly}}。使本技能的拼点威力+1(最多+3)<br>{{颜色|使用时}}使自身获得3层{{BuffPro|ChargeRougeAlly}}<br>{{颜色|使用时}}若目标为友方单位，则在触发本技能第1枚硬币效果后结束本技能<br>{{硬币|1}}{{颜色|硬币攻击结束时}}若目标为友方单位，则触发以下效果<br>- 使目标获得1层{{BuffPro|BuffetThirst}}<br>- 若目标为{{BuffPro|PersonalityCharge}}，则使其获得4层{{BuffPro|Charge}}<br>- 若目标属于红派，则消耗其体力上限10%的体力并使其获得2层{{BuffPro|AttackUp}}<br>{{硬币|2}}{{颜色|命中时}}使目标增加3级{{BuffPro|Laceration}}强度
+|2技能-3阶技能威力=4
+|2技能-3阶硬币威力=+5
+|2技能-4阶技能威力=4
+|2技能-4阶硬币威力=+5
+|2技能-4阶={{颜色|无法改变目标}}<br>{{BuffPro|SupportAlly}}<br>{{颜色|使用时}}自身每带有2级{{BuffPro|ChargeRougeAlly}}强度，使本技能的攻击容量+1(最多+2)<br>- 优先指定属于红派的友方单位为次要目标，按现存体力比例由高到低指定目标<br>{{颜色|使用时}}自身每带有3层{{BuffPro|ChargeRougeAlly}}。使本技能的拼点威力+1(最多+3)<br>{{颜色|使用时}}使自身获得3层{{BuffPro|ChargeRougeAlly}}<br>{{颜色|使用时}}若目标为友方单位，则在触发本技能第1枚硬币效果后结束本技能<br>{{硬币|1}}{{颜色|硬币攻击结束时}}若目标为友方单位，则触发以下效果<br>- 使目标获得1层{{BuffPro|ParryingResultUp}}与1层{{BuffPro|BuffetThirst}}<br>- 若目标为{{BuffPro|PersonalityCharge}}，则使其获得4层{{BuffPro|Charge}}<br>- 若目标属于红派，则消耗其体力上限10%的体力并使其获得2层{{BuffPro|AttackUp}}<br>{{硬币|2}}{{颜色|命中时}}使目标增加3级{{BuffPro|Laceration}}强度
+|强化2技能-图标=1101607
+|强化2技能-名称=自我卑贱化(je m'abjecte)
+|强化2技能-类型=突刺
+|强化2技能-罪孽=暴怒
+|强化2技能-硬币数=3
+|强化2技能-攻击容量=1
+|强化2技能-修正值=+4
+|强化2技能-1阶技能威力=4
+|强化2技能-1阶硬币威力=+4
+|强化2技能-1阶=（在同步阶段3解锁）
+|强化2技能-2阶=（在同步阶段3解锁）
+|强化2技能-3阶技能威力=4
+|强化2技能-3阶硬币威力=+4
+|强化2技能-3阶={{BuffPro|TransformSinclair}}专用技能<br>{{颜色|使用时}}若自身的{{BuffPro|ChargeRougeAlly}}强度不低于3级，则使本技能的硬币威力+1<br>{{颜色|攻击前}}消耗除自身以外的2名友方单位体力上限15%的体力<br>- 优先指定属于红派的友方单位，按现存体力比例由高到低指定目标<br>- 每消耗了1名友方单位的体力，使本技能造成的伤害+15%<br>{{硬币|1}}{{颜色|命中时}}对目标施加2层{{BuffPro|Laceration}}<br>{{颜色|命中时}}对目标施加2层{{BuffPro|BoneNailSinclair}}<br>{{硬币|2}}{{颜色|命中时}}使目标增加2级{{BuffPro|Laceration}}强度<br>{{颜色|命中时}}对目标施加1层{{BuffPro|BoneNailSinclair}}<br>- 若自身处于{{BuffPro|BuffetSinclair}}状态，则改为施加2层{{BuffPro|BoneNailSinclair}}<br>{{硬币|3}}{{颜色|命中时}}对目标施加1层{{BuffPro|ScarletTakeDamageUp}}(每回合最多1次)
+|强化2技能-4阶技能威力=4
+|强化2技能-4阶硬币威力=+4
+|强化2技能-4阶={{BuffPro|TransformSinclair}}专用技能<br>{{颜色|使用时}}若目标的{{BuffPro|Laceration}}强度不低于6级，则使本技能的硬币威力+1<br>{{颜色|使用时}}若自身的{{BuffPro|ChargeRougeAlly}}强度不低于3级，则使本技能的硬币威力+1<br>{{颜色|攻击前}}消耗除自身以外的2名友方单位体力上限15%的体力<br>- 优先指定属于红派的友方单位，按现存体力比例由高到低指定目标<br>- 每消耗了1名友方单位的体力，使本技能造成的伤害+15%<br>{{硬币|1}}{{颜色|命中时}}对目标施加2层{{BuffPro|Laceration}}<br>{{颜色|命中时}}对目标施加2层{{BuffPro|BoneNailSinclair}}<br>{{硬币|2}}{{颜色|命中时}}使目标增加2级{{BuffPro|Laceration}}强度<br>{{颜色|命中时}}对目标施加1层{{BuffPro|BoneNailSinclair}}<br>- 若自身处于{{BuffPro|BuffetSinclair}}状态，则改为施加2层{{BuffPro|BoneNailSinclair}}<br>{{硬币|3}}{{颜色|命中时}}对目标施加1层{{BuffPro|ScarletTakeDamageUp}}(每回合最多1次)
+|强化2技能2-图标=1101608
+|强化2技能2-类型=突刺
+|强化2技能2-罪孽=傲慢
+|强化2技能2-名称=要求(la demande)
+|强化2技能2-硬币数=2
+|强化2技能2-攻击容量=1
+|强化2技能2-修正值=+3
+|强化2技能2-1阶技能威力=5
+|强化2技能2-1阶硬币威力=+5
+|强化2技能2-1阶=（在同步阶段3解锁）
+|强化2技能2-2阶=（在同步阶段3解锁）
+|强化2技能2-3阶技能威力=5
+|强化2技能2-3阶硬币威力=+5
+|强化2技能2-3阶={{颜色|无法拼点}}<br>{{BuffPro|TransformSinclair}}专用技能<br>本技能不会触发守备技能<br>目标每带有3级{{BuffPro|Laceration}}强度，使本技能造成的伤害+5%(最多+30%)<br>{{硬币|1}}{{颜色|命中时}}使目标增加3级{{BuffPro|Laceration}}强度<br>{{硬币|2}}{{颜色|命中时}}使目标增加3级{{BuffPro|Laceration}}强度<br>{{颜色|命中时}}解除目标所有{{BuffPro|BoneNailSinclair}}并在下回合对其施加1层{{BuffPro|ScarletTakeDamageUp}}(每回合最多1次)
+|强化2技能2-4阶技能威力=5
+|强化2技能2-4阶硬币威力=+5
+|强化2技能2-4阶={{颜色|无法拼点}}<br>{{BuffPro|TransformSinclair}}专用技能<br>本技能不会触发守备技能<br>目标每带有3级{{BuffPro|Laceration}}强度，使本技能造成的伤害+5%(最多+30%)<br>{{颜色|使用时}}若自身的{{BuffPro|ChargeRougeAlly}}强度不低于3级，则使本技能的硬币威力+1<br>{{硬币|1}}{{颜色|命中时}}使目标增加3级{{BuffPro|Laceration}}强度<br>{{硬币|2}}{{颜色|命中时}}使目标增加3级{{BuffPro|Laceration}}强度<br>{{颜色|命中时}}解除目标所有{{BuffPro|BoneNailSinclair}}并在下回合对其施加2层{{BuffPro|ScarletTakeDamageUp}}(每回合最多1次)
+|3技能-图标=1101603
+|3技能-名称=赤红洗礼(le baptême rouge)
+|3技能-类型=突刺
+|3技能-罪孽=色欲
+|3技能-硬币数=3
+|3技能-修正值=+3
+|3技能-3阶技能威力=5
+|3技能-3阶硬币威力=+4
+|3技能-3阶={{颜色|战斗开始}}消耗除自身以外的2名友方单位体力上限15%的体力并使其获得3层{{BuffPro|AttackUp}}<br>- 在现存体力不低于50%的友方单位中按现存体力由高到低指定<br>- 属于红派的友方单位现存体力不低于2点时，无视其体力优先指定，且改为消耗其体力上限25%的体力并使其额外获得1层{{BuffPro|Enhancement}}<br>{{颜色|使用时}}若自身的{{BuffPro|ChargeRougeAlly}}强度不低于3级，则使本技能的硬币威力+1<br>{{颜色|使用时}}若自身处于{{BuffPro|BuffetSinclair}}状态，则使本技能的所有硬币转化为{{BuffPro|SuperCoin}}<br>- 若自身的{{BuffPro|ChargeRougeAlly}}层数不低于10层，则消耗最多10层{{BuffPro|ChargeRougeAlly}}并使本技能的攻击容量+2，硬币威力+1<br>{{硬币|1}}{{颜色|命中时}}使目标增加3级{{BuffPro|Laceration}}强度<br>{{硬币|2}}{{颜色|命中时}}使目标增加3级{{BuffPro|Laceration}}强度<br>{{硬币|3}}{{颜色|命中时}}对目标施加3层{{BuffPro|Laceration}}
+|3技能-4阶技能威力=5
+|3技能-4阶硬币威力=+4
+|3技能-4阶={{颜色|战斗开始}}消耗除自身以外的2名友方单位体力上限15%的体力并使其获得3层{{BuffPro|AttackUp}}<br>- 在现存体力不低于50%的友方单位中按现存体力由高到低指定<br>- 属于红派的友方单位现存体力不低于2点时，无视其体力优先指定，且改为消耗其体力上限25%的体力并使其额外获得1层{{BuffPro|Enhancement}}<br>{{颜色|使用时}}目标每带有4级{{BuffPro|Laceration}}强度，使本技能的最终威力+1(最多+2)<br>{{颜色|使用时}}若自身的{{BuffPro|ChargeRougeAlly}}强度不低于3级，则使本技能的硬币威力+1<br>{{颜色|使用时}}若自身处于{{BuffPro|BuffetSinclair}}状态，则使本技能的所有硬币转化为{{BuffPro|SuperCoin}}<br>- 若自身的{{BuffPro|ChargeRougeAlly}}层数不低于10层，则消耗最多10层{{BuffPro|ChargeRougeAlly}}并使本技能的攻击容量+2，硬币威力+1<br>{{颜色|使用时}}本技能的攻击容量高于攻击目标数时，每高于1点，使本技能造成的伤害+50%(若是集中遭遇战，则改为以部位判定)<br>{{硬币|1}}{{颜色|命中时}}使目标增加3级{{BuffPro|Laceration}}强度<br>{{颜色|命中时}}使自身获得3层{{BuffPro|HungrySinclair}}<br>{{硬币|2}}{{颜色|命中时}}使目标增加3级{{BuffPro|Laceration}}强度<br>{{颜色|命中时}}使自身获得3层{{BuffPro|HungrySinclair}}<br>{{硬币|3}}{{颜色|命中时}}对目标施加3层{{BuffPro|Laceration}}<br>{{颜色|命中时}}使自身获得3层{{BuffPro|HungrySinclair}}
+|5技能-图标=1101609
+|5技能-攻击容量=1
+|5技能-名称=存在的缺失(le manque-à-être)
+|5技能-类型=突刺
+|5技能-罪孽=暴食
+|5技能-硬币数=1
+|5技能-修正值=+3
+|5技能-3阶技能威力=7
+|5技能-3阶硬币威力=+8
+|5技能-3阶={{颜色|无法拼点}}<br>{{颜色|无法改变目标}}<br>{{BuffPro|SupportAlly}}<br>本技能不会因外部效果而重复使用<br>{{颜色|使用时}}下回合对自身施加5层{{BuffPro|Binding}}<br>{{硬币|1}}{{颜色|硬币攻击结束时}}解除目标的混乱
+|5技能-4阶技能威力=7
+|5技能-4阶硬币威力=+8
+|5技能-4阶={{颜色|无法拼点}}<br>{{颜色|无法改变目标}}<br>{{BuffPro|SupportAlly}}<br>本技能不会因外部效果而重复使用<br>{{硬币|1}}{{颜色|硬币攻击结束时}}解除目标的混乱<br>{{颜色|硬币攻击结束时}}使目标恢复其体力上限15%的体力
+|强化3技能2-图标=1101610
+|强化3技能2-罪孽=色欲
+|强化3技能2-名称=贪求(la voracité)
+|强化3技能2-类型=突刺
+|强化3技能2-硬币数=4
+|强化3技能2-攻击容量=1
+|强化3技能2-修正值=+5
+|强化3技能2-3阶技能威力=5
+|强化3技能2-3阶硬币威力=+3
+|强化3技能2-3阶={{BuffPro|TransformSinclair}}专用技能<br>回合开始时，若自身的{{BuffPro|HungrySinclair}}层数为150层，则使本技能转化为“阉割(la castration)”(每回合最多1次)<br>{{颜色|使用时}}若自身处于{{BuffPro|BuffetSinclair}}状态，则使本技能的所有硬币转化为{{BuffPro|SuperCoin}}<br>- 若自身的{{BuffPro|ChargeRougeAlly}}层数不低于10层，则消耗最多10层{{BuffPro|ChargeRougeAlly}}并使本技能的攻击容量+2，硬币威力+1<br>{{颜色|攻击前}}消耗除自身以外的3名友方单位体力上限15%的体力<br>· 优先指定属于红派的友方单位，按现存体力由高到低指定<br>· 每消耗1名友方单位的体力，使本技能造成的伤害+10%<br>{{硬币|1}}{{颜色|命中时}}对目标施加2层{{BuffPro|Laceration}}<br>{{颜色|命中时}}对目标施加1层{{BuffPro|BoneNailSinclair}}<br>{{颜色|命中时}}若目标为主要目标，则本技能的攻击容量每高于目标数1点，对该目标额外施加1层{{BuffPro|BoneNailSinclair}}<br>{{硬币|2}}{{颜色|命中时}}使目标增加1级{{BuffPro|Laceration}}强度<br>{{硬币|3}}{{颜色|命中时}}使目标增加2级{{BuffPro|Laceration}}强度<br>{{硬币|4}}{{颜色|命中时}}触发目标的{{BuffPro|Laceration}}1次，并使其{{BuffPro|Laceration}}层数减少1层
+|强化3技能2-4阶技能威力=5
+|强化3技能2-4阶硬币威力=+3
+|强化3技能2-4阶={{BuffPro|TransformSinclair}}专用技能<br>回合开始时，若自身的{{BuffPro|HungrySinclair}}层数为150层，则使本技能转化为“阉割(la castration)”(每回合最多1次)<br>{{颜色|使用时}}目标每带有4级{{BuffPro|Laceration}}强度，使本技能的最终威力+1(最多+2)<br>{{颜色|使用时}}若自身的{{BuffPro|ChargeRougeAlly}}强度不低于3级，则使本技能的硬币威力+1<br>{{颜色|使用时}}若自身处于{{BuffPro|BuffetSinclair}}状态，则使本技能的所有硬币转化为{{BuffPro|SuperCoin}}<br>- 若自身的{{BuffPro|ChargeRougeAlly}}层数不低于10层，则消耗最多10层{{BuffPro|ChargeRougeAlly}}并使本技能的攻击容量+2，硬币威力+1<br>{{颜色|使用时}}本技能的攻击容量高于攻击目标数时，每高于1点，使本技能造成的伤害+50%(若是集中遭遇战，则改为以部位判定) <br>{{颜色|攻击前}}消耗除自身以外的3名友方单位体力上限15%的体力<br>· 优先指定属于红派的友方单位，按现存体力由高到低指定<br>· 每消耗1名友方单位的体力，使本技能造成的伤害+10%<br>{{硬币|1}}{{颜色|命中时}}对目标施加2层{{BuffPro|Laceration}}<br>{{颜色|命中时}}对目标施加1层{{BuffPro|BoneNailSinclair}}<br>{{颜色|命中时}}若目标为主要目标，则本技能的攻击容量每高于目标数1点，对该目标额外施加1层{{BuffPro|BoneNailSinclair}}<br>{{硬币|2}}{{颜色|命中时}}使目标增加1级{{BuffPro|Laceration}}强度<br>{{硬币|3}}{{颜色|命中时}}使目标增加2级{{BuffPro|Laceration}}强度<br>{{硬币|4}}{{颜色|命中时}}触发目标的{{BuffPro|Laceration}}1次，并使其{{BuffPro|Laceration}}层数减少1层
+|强化3技能3-图标=1101611
+|强化3技能3-罪孽=色欲
+|强化3技能3-名称=阉割(la castration)
+|强化3技能3-类型=突刺
+|强化3技能3-硬币数=5
+|强化3技能3-攻击容量=3
+|强化3技能3-修正值=+5
+|强化3技能3-3阶技能威力=4
+|强化3技能3-3阶硬币威力=+3
+|强化3技能3-3阶={{BuffPro|TransformSinclair}}专用技能<br>{{颜色|使用前}}若自身的{{BuffPro|HungrySinclair}}层数低于150层，则使本技能转化为“贪求(la voracité)”<br>{{颜色|战斗开始}}消耗除自身以外属于红派的全体友方人格现存体力50%的体力并使其获得3层{{BuffPro|BuffetSinclair}}<br>{{颜色|使用时}}主要目标每带有4级{{BuffPro|Laceration}}强度，使本技能的最终威力+1(最多+2)<br>{{颜色|使用时}}若自身的{{BuffPro|ChargeRougeAlly}}强度不低于3级，则使本技能的硬币威力+1<br>{{颜色|攻击后}}消耗所有{{BuffPro|HungrySinclair}}<br>{{硬币|1}}{{BuffPro|SuperCoin}}<br>{{颜色|命中时}}对目标施加2层{{BuffPro|Laceration}}<br>{{颜色|命中时}}对目标施加1层{{BuffPro|BoneNailSinclair}}<br>{{颜色|命中时}}若目标为主要目标，则本技能的攻击容量每高于目标数1点，对该目标额外施加1层{{BuffPro|BoneNailSinclair}}<br>{{硬币|2}}{{BuffPro|SuperCoin}}<br>{{颜色|命中时}}使目标增加1级{{BuffPro|Laceration}}强度<br>{{硬币|3}}{{BuffPro|SuperCoin}}<br>{{颜色|命中时}}使目标增加1级{{BuffPro|Laceration}}强度<br>{{硬币|4}}{{BuffPro|SuperCoin}}<br>{{颜色|命中时}}使目标增加1级{{BuffPro|Laceration}}强度<br>{{颜色|命中时}}解除目标所有{{BuffPro|BoneNailSinclair}}并在下回合对其施加层数相当于解除的{{BuffPro|BoneNailSinclair}}层数的{{BuffPro|ScarletTakeDamageUp}}(最多3层)<br>{{硬币|5}}{{BuffPro|SuperCoin}}<br>{{颜色|命中时}}触发目标的{{BuffPro|Laceration}}1次，并使其{{BuffPro|Laceration}}层数减少1层
+|强化3技能3-4阶技能威力=4
+|强化3技能3-4阶硬币威力=+3
+|强化3技能3-4阶={{BuffPro|TransformSinclair}}专用技能<br>{{颜色|使用前}}若自身的{{BuffPro|HungrySinclair}}层数低于150层，则使本技能转化为“贪求(la voracité)”<br>{{颜色|战斗开始}}消耗除自身以外属于红派的全体友方人格现存体力50%的体力并使其获得3层{{BuffPro|BuffetSinclair}}<br>{{颜色|使用时}}主要目标每带有4级{{BuffPro|Laceration}}强度，使本技能的最终威力+1(最多+2)<br>{{颜色|使用时}}若自身的{{BuffPro|ChargeRougeAlly}}强度不低于3级，则使本技能的硬币威力+1<br>{{颜色|使用时}}若自身处于{{BuffPro|BuffetSinclair}}状态，则使本技能的硬币威力+1<br>{{颜色|使用时}}本技能的攻击容量高于攻击目标数时，每高于1点，使本技能造成的伤害+50%(若是集中遭遇战，则改为以部位判定)<br>{{颜色|攻击后}}消耗所有{{BuffPro|HungrySinclair}}<br>{{硬币|1}}{{BuffPro|SuperCoin}}<br>{{颜色|命中时}}对目标施加2层{{BuffPro|Laceration}}<br>{{颜色|命中时}}对目标施加1层{{BuffPro|BoneNailSinclair}}<br>{{颜色|命中时}}若目标为主要目标，则本技能的攻击容量每高于目标数1点，对该目标额外施加1层{{BuffPro|BoneNailSinclair}}<br>{{硬币|2}}{{BuffPro|SuperCoin}}<br>{{颜色|命中时}}使目标增加1级{{BuffPro|Laceration}}强度<br>{{硬币|3}}{{BuffPro|SuperCoin}}<br>{{颜色|命中时}}使目标增加1级{{BuffPro|Laceration}}强度<br>{{硬币|4}}{{BuffPro|SuperCoin}}<br>{{颜色|命中时}}使目标增加1级{{BuffPro|Laceration}}强度<br>{{颜色|命中时}}解除目标所有{{BuffPro|BoneNailSinclair}}并在下回合对其施加层数相当于解除的{{BuffPro|BoneNailSinclair}}层数的{{BuffPro|ScarletTakeDamageUp}}(最多3层)<br>{{硬币|5}}{{BuffPro|SuperCoin}}<br>{{颜色|硬币开始时}}消耗自身最多15层{{BuffPro|ChargeRougeAlly}}并使本硬币造成的伤害+(消耗的{{BuffPro|ChargeRougeAlly}}层数×3)%<br>{{颜色|命中时}}触发目标的{{BuffPro|Laceration}}1次，并使其{{BuffPro|Laceration}}层数减少1层
+|4技能-图标=1101604
+|4技能-名称=逃离(la fuite)
+|类型=守备
+|4技能-罪孽2=色欲
+|4技能-硬币数=1
+|4技能-修正值=+2
+|4技能-3阶技能威力=3
+|4技能-3阶硬币威力=+10
+|4技能-3阶={{颜色|战斗开始}}若自身未带有{{BuffPro|BuffetSinclair}}且自身的{{BuffPro|ChargeRougeAlly}}层数低于15层，则消耗自身体力上限(15-现存{{BuffPro|ChargeRougeAlly}}层数)%的体力并使自身获得至15层{{BuffPro|ChargeRougeAlly}}(每回合最多1次)<br>{{颜色|闪避成功时}}使自身获得2层{{BuffPro|ChargeRougeAlly}}(每回合最多2次)
+|4技能-4阶技能威力=3
+|4技能-4阶硬币威力=+10
+|4技能-4阶={{颜色|战斗开始}}若自身未带有{{BuffPro|BuffetSinclair}}且自身的{{BuffPro|ChargeRougeAlly}}层数低于15层，则消耗自身体力上限(15-现存{{BuffPro|ChargeRougeAlly}}层数)%的体力并使自身获得至15层{{BuffPro|ChargeRougeAlly}}(每回合最多1次)<br>{{颜色|闪避成功时}}使自身获得2层{{BuffPro|ChargeRougeAlly}}(每回合最多2次)
+|7技能-图标=1101612
+|7技能-名称=护卫(la garde)
+|7技能-追加罪孽=yes
+|7技能-罪孽=暴食
+|7技能-硬币数=1
+|7技能-修正值=+0
+|7技能-1阶技能威力=2
+|7技能-1阶硬币威力=+7
+|7技能-1阶={{BuffPro|CanDuelGuard}}<br>本技能仅视作使用者的援护防御<br>若使用者使用本技能时受到攻击，则使高级定制::红派 赤红之神 辛克莱获得2层{{BuffPro|HungrySinclair}}<br>{{颜色|使用时}}目标每带有4级{{BuffPro|Laceration}}强度，使本技能的最终威力+1(最多+3)<br>{{硬币|1}}{{BuffPro|SuperCoin}}
+|7技能-4阶技能威力=2
+|7技能-4阶硬币威力=+7
+|7技能-4阶={{BuffPro|CanDuelGuard}}<br>本技能仅视作使用者的援护防御<br>若使用者使用本技能时受到攻击，则使高级定制::红派 赤红之神 辛克莱获得2层{{BuffPro|HungrySinclair}}<br>{{颜色|使用时}}目标每带有4级{{BuffPro|Laceration}}强度，使本技能的最终威力+1(最多+3)<br>{{硬币|1}}{{BuffPro|SuperCoin}}
+|6技能-图标=1101613
+|6技能-名称=一元特征(le trait unaire)
+|6技能-类型=突刺
+|6技能-罪孽=色欲
+|6技能-硬币数=2
+|6技能-修正值=+2
+|6技能-1阶技能威力=4
+|6技能-1阶硬币威力=+4
+|6技能-1阶=（在同步阶段3解锁）<br>{{颜色|可拼点反击}}<br>{{BuffPro|TransformSinclair}}专用技能<br>{{颜色|战斗开始}}若自身未带有{{BuffPro|BuffetSinclair}}且自身的{{BuffPro|ChargeRougeAlly}}层数低于15层，则消耗自身体力上限(15-现存{{BuffPro|ChargeRougeAlly}}层数)%的体力并使自身获得至15层{{BuffPro|ChargeRougeAlly}}(每回合最多1次)<br>{{颜色|使用时}}目标每带有4级{{BuffPro|Laceration}}强度，使本技能的最终威力+1(最多+2)<br>{{硬币|1}}{{颜色|命中时}}使目标增加1级{{BuffPro|Laceration}}强度<br>{{颜色|命中时}}对目标施加1层{{BuffPro|BoneNailSinclair}}<br>{{硬币|2}}{{颜色|命中时}}使目标增加1级{{BuffPro|Laceration}}强度<br>{{颜色|命中时}}对目标施加1层{{BuffPro|BoneNailSinclair}}
+|6技能-4阶技能威力=5
+|6技能-4阶硬币威力=+4
+|6技能-4阶={{颜色|可拼点反击}}<br>{{BuffPro|TransformSinclair}}专用技能<br>{{颜色|战斗开始}}若自身未带有{{BuffPro|BuffetSinclair}}且自身的{{BuffPro|ChargeRougeAlly}}层数低于15层，则消耗自身体力上限(15-现存{{BuffPro|ChargeRougeAlly}}层数)%的体力并使自身获得至15层{{BuffPro|ChargeRougeAlly}}(每回合最多1次)<br>{{颜色|使用时}}目标每带有4级{{BuffPro|Laceration}}强度，使本技能的最终威力+1(最多+2)<br>{{颜色|使用时}}若自身的{{BuffPro|ChargeRougeAlly}}强度不低于3/5级，则使本技能的硬币威力+1/+2<br>{{硬币|1}}{{颜色|命中时}}使目标增加1级{{BuffPro|Laceration}}强度<br>{{颜色|命中时}}对目标施加1层{{BuffPro|BoneNailSinclair}}<br>{{硬币|2}}{{颜色|命中时}}使目标增加1级{{BuffPro|Laceration}}强度<br>{{颜色|命中时}}对目标施加1层{{BuffPro|BoneNailSinclair}}<br>{{颜色|命中时}}若自身处于{{BuffPro|BuffetSinclair}}状态，则对目标施加1层{{BuffPro|BoneNailSinclair}}
+}}
+===被动===
+{{人格被动链接|1101601}}
+{{人格被动链接|1101621}}
+===演示===
+{{RichTab
+|prefix=2
+|形态1
+|
+{{RichTab
+|prefix=2
+|闲置
+|[[文件:11016Default.png|x300px|center]]
+|移动
+|[[文件:11016Move.png|x300px|center]]
+|闪避
+|[[文件:11016Evade.png|x300px|center]]
+|受伤
+|[[文件:11016Damaged.png|x300px|center]]
+|防御
+|[[文件:11016Guard.png|x300px|center]]
+|动态文件
+|<gallery>
+11016skill1.gif
+11016skill2.gif
+11016skill3.gif
+buffet_sinclair_idle-a_off-animation.gif
+buffet_sinclair_idle-a_on-animation.gif
+</gallery>
+}}
+|形态2
+|{{RichTab
+|prefix=2
+|闲置
+|[[文件:110162Default.png|x300px|center]]
+|移动
+|[[文件:110162Move.png|x300px|center]]
+|闪避
+|[[文件:110162Evade.png|x300px|center]]
+|受伤
+|[[文件:110162Damaged.png|x300px|center]]
+|防御
+|[[文件:110162Guard.png|x300px|center]]
+|动态文件
+|<gallery>
+11016skill2-1.gif
+11016skill2-2.gif
+11016skill2-3.gif
+11016skill2-4.gif
+buffet_sinclair_idle-b-small.gif
+</gallery>
+}}
+}}
+{{#html:Personalitygif2|{"1":"170","2":"https://huiji-public.huijistatic.com/limbuscompany/uploads/3/38/Buffet_sinclair_idle-a_off-animation.gif","3":"https://huiji-public.huijistatic.com/limbuscompany/uploads/3/3a/Buffet_sinclair_idle-b-small.gif"} }}
+{{#html:Background
+|{"background":"https://huiji-public.huijistatic.com/limbuscompany/uploads/4/4d/Buffet_Sinclair_T_BG.png"}
+}}
+
+==导航==
+{{辛克莱人格导航}}{{镜像世界人格导航|11016}}
+{{人格导航}}

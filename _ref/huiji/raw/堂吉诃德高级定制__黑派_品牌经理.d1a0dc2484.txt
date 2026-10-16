@@ -1,0 +1,254 @@
+{{人格（上）|堂吉诃德高级定制:黑派_品牌经理}}
+{{技能链接|
+|1技能-图标=1031501
+|1技能-名称=被钉刺穿吧
+|1技能-类型=打击
+|1技能-罪孽=傲慢
+|1技能-硬币数=2
+|1技能-修正值=+2
+|1技能-1阶技能威力=3
+|1技能-1阶硬币威力=+3
+|1技能-1阶={{颜色|使用时}}若自身的{{BuffPro|ChargeNoirAlly}}强度不低于3级，则使本技能的硬币威力+1<br>{{颜色|使用时}}使自身与除自身以外属于黑派的友方人格中{{BuffPro|Charge}}层数最低的1名友方单位获得2层{{BuffPro|Charge}}(每回合最多1次)<br>{{硬币|1}}{{颜色|命中时}}对目标施加2层{{BuffPro|Vibration}}<br>{{硬币|2}}{{颜色|命中时}}使自身获得4层{{BuffPro|ChargeNoirAlly}}
+|1技能-2阶={{颜色|使用时}}目标的{{BuffPro|Vibration}}强度与{{BuffPro|NoirNailDonQuixote}}层数之和每有4点，使本技能的最终威力+1(最多+2)<br>{{颜色|使用时}}若自身的{{BuffPro|ChargeNoirAlly}}强度不低于3级，则使本技能的硬币威力+1，造成的伤害+20%<br>{{颜色|使用时}}使自身与除自身以外属于黑派的友方人格中{{BuffPro|Charge}}层数最低的1名友方单位获得3层{{BuffPro|Charge}}(每回合最多1次)<br>{{硬币|1}}{{颜色|命中时}}对目标施加2层{{BuffPro|Vibration}}<br>{{硬币|2}}{{颜色|命中时}}使自身获得5层{{BuffPro|ChargeNoirAlly}}
+|1技能-3阶技能威力=3
+|1技能-3阶硬币威力=+4
+|1技能-4阶技能威力=3
+|1技能-4阶硬币威力=+4
+|1技能-4阶={{颜色|使用时}}目标的{{BuffPro|Vibration}}强度与{{BuffPro|NoirNailDonQuixote}}层数之和每有4点，使本技能的最终威力+1(最多+3)<br>{{颜色|使用时}}若自身的{{BuffPro|ChargeNoirAlly}}强度不低于3级，则使本技能的硬币威力+1，造成的伤害+40%<br>{{颜色|使用时}}使自身与除自身以外属于黑派的友方人格中{{BuffPro|Charge}}层数最低的1名友方单位获得4层{{BuffPro|Charge}}(每回合最多1次)<br>{{硬币|1}}{{颜色|命中时}}对目标施加2层{{BuffPro|Vibration}}<br>{{硬币|2}}{{颜色|命中时}}使自身获得6层{{BuffPro|ChargeNoirAlly}}
+|更多1技能=1
+|强化1技能-图标=1031505
+|强化1技能-名称=审判！
+|强化1技能-类型=打击
+|强化1技能-罪孽=傲慢
+|强化1技能-硬币数=1
+|强化1技能-修正值=+2
+|强化1技能-1阶技能威力=5
+|强化1技能-1阶硬币威力=+4
+|强化1技能-1阶={{颜色|无法拼点}}<br>本技能适用以下效果<br>- 不会触发守备技能<br>- 不会因外部效果而重复使用<br>- 直到本技能结束，目标的体力值不会低于1点<br>{{颜色|使用时}}目标的{{BuffPro|Vibration}}强度与{{BuffPro|NoirNailDonQuixote}}层数之和每有4点，使本技能的最终威力+1(最多+2)<br>{{颜色|使用时}}若自身的{{BuffPro|ChargeNoirAlly}}强度不低于3级，则使本技能的硬币威力+1，造成的伤害+20%<br>{{硬币|1}}{{颜色|命中时}}对目标施加1层{{BuffPro|NoirNailDonQuixote}}<br>{{颜色|命中时}}使目标增加3级{{BuffPro|Vibration}}强度
+|强化1技能-2阶={{颜色|无法拼点}}<br>本技能适用以下效果<br>- 不会触发守备技能<br>- 不会因外部效果而重复使用<br>- 直到本技能结束，目标的体力值不会低于1点<br>{{颜色|使用时}}目标的{{BuffPro|Vibration}}强度与{{BuffPro|NoirNailDonQuixote}}层数之和每有4点，使本技能的最终威力+1(最多+2)<br>{{颜色|使用时}}若自身的{{BuffPro|ChargeNoirAlly}}强度不低于3级，则使本技能的硬币威力+1，造成的伤害+20%<br>{{硬币|1}}{{颜色|命中时}}对目标施加1层{{BuffPro|NoirNailDonQuixote}}<br>{{颜色|命中时}}使目标增加3级{{BuffPro|Vibration}}强度
+|强化1技能-3阶技能威力=5
+|强化1技能-3阶硬币威力=+4
+|强化1技能-4阶技能威力=6
+|强化1技能-4阶硬币威力=+4
+|强化1技能-4阶={{颜色|无法拼点}}<br>本技能适用以下效果<br>- 不会触发守备技能<br>- 不会因外部效果而重复使用<br>- 直到本技能结束，目标的体力值不会低于1点<br>{{颜色|使用时}}目标的{{BuffPro|Vibration}}强度与{{BuffPro|NoirNailDonQuixote}}层数之和每有4点，使本技能的最终威力+1(最多+3)<br>{{颜色|使用时}}若自身的{{BuffPro|ChargeNoirAlly}}强度不低于3级，则使本技能的硬币威力+1，造成的伤害+40%<br>{{硬币|1}}{{颜色|命中时}}对目标施加1层{{BuffPro|NoirNailDonQuixote}}<br>{{颜色|命中时}}使目标增加4级{{BuffPro|Vibration}}强度
+|2技能-图标=1031502
+|2技能-名称=钉啊，生长吧
+|2技能-类型=打击
+|2技能-罪孽=嫉妒
+|2技能-硬币数=2
+|2技能-修正值=+2
+|2技能-1阶技能威力=6
+|2技能-1阶硬币威力=+4
+|2技能-1阶={{颜色|使用时}}若自身的{{BuffPro|ChargeNoirAlly}}强度不低于3级，则使本技能的硬币威力+1<br>{{硬币|1}}{{颜色|命中时}}对目标施加1层{{BuffPro|NoirNailDonQuixote}}<br>{{颜色|命中时}}使目标增加2级{{BuffPro|Vibration}}强度<br>{{硬币|2}}{{颜色|命中时}}使自身获得6层{{BuffPro|ChargeNoirAlly}}<br>{{颜色|命中时}}对目标施加3层{{BuffPro|Vibration}}<br>{{颜色|命中时}}使目标{{BuffPro|VibrationExplosion}}，并使其{{BuffPro|Vibration}}层数减少1层
+|2技能-2阶={{颜色|使用时}}目标的{{BuffPro|Vibration}}强度与{{BuffPro|NoirNailDonQuixote}}层数之和每有4点，使本技能的最终威力+1(最多+2)<br>{{颜色|使用时}}若自身的{{BuffPro|ChargeNoirAlly}}强度不低于3级，则使本技能的硬币威力+1，造成的伤害+20%<br>{{颜色|攻击前}}每有1点最大共鸣数，使本技能最后一枚硬币的最终威力+1(最多+4)<br>{{硬币|1}}{{颜色|命中时}}对目标施加1层{{BuffPro|NoirNailDonQuixote}}<br>{{颜色|命中时}}使目标增加3级{{BuffPro|Vibration}}强度<br>{{硬币|2}}{{颜色|命中时}}使自身获得7层{{BuffPro|ChargeNoirAlly}}<br>{{颜色|命中时}}对目标施加3层{{BuffPro|Vibration}}<br>{{颜色|命中时}}使目标{{BuffPro|VibrationExplosion}}，并使其{{BuffPro|Vibration}}层数减少1层
+|2技能-3阶技能威力=6
+|2技能-3阶硬币威力=+5
+|2技能-4阶技能威力=6
+|2技能-4阶硬币威力=+5
+|2技能-4阶={{颜色|使用时}}目标的{{BuffPro|Vibration}}强度与{{BuffPro|NoirNailDonQuixote}}层数之和每有4点，使本技能的最终威力+1(最多+3)<br>{{颜色|使用时}}若自身的{{BuffPro|ChargeNoirAlly}}强度不低于3级，则使本技能的硬币威力+1，造成的伤害+30%<br>{{颜色|攻击前}}每有1点最大共鸣数，使本技能最后一枚硬币的最终威力+1(最多+4)<br>{{硬币|1}}{{颜色|命中时}}对目标施加1层{{BuffPro|NoirNailDonQuixote}}<br>{{颜色|命中时}}使目标增加4级{{BuffPro|Vibration}}强度<br>{{硬币|2}}{{颜色|命中时}}使自身获得8层{{BuffPro|ChargeNoirAlly}}<br>{{颜色|命中时}}对目标施加3层{{BuffPro|Vibration}}<br>{{颜色|命中时}}使目标{{BuffPro|VibrationExplosion}}，并使其{{BuffPro|Vibration}}层数减少1层
+|3技能-图标=1031503
+|3技能-名称=吾将断绝汝之诞生！
+|3技能-类型=打击
+|3技能-罪孽=怠惰
+|3技能-硬币数=3
+|3技能-修正值=+3
+|3技能-3阶技能威力=4
+|3技能-3阶硬币威力=+4
+|3技能-3阶={{颜色|战斗开始}}使自身获得3层{{BuffPro|OathFieldDonQuixote}}(每回合最多1次)<br>{{颜色|战斗开始}}使自身与除自身以外属于黑派的友方人格中速度值最高的1名友方单位获得2层{{BuffPro|AttackUp}}与2层{{BuffPro|DefenseUp}}(每回合最多1次)<br>{{颜色|使用时}}若目标的{{BuffPro|Vibration}}强度与{{BuffPro|NoirNailDonQuixote}}层数之和不低于6点，则使本技能的硬币威力+1<br>{{颜色|使用时}}若自身的{{BuffPro|ChargeNoirAlly}}强度不低于3级，则使本技能的硬币威力+1，造成的伤害+20%<br>{{颜色|攻击前}}每有1点最大共鸣数，使本技能最后一枚硬币的最终威力+1(最多+4)<br>{{硬币|1}}{{颜色|命中时}}对目标施加1层{{BuffPro|NoirNailDonQuixote}}<br>{{颜色|命中时}}使目标增加3级{{BuffPro|Vibration}}强度<br>{{硬币|2}}{{颜色|命中时}}对目标施加3层{{BuffPro|Vibration}}<br>{{硬币|3}}{{颜色|命中时}}使自身获得3层{{BuffPro|ChargeNoirAlly}}<br>{{颜色|命中时}}使目标{{BuffPro|Switch_Vibration}}为{{BuffPro|VibrationFocusing}}<br>{{颜色|命中时}}使目标{{BuffPro|VibrationExplosion}}，并使其{{BuffPro|Vibration}}层数减少1层<br>{{颜色|命中时}}若目标的{{BuffPro|NoirNailDonQuixote}}层数不低于3层，则使其{{BuffPro|VibrationExplosion}}，并使其{{BuffPro|Vibration}}层数减少1层
+|3技能-4阶技能威力=5
+|3技能-4阶硬币威力=+4
+|3技能-4阶={{颜色|战斗开始}}使自身获得3层{{BuffPro|OathFieldDonQuixote}}(每回合最多1次)<br>{{颜色|战斗开始}}使自身与除自身以外属于黑派的友方人格中速度值最高的1名友方单位获得2层{{BuffPro|AttackUp}}与2层{{BuffPro|DefenseUp}}(每回合最多1次)<br>{{颜色|使用时}}目标的{{BuffPro|Vibration}}强度与{{BuffPro|NoirNailDonQuixote}}层数之和每有6点，使本技能的硬币威力+1(最多+2)<br>{{颜色|使用时}}若自身的{{BuffPro|ChargeNoirAlly}}强度不低于3级，则使本技能的硬币威力+1，造成的伤害+40%<br>{{颜色|攻击前}}每有1点最大共鸣数，使本技能最后一枚硬币的最终威力+1(最多+4)<br>{{硬币|1}}{{颜色|命中时}}对目标施加1层{{BuffPro|NoirNailDonQuixote}}<br>{{颜色|命中时}}使目标增加4级{{BuffPro|Vibration}}强度<br>{{硬币|2}}{{颜色|命中时}}对目标施加3层{{BuffPro|Vibration}}<br>{{硬币|3}}{{颜色|命中时}}使自身获得4层{{BuffPro|ChargeNoirAlly}}<br>{{颜色|命中时}}使目标{{BuffPro|Switch_Vibration}}为{{BuffPro|VibrationFocusing}}<br>{{颜色|命中时}}使目标{{BuffPro|VibrationExplosion}}，并使其{{BuffPro|Vibration}}层数减少1层<br>{{颜色|命中时}}若目标的{{BuffPro|NoirNailDonQuixote}}层数不低于3层，则使其{{BuffPro|VibrationExplosion}}，并使其{{BuffPro|Vibration}}层数减少1层
+|5技能-图标=1031506
+|5技能-攻击容量=3
+|5技能-名称=几度挥落，吾将断绝汝之诞生！
+|5技能-类型=打击
+|5技能-罪孽=怠惰
+|5技能-硬币数=3
+|5技能-修正值=+4
+|5技能-3阶技能威力=4
+|5技能-3阶硬币威力=+4
+|5技能-3阶=守备技能改为使用本技能时，本技能视作攻击技能，不受改变守备威力的效果影响，而改为适用于改变攻击威力的效果<br>{{颜色|战斗开始}}使属于黑派的全体友方人格获得2层{{BuffPro|AttackUp}}与2层{{BuffPro|DefenseUp}}(每回合最多1次)<br>{{颜色|使用时}}若全体攻击目标的{{BuffPro|Vibration}}强度与{{BuffPro|NoirNailDonQuixote}}层数之和不低于6点，则使本技能的硬币威力+1<br>{{颜色|使用时}}若自身的{{BuffPro|ChargeNoirAlly}}强度不低于3级，则使本技能的硬币威力+1<br>{{颜色|使用时}}本技能的攻击容量高于攻击目标数时，每高于1点，使本技能造成的伤害+30%(若是集中遭遇战，则改为以部位判定)<br>{{颜色|攻击前}}每有1点最大共鸣数，使本技能最后一枚硬币的最终威力+2(最多+8)<br>{{颜色|攻击后}}消耗所有{{BuffPro|NoirShieldUpDonQuixote}}<br>{{硬币|1}}{{颜色|命中时}}对目标施加1层{{BuffPro|NoirNailDonQuixote}}<br>{{颜色|命中时}}使目标增加1级{{BuffPro|Vibration}}强度<br>{{硬币|2}}{{颜色|命中时}}对目标施加1层{{BuffPro|NoirNailDonQuixote}}<br>{{颜色|命中时}}使目标增加1级{{BuffPro|Vibration}}强度<br>{{硬币|3}}{{颜色|命中时}}对目标施加3层{{BuffPro|Vibration}}<br>{{颜色|命中时}}使自身获得3层{{BuffPro|ChargeNoirAlly}}(每枚硬币最多1次)<br>{{颜色|命中时}}使目标{{BuffPro|Switch_Vibration}}为{{BuffPro|VibrationFocusing}}<br>{{颜色|命中时}}使目标{{BuffPro|VibrationExplosion}}，并使其{{BuffPro|Vibration}}层数减少1层<br>{{颜色|命中时}}根据目标的{{BuffPro|NoirNailDonQuixote}}层数，使其触发以下效果<br>- 若目标的{{BuffPro|NoirNailDonQuixote}}层数不低于3层，则使其{{BuffPro|VibrationExplosion}}，并使其{{BuffPro|Vibration}}层数减少1层<br>- 对目标造成本硬币最终伤害量(目标的{{BuffPro|NoirNailDonQuixote}}层数×1.5)%的怠惰伤害(最多45%)<br>- 消耗目标所有{{BuffPro|NoirNailDonQuixote}}
+|5技能-4阶技能威力=6
+|5技能-4阶硬币威力=+4
+|5技能-4阶=守备技能改为使用本技能时，本技能视作攻击技能，不受改变守备威力的效果影响，而改为适用于改变攻击威力的效果<br>{{颜色|战斗开始}}使属于黑派的全体友方人格获得2层{{BuffPro|AttackUp}}与2层{{BuffPro|DefenseUp}}(每回合最多1次)<br>{{颜色|使用时}}全体攻击目标的{{BuffPro|Vibration}}强度与{{BuffPro|NoirNailDonQuixote}}层数之和每有6点，使本技能的硬币威力+1(最多+2)<br>{{颜色|使用时}}若自身的{{BuffPro|ChargeNoirAlly}}强度不低于3级，则使本技能的硬币威力+1<br>{{颜色|使用时}}本技能的攻击容量高于攻击目标数时，每高于1点，使本技能造成的伤害+50%(若是集中遭遇战，则改为以部位判定)<br>{{颜色|攻击前}}每有1点最大共鸣数，使本技能最后一枚硬币的最终威力+2(最多+8)<br>{{颜色|攻击后}}消耗所有{{BuffPro|NoirShieldUpDonQuixote}}<br>{{硬币|1}}{{颜色|命中时}}对目标施加1层{{BuffPro|NoirNailDonQuixote}}<br>{{颜色|命中时}}使目标增加2级{{BuffPro|Vibration}}强度<br>{{硬币|2}}{{颜色|命中时}}对目标施加1层{{BuffPro|NoirNailDonQuixote}}<br>{{颜色|命中时}}使目标增加2级{{BuffPro|Vibration}}强度<br>{{硬币|3}}{{颜色|命中时}}对目标施加3层{{BuffPro|Vibration}}<br>{{颜色|命中时}}使自身获得4层{{BuffPro|ChargeNoirAlly}}(每枚硬币最多1次)<br>{{颜色|命中时}}使目标{{BuffPro|Switch_Vibration}}为{{BuffPro|VibrationFocusing}}<br>{{颜色|命中时}}使目标{{BuffPro|VibrationExplosion}}，并使其{{BuffPro|Vibration}}层数减少1层<br>{{颜色|命中时}}根据目标的{{BuffPro|NoirNailDonQuixote}}层数，使其触发以下效果<br>- 若目标的{{BuffPro|NoirNailDonQuixote}}层数不低于3层，则使其{{BuffPro|VibrationExplosion}}，并使其{{BuffPro|Vibration}}层数减少1层<br>- 对目标造成本硬币最终伤害量(目标的{{BuffPro|NoirNailDonQuixote}}层数×3)%的怠惰伤害(最多90%)<br>- 消耗目标所有{{BuffPro|NoirNailDonQuixote}}
+|4技能-图标=1031504
+|4技能-名称=默示
+|类型=攻击
+|4技能-类型=打击
+|4技能-罪孽=怠惰
+|4技能-硬币数=2
+|4技能-修正值=+4
+|4技能-突破=1
+|4技能-2阶硬币威力=+3
+|4技能-2阶技能威力=5
+|4技能-2阶={{颜色|战斗开始}}使自身获得3层{{BuffPro|OathFieldDonQuixote}}(每回合最多1次)<br>{{颜色|战斗开始}}使自身与除自身以外属于黑派的友方人格中理智值最低的1名友方单位恢复4点理智值(每回合最多1次)<br>{{颜色|战斗开始}}使自身获得2层{{BuffPro|ChargeNoirAlly}}(每回合最多1次)<br>{{颜色|使用时}}若自身的{{BuffPro|ChargeNoirAlly}}强度不低于3级，则使本技能的硬币威力+1<br>{{硬币|1}}{{颜色|命中时}}对目标施加1层{{BuffPro|NoirNailDonQuixote}}<br>{{颜色|命中时}}对目标施加2层{{BuffPro|Vibration}}<br>{{硬币|2}}{{颜色|命中时}}使自身获得2层{{BuffPro|ChargeNoirAlly}}
+|4技能-3阶技能威力=5
+|4技能-3阶硬币威力=+4
+|4技能-3阶={{颜色|战斗开始}}使自身获得3层{{BuffPro|OathFieldDonQuixote}}(每回合最多1次)<br>{{颜色|战斗开始}}使自身与除自身以外属于黑派的友方人格中理智值最低的1名友方单位恢复5点理智值(每回合最多1次)<br>{{颜色|战斗开始}}根据自身的{{BuffPro|NoirShieldUpDonQuixote}}层数，触发以下效果<br>- 若自身的{{BuffPro|NoirShieldUpDonQuixote}}层数为100层，则改为使用“几度挥落，吾将断绝汝之诞生！”(每回合最多1次，该效果在单方面攻击时也会触发)<br>- 若自身的{{BuffPro|NoirShieldUpDonQuixote}}层数低于100层，则使自身获得体力上限(自身的{{BuffPro|NoirShieldUpDonQuixote}}层数/10)%的护盾(每回合最多1次)<br>{{颜色|战斗开始}}使自身获得3层{{BuffPro|ChargeNoirAlly}}(每回合最多1次)<br>{{颜色|使用时}}若目标的{{BuffPro|Vibration}}强度与{{BuffPro|NoirNailDonQuixote}}层数之和不低于6点，则使本技能的硬币威力+1<br>{{颜色|使用时}}若自身的{{BuffPro|ChargeNoirAlly}}强度不低于3级，则使本技能的硬币威力+1，造成的伤害+10%<br>{{硬币|1}}{{颜色|命中时}}对目标施加1层{{BuffPro|NoirNailDonQuixote}}<br>{{颜色|命中时}}对目标施加2层{{BuffPro|Vibration}}<br>{{硬币|2}}{{颜色|命中时}}使自身获得3层{{BuffPro|ChargeNoirAlly}}
+|4技能-4阶技能威力=5
+|4技能-4阶硬币威力=+4
+|4技能-4阶={{颜色|战斗开始}}使自身获得3层{{BuffPro|OathFieldDonQuixote}}(每回合最多1次)<br>{{颜色|战斗开始}}使自身与除自身以外属于黑派的友方人格中理智值最低的1名友方单位恢复6点理智值(每回合最多1次)<br>{{颜色|战斗开始}}根据自身的{{BuffPro|NoirShieldUpDonQuixote}}层数，触发以下效果<br>- 若自身的{{BuffPro|NoirShieldUpDonQuixote}}层数为100层，则改为使用“几度挥落，吾将断绝汝之诞生！”(每回合最多1次，该效果在单方面攻击时也会触发)<br>- 若自身的{{BuffPro|NoirShieldUpDonQuixote}}层数低于100层，则使自身获得体力上限(自身的{{BuffPro|NoirShieldUpDonQuixote}}层数/10)%的护盾(每回合最多1次)<br>{{颜色|战斗开始}}使自身获得4层{{BuffPro|ChargeNoirAlly}}(每回合最多1次)<br>{{颜色|使用时}}目标的{{BuffPro|Vibration}}强度与{{BuffPro|NoirNailDonQuixote}}层数之和每有6点，使本技能的硬币威力+1(最多+2)<br>{{颜色|使用时}}若自身的{{BuffPro|ChargeNoirAlly}}强度不低于3级，则使本技能的硬币威力+1，造成的伤害+20%<br>{{硬币|1}}{{颜色|命中时}}对目标施加1层{{BuffPro|NoirNailDonQuixote}}<br>{{颜色|命中时}}对目标施加2层{{BuffPro|Vibration}}<br>{{硬币|2}}{{颜色|命中时}}使自身获得4层{{BuffPro|ChargeNoirAlly}}
+}}
+===被动===
+{{人格被动链接|1031502}}
+{{人格被动链接|1031503}}
+{{人格被动链接|1031504}}
+{{人格被动链接|1031501}}
+{{人格被动链接|1031521}}
+==人格相关信息==
+#该人格的三技能{{罪孽颜色|怠惰|吾将断绝汝之诞生！}}与强化技能{{罪孽颜色|怠惰|几度挥落，吾将断绝汝之诞生！}}拥有特殊拼点胜利动画。
+#该人格行动槽选择技能{{罪孽颜色|怠惰|默示}}时，若该技能满足可转化为强化技能{{罪孽颜色|怠惰|几度挥落，吾将断绝汝之诞生！}}的条件，技能图标会出现闪光特效。
+#战斗中，当带有{{BuffPro|NoirNailDonQuixote}}的敌方单位受到{{状态2|震颤引爆|4=负面}}时将触发<span style="color:#FFD700">爆发特效</span>。
+#战斗中，当该人格带有的{{BuffPro|NoirShieldUpDonQuixote}}层数达到上限时，该人格模型脑后将浮现巨大发光的<span style="color:#FFD700">保存神域标志</span>。
+#该人格的强化技能{{罪孽颜色|怠惰|几度挥落，吾将断绝汝之诞生！}}的最后一枚硬币正面命中时将触发<span style="color:gold;background:black">烫金色闪光特效</span>。
+#战斗中，该人格获得{{BuffPro|OathFieldDonQuixote}}时，若该人格未带有{{BuffPro|OathFieldDonQuixote}}，则触发以锤柄敲击地面动画；若该人格带有{{BuffPro|OathFieldDonQuixote}}，战斗背景中将浮现<span style="color:#FFD700">保存神域</span>，若自身{{BuffPro|ChargeNoirAlly}}强度不低于3级，还将于地板上额外浮现<span style="color:#FFD700">大锤投影</span>。
+==预览==
+===演示===
+{{RichTab
+|prefix=2
+|闲置
+|[[文件:10315Default.png|x300px|center]]
+|移动
+|[[文件:10315Move.png|x300px|center]]
+|闪避
+|[[文件:10315Evade.png|x300px|center]]
+|受伤
+|[[文件:10315Damaged.png|x300px|center]]
+|防御
+|[[文件:10315Guard.png|x300px|center]]
+|特写
+|[[文件:10315Cut.png|x300px|center]]
+|动态文件
+|<gallery>
+10315skill1.gif
+10315skill2.gif
+10315skill3.gif
+10315idlesmall.gif
+</gallery>
+}}{{#html:Personalitygif|{"1":"https://huiji-public.huijistatic.com/limbuscompany/uploads/f/ff/10315idlesmall.gif"} }}
+===语音台词===
+{{语音台词|
+|角色=10315
+|格式=2
+|获得时=神曰。安乐属于黑派，而苦难与铁锤则是身为品牌经理的吾之职责。<br>身负这应尽之责，吾向汝发问。汝是遵从规律之人。亦或是……扰乱规则之徒呢。
+|早间问候=新的季度已然开启。此次亦当正义而勇敢，纵使逆境亦不屈服坚定向前。<br>为了让这百货店中的数亿顾客能够仰望黑派的时尚。
+|午间问候=阳光炽盛，可憎的虚无派们也愈发碍眼。其真正的目的与红派并无二致……但对于那些悠然地沐浴着光的，懒散度日之辈。吾实在不愿意多费心神。
+|晚间问候=……不久后季度将终结。如此忙碌奔波，替汝披上的铠甲竟已磨损到这般地步。<br>改衣师想必也正在忙碌……待今日事务结束后吾便会造访4F，所以不要太过消沉了，驽骍难得啊。
+|对话 1=自从将奢侈品馆让给红派以来，声望便每况愈下……于此般季度，将品牌高端化，提升稀缺性之战略向来颇为奏效。<br>……为保存价值，应进行大规模召回。先从售与褐派的服装开始，依序回收吧。
+|对话 2=虽在2F失去立足之地，也不必过于消沉。黑派之荣光，岂会只在奢侈品馆中？<br>吾身为品牌经理，会将尚不够高贵的黑派一并接纳，助他们追求与黑派相称之时尚。汝等也去行力所能及之事吧。
+|对话 3=吾已有所侍奉之声。对汝之温和慰藉致以谢意……但吾并无违背信义之意。<br>即使这份信仰未能得到漆黑之神承认。
+|同步后对话 1=圣音对于“伪神”的戏弄，竟莫名地毫无兴趣……看来并非吾的错觉。<br>就连一再陷入癫狂的秩序，亦不过是命运的些许端倪吗……又或是，对吾之资格的试炼吗。呼。首先要理清这混乱不堪的思绪才是。
+|同步后对话 2=吾连楼层经理都未曾告知，暗中处理了此事……托付于改衣师的黄金线团，终究还是落入红派之手了吗。<br>若非流言已经泄露，难道是那区区伪神窥见了预言吗？
+|闲置=……今日的店铺寂静无声。圣音啊……汝抛下黑派，去往了何方。
+|进行同步=结果诚如预言所说，红派之梦早已浸染邪恶。吾会将汝等那贪欲而饥饿之梦钉起……尽吾全力，挥锤砸下。
+|人格出战=既已紧握锤柄，自当挥落砸下。
+|进入战斗=让开道路。如此，吾便不会怀疑汝等的正义。
+|战斗中选中人格=嘘。默视吧。漆黑之神即将赐下其圣音。
+|进行攻击=吾将立于汝等身前。
+|敌方混乱=默视吧。
+|陷入混乱=……何其不敬。
+|击杀敌方=此乃神之惩罚。
+|友方阵亡=吾亦……当得以保存……
+|判定成功=既有漆黑之神庇佑，便再无迷惘与失败。
+|判定失败=所谓遭遇不幸，便是幸运将临之兆。
+|战斗胜利=纵有众多之人倒下，亦无须徒增担心。西西弗百货，将铭记吾等所受过的一切苦痛……<br>倒下的黑派亦将化作布料与支柱……成为编织永恒的助力。
+|EX CLEAR战斗胜利=……秩序井然，亦是命运所定之终局。漆黑之神，竟早已将一切安排妥当么。
+|战斗失败=吾……遵从无乱之秩序，从未违逆规则……为护其周全……纵使……舍去性命……
+}}
+===技能语音===
+<div class="mw-collapsible">
+<div class="mw-collapsible-content">
+{| class="wikitable" style="width: 100%"
+|-
+|width="105px"|技能一-1
+|width="75px"|[[文件:battle_s1_10315_1_1.ogg|50px]]
+|width="75px"|[[文件:battle_s1_10315_1_1-01.ogg|50px]]
+|width="75px"|[[文件:battle_s1_10315_1_1-02.ogg|50px]]
+||[[文件:battle_s1_10315_1_1-03.ogg|50px]]
+|-
+||技能一-2
+||[[文件:battle_s1_10315_1_2.ogg|50px]]
+||[[文件:battle_s1_10315_1_2-01.ogg|50px]]
+||[[文件:battle_s1_10315_1_2-02.ogg|50px]]
+||[[文件:battle_s1_10315_1_2-03.ogg|50px]]
+|-
+||技能二-1
+||[[文件:battle_s2_10315_1_1.ogg|50px]]
+||[[文件:battle_s2_10315_1_1-01.ogg|50px]]
+|-
+||技能二-2
+||[[文件:battle_s2_10315_1_2.ogg|50px]]
+||[[文件:battle_s2_10315_1_2-01.ogg|50px]]
+|-
+||技能二-3
+||[[文件:battle_s2_10315_1_3.ogg|50px]]
+||[[文件:battle_s2_10315_1_3-01.ogg|50px]]
+|-
+||技能三
+||[[文件:battle_s3_10315_1_1.ogg|50px]]
+|colspan="10" style="text-align: left;"|将其钉起。
+|-
+||
+||[[文件:battle_s3_10315_1_2.ogg|50px]]
+|-
+||
+||[[文件:battle_s3_10315_1_3.ogg|50px]]
+|colspan="10" style="text-align: left;"|挥锤砸下！
+||
+|}
+</div></div>
+
+===特殊语音===
+<div class="mw-collapsible">
+<div class="mw-collapsible-content">
+{| class="wikitable" style="width:100%"
+|-
+|width="55px"|[[文件:battle_special_10315_1_1.ogg|50px]]||使用技能一-2 审判！ 时随机触发1
+|-style="color:#E5CAA5"
+|| ||闪光！
+|-
+|width="55px"|[[文件:battle_special_10315_1_2.ogg|50px]]||使用技能一-2 审判！ 时随机触发2
+|-style="color:#E5CAA5"
+|| ||审判！
+|-
+|width="55px"|[[文件:battle_special_10315_2_1.ogg|50px]]||使用技能三-2 几度挥落，吾将断绝汝之诞生！ 时触发1
+|-style="color:#E5CAA5"
+|| ||因汝之罪孽，无比深重。吾在此宣告神罚！
+|-
+|width="55px"|[[文件:battle_special_10315_2_2.ogg|50px]]||使用技能三-2 几度挥落，吾将断绝汝之诞生！ 时触发2
+|-style="color:#E5CAA5"
+|| ||几度挥落，吾将击碎汝之生命。将其化为齑粉！
+|-
+|width="55px"|[[文件:battle_special_10315_3.ogg|50px]]||击杀回合开始前带有{{BuffPro|NoirNailDonQuixote}}的敌人时触发
+|-style="color:#E5CAA5"
+|| ||约定之安息。
+|-
+|width="55px"|[[文件:battle_special_10315_4.ogg|50px]]||若自身无{{BuffPro|OathFieldDonQuixote}}，则获得{{BuffPro|OathFieldDonQuixote}}时触发
+|-style="color:#E5CAA5"
+|| ||神域宣告。必灿然辉耀。
+|-
+|width="55px"|[[文件:battle_special_10315_5.ogg|50px]]||未实装（猜测：获得漆黑之神的强化时触发）
+|-style="color:#E5CAA5"
+|| ||追随光芒吧。（wiki自译）
+|-
+|width="55px"|[[文件:battle_special_10315_6_1.ogg|50px]]||未实装（猜测：与漆黑之神共同登场时随机触发1）
+|-style="color:#E5CAA5"
+|| ||高贵的神之化身已然降临，黑派啊，永恒指日可待。（wiki自译）
+|-
+|width="55px"|[[文件:battle_special_10315_6_2.ogg|50px]]||未实装（猜测：与漆黑之神共同登场时随机触发2）
+|-style="color:#E5CAA5"
+|| ||漆黑之神啊，汝之锤已经准备好被挥动了。（wiki自译）
+|-
+|width="55px"|[[文件:battle_special_10315_7.ogg|50px]]||未实装（猜测：非黑派人格施加强化时触发）
+|-style="color:#E5CAA5"
+|| ||虽不情愿，但也无可奈何。邪恶之人啊，吾暂缓汝之审判。（wiki自译）
+|-
+|width="55px"|[[文件:battle_special_10315_8.ogg|50px]]||与黑派人格共同登场时触发
+|-style="color:#E5CAA5"
+|| ||遵循秩序行动。
+|}
+</div></div>
+
+==导航==
+{{堂吉诃德人格导航}}{{镜像世界人格导航|10315}}
+{{人格导航}}

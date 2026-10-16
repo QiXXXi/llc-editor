@@ -1,0 +1,577 @@
+
+console.log("君が今も生きてるなら 応えてくれ僕に");
+
+// 颜色映射表
+var COLOR_MAP = {
+    '常规': '#a16a3b',
+    '暴怒': '#A0392B',
+    '色欲': '#BB521F',
+    '怠惰': '#C9A424',
+    '暴食': '#849A30',
+    '忧郁': '#40A1B5',
+    '傲慢': '#305E87',
+    '嫉妒': '#6E4D7E',
+    '疯狂': '#ffffff',
+    '恐惧': '#444444'
+};
+
+// 缩小比例
+var SCALE = 0.8;
+
+// 创建独立模块的函数
+function createTextSkillModule(container) {
+    var imgCache = null;
+    var isLoading = false;
+    var callbacks = [];
+
+    // 从data属性获取配置
+    var colorName = container.getAttribute('data-color') || '暴怒';
+    var text = container.getAttribute('data-text') || '技能';
+    var selectedColor = COLOR_MAP[colorName] || '#A0392B';
+    
+    // 设置唯一ID
+    var containerId = 'textskill-container-' + new Date().getTime() + '-' + Math.random().toString(36).substr(2, 9);
+    container.id = containerId;
+
+    // 加载并缓存图片
+    function loadImg(cb) {
+        if (imgCache) { cb(imgCache); return; }
+        if (isLoading) { callbacks.push(cb); return; }
+        
+        isLoading = true;
+        var img = new Image();
+        img.crossOrigin = "anonymous";
+        img.src = 'https://huiji-public.huijistatic.com/limbuscompany/uploads/d/da/BattleUI_CoinPopup_skillName.png';
+        
+        callbacks.push(cb);
+        
+        img.onload = function() {
+            imgCache = img;
+            isLoading = false;
+            for (var i = 0; i < callbacks.length; i++) {
+                callbacks[i](img);
+            }
+            callbacks = [];
+        };
+        
+        img.onerror = function() {
+            isLoading = false;
+            for (var i = 0; i < callbacks.length; i++) {
+                callbacks[i](null);
+            }
+            callbacks = [];
+        };
+    }
+
+    // 应用颜色到图片
+    function applyColor(img, color, callback) {
+        var canvas = document.createElement('canvas');
+        var ctx = canvas.getContext('2d');
+        
+        canvas.width = img.width;
+        canvas.height = img.height;
+        ctx.drawImage(img, 0, 0);
+        
+        var imgData = ctx.getImageData(0, 0, canvas.width, canvas.height);
+        var data = imgData.data;
+        
+        // 解析目标颜色
+        var hex = color.replace('#', '');
+        var r = parseInt(hex.substring(0, 2), 16);
+        var g = parseInt(hex.substring(2, 4), 16);
+        var b = parseInt(hex.substring(4, 6), 16);
+        
+        // 处理每个像素
+        for (var i = 0; i < data.length; i += 4) {
+            var brightness = (data[i] + data[i+1] + data[i+2]) / 765;
+            data[i] = r * brightness;
+            data[i+1] = g * brightness;
+            data[i+2] = b * brightness;
+        }
+        
+        ctx.putImageData(imgData, 0, 0);
+        
+        var coloredImg = new Image();
+        coloredImg.onload = function() {
+            callback(coloredImg);
+        };
+        coloredImg.src = canvas.toDataURL('image/png');
+    }
+
+    // 创建中间重复图案
+    function createPattern(img, leftWidth, middleWidth, height) {
+        var canvas = document.createElement('canvas');
+        var ctx = canvas.getContext('2d');
+        
+        canvas.width = middleWidth;
+        canvas.height = height;
+        
+        var scale = height / img.height;
+        
+        ctx.drawImage(
+            img,
+            leftWidth / scale, 0, middleWidth / scale, img.height,
+            0, 0, middleWidth, height
+        );
+        
+        return canvas.toDataURL('image/png');
+    }
+
+    // 更新DOM元素
+    function updateElements(scaledW, leftW, middleW, rightW, height, img) {
+        var left = container.querySelector('.textskill-left');
+        var middle = container.querySelector('.textskill-middle-repeat');
+        var right = container.querySelector('.textskill-right');
+        
+        if (!left || !middle || !right) {
+            console.warn('容器结构不完整，跳过更新');
+            return;
+        }
+        
+        left.style.width = leftW + 'px';
+        left.style.backgroundSize = scaledW + 'px 100%';
+        
+        right.style.width = rightW + 'px';
+        right.style.backgroundSize = scaledW + 'px 100%';
+        right.style.backgroundPosition = '-' + (leftW + middleW) + 'px 0';
+        
+        if (img && img.src) {
+            left.style.backgroundImage = 'url(' + img.src + ')';
+            right.style.backgroundImage = 'url(' + img.src + ')';
+        }
+        
+        if (img) {
+            var pattern = createPattern(img, leftW, middleW, height);
+            middle.style.backgroundImage = 'url(' + pattern + ')';
+            middle.style.backgroundSize = middleW + 'px 100%';
+        }
+    }
+
+    // 调整容器宽度
+    function adjustWidth(rightW) {
+        var textElem = container.querySelector('.textskill-text');
+        var middleContainer = container.querySelector('.textskill-middle-container');
+        var middle = container.querySelector('.textskill-middle-repeat');
+        
+        if (!textElem || !middleContainer || !middle) return;
+        
+        var textW = textElem.scrollWidth + 20;
+        var middleW = Math.max(0, textW - rightW);
+        
+        middle.style.width = middleW + 'px';
+        middleContainer.style.width = textW + 'px';
+    }
+
+    // 主初始化函数
+    function init() {
+        loadImg(function(img) {
+            if (!img) {
+                // 图片加载失败，使用默认尺寸
+                var w = 96;
+                var leftW = Math.round(w * 0.05);
+                var middleW = Math.round(w * 0.65);
+                var rightW = Math.round(w * 0.30);
+                updateElements(w, leftW, middleW, rightW, 32, null);
+                adjustWidth(rightW);
+                return;
+            }
+            
+            // 应用颜色
+            applyColor(img, selectedColor, function(coloredImg) {
+                // 计算尺寸
+                var containerH = 32;
+                var scale = containerH / coloredImg.height;
+                var scaledW = coloredImg.width * scale;
+                
+                var leftW = Math.round(scaledW * 0.05);
+                var middleW = Math.round(scaledW * 0.65);
+                var rightW = Math.round(scaledW * 0.30);
+                
+                // 更新元素
+                updateElements(scaledW, leftW, middleW, rightW, containerH, coloredImg);
+                adjustWidth(rightW);
+            });
+        });
+    }
+
+    return {
+        init: init,
+        containerId: containerId,
+        color: selectedColor,
+        text: text
+    };
+}
+
+
+mw.hook('wikipage.content').add(function($content) {
+
+    var containers = $content[0].querySelectorAll('.textskill-container');
+    var modules = [];
+    
+    for (var i = 0; i < containers.length; i++) {
+        var container = containers[i];
+
+        if (container.className.indexOf('initialized') === -1) {
+            container.className += ' initialized';
+            
+            var module = createTextSkillModule(container);
+            modules.push(module);
+            module.init();
+            
+            console.log('初始化模块: ID=' + module.containerId + ', 颜色=' + module.color + ', 文本="' + module.text + '"');
+        }
+    }
+    
+    if (modules.length > 0) {
+        console.log('共初始化 ' + modules.length + ' 个技能模块');
+    }
+});
+/* ===== 人格技能选择器（personalityskill1~4） ===== */
+( function () {
+    'use strict';
+
+    /* 防止皮肤/缓存导致重复执行 */
+    if ( window.__personalitySkillInit ) { return; }
+    window.__personalitySkillInit = true;
+
+    var CLASSES = [
+        'personalityskill1',
+        'personalityskill2',
+        'personalityskill3',
+        'personalityskill4'
+    ];
+    var LABELS = [ '1技能', '2技能', '3技能', '守备技能' ];
+
+    var COLOR_TEXT   = '#D6BA9A';
+    var COLOR_BG     = '#090604';
+    var COLOR_BORDER = '#D6BA9A';
+    var COLOR_ACTIVE = '#FE9232';
+    var COLOR_SHADOW = '#DB2C00';
+
+var CSS =
+    '.personalityskill-wrapper{display:block;margin:.5em 0 1em;line-height:1.7;}' +
+    '.personalityskill-tabs{display:flex;flex-wrap:wrap;gap:4px;margin:0;padding:0;}' +
+    '.personalityskill-tab{display:inline-block;padding:3px 14px;cursor:pointer;' +
+        'color:' + COLOR_TEXT + ';background-color:' + COLOR_BG + ';' +
+        'border:1px solid ' + COLOR_BORDER + ';white-space:nowrap;' +
+        '-webkit-user-select:none;user-select:none;' +
+        'transition:color .2s ease,text-shadow .2s ease;}' +
+    '.personalityskill-tab:hover{color:' + COLOR_ACTIVE + ';' +
+        'text-shadow:0 0 6px ' + COLOR_SHADOW + ';}' +
+    '.personalityskill-tab.active{color:' + COLOR_ACTIVE + ';' +
+        'text-shadow:0 0 6px ' + COLOR_SHADOW + ';}' +
+    '.personalityskill-panels{margin-top:6px;}' +
+    '.personalityskill-panel{display:none;color:' + COLOR_TEXT + ';}' +
+    '.personalityskill-panel.active{display:block;}';
+    
+    var styleDone = false;
+    function ensureCSS() {
+        if ( styleDone ) { return; }
+        styleDone = true;
+        if ( window.mw && mw.util && typeof mw.util.addCSS === 'function' ) {
+            mw.util.addCSS( CSS );   // 推荐方式
+            return;
+        }
+        var s = document.createElement( 'style' );
+        s.type = 'text/css';
+        s.appendChild( document.createTextNode( CSS ) );
+        ( document.head || document.getElementsByTagName( 'head' )[ 0 ] ).appendChild( s );
+    }
+
+    function indexOfClass( el ) {
+        for ( var i = 0; i < CLASSES.length; i++ ) {
+            if ( el.classList.contains( CLASSES[ i ] ) ) { return i; }
+        }
+        return -1;
+    }
+
+    function build( items ) {
+        var parent = items[ 0 ].parentNode;
+        if ( !parent ) { return; }
+
+        var wrapper  = document.createElement( 'div' );
+        wrapper.className = 'personalityskill-wrapper';
+
+        var tabBar   = document.createElement( 'div' );
+        tabBar.className = 'personalityskill-tabs';
+
+        var panelBox = document.createElement( 'div' );
+        panelBox.className = 'personalityskill-panels';
+
+        var tabs   = [];
+        var panels = [];
+
+        items.forEach( function ( el, i ) {
+            var idx = indexOfClass( el );
+
+            var tab = document.createElement( 'span' );
+            tab.className = 'personalityskill-tab';
+            tab.textContent = LABELS[ idx ] || ( ( idx + 1 ) + '技能' );
+            tab.setAttribute( 'role', 'button' );
+            tab.setAttribute( 'tabindex', '0' );
+            tabBar.appendChild( tab );
+
+            var panel = document.createElement( 'div' );
+            panel.className = 'personalityskill-panel';
+            el.parentNode.insertBefore( panel, el );
+            panel.appendChild( el );
+
+            tabs.push( tab );
+            panels.push( panel );
+
+            function activate() {
+                tabs.forEach( function ( t, j ) {
+                    t.classList.toggle( 'active', j === i );
+                } );
+                panels.forEach( function ( p, j ) {
+                    p.classList.toggle( 'active', j === i );
+                } );
+            }
+
+            tab.addEventListener( 'click', activate );
+            tab.addEventListener( 'keydown', function ( e ) {
+                if ( e.key === 'Enter' || e.key === ' ' ) {
+                    e.preventDefault();
+                    activate();
+                }
+            } );
+        } );
+
+        parent.insertBefore( wrapper, panels[ 0 ] );
+        wrapper.appendChild( tabBar );
+        wrapper.appendChild( panelBox );
+
+        panels.forEach( function ( p ) { panelBox.appendChild( p ); } );
+
+        if ( tabs[ 0 ] ) {
+            tabs[ 0 ].classList.add( 'active' );
+            panels[ 0 ].classList.add( 'active' );
+        }
+    }
+
+    function init() {
+        ensureCSS();
+
+        var selector = CLASSES.map( function ( c ) { return '.' + c; } ).join( ',' );
+        var nodes = Array.prototype.slice.call( document.querySelectorAll( selector ) );
+        if ( !nodes.length ) { return; }
+
+        var groups = [];
+        nodes.forEach( function ( el ) {
+            var parent = el.parentNode;
+            var g = null;
+            for ( var i = 0; i < groups.length; i++ ) {
+                if ( groups[ i ].parent === parent ) { g = groups[ i ]; break; }
+            }
+            if ( !g ) {
+                g = { parent: parent, items: [] };
+                groups.push( g );
+            }
+            g.items.push( el );
+        } );
+
+        groups.forEach( function ( g ) {
+            g.items.sort( function ( a, b ) {
+                return indexOfClass( a ) - indexOfClass( b );
+            } );
+            build( g.items );
+        } );
+    }
+
+    if ( document.readyState === 'loading' ) {
+        document.addEventListener( 'DOMContentLoaded', init );
+    } else {
+        init();
+    }
+}() );
+/* ===== 人格同步阶段选择器（personalitystage1~4） ===== */
+( function () {
+    'use strict';
+
+    if ( window.__personalityStageInit ) { return; }
+    window.__personalityStageInit = true;
+
+    var CLASSES = [
+        'personalitystage1',
+        'personalitystage2',
+        'personalitystage3',
+        'personalitystage4'
+    ];
+
+    /* 默认选中项：0=1阶, 1=2阶, 2=3阶, 3=4阶 */
+    var DEFAULT_INDEX = 3;
+
+    /* 普通状态图片 */
+    var IMG_DEFAULT = [
+        'https://huiji-public.huijistatic.com/limbuscompany/uploads/a/a9/突破-1阶.png',
+        'https://huiji-public.huijistatic.com/limbuscompany/uploads/b/b1/突破-2阶.png',
+        'https://huiji-public.huijistatic.com/limbuscompany/uploads/5/5a/突破-3阶.png',
+        'https://huiji-public.huijistatic.com/limbuscompany/uploads/1/10/突破-4阶.png'
+    ];
+
+    /* 选中状态图片 */
+    var IMG_ACTIVE = [
+        'https://huiji-public.huijistatic.com/limbuscompany/uploads/2/21/突破-1阶choice.png',
+        'https://huiji-public.huijistatic.com/limbuscompany/uploads/a/ae/突破-2阶choice.png',
+        'https://huiji-public.huijistatic.com/limbuscompany/uploads/f/f1/突破-3阶choice.png',
+        'https://huiji-public.huijistatic.com/limbuscompany/uploads/e/e6/突破-4阶choice.png'
+    ];
+
+    var COLOR_LABEL = '#ECCCA3';
+    var COLOR_TEXT  = '#D6BA9A';
+
+    var CSS =
+        '.personalitystage-wrapper{display:block;margin:.5em 0;}' +
+        '.personalitystage-tabs{display:flex;flex-wrap:wrap;gap:4px;align-items:center;' +
+            'margin:0;padding:0;}' +
+        '.personalitystage-label{font-weight:bold;color:' + COLOR_LABEL + ';' +
+            'margin-right:6px;}' +
+        '.personalitystage-tab{display:inline-block;cursor:pointer;line-height:0;' +
+            '-webkit-user-select:none;user-select:none;}' +
+        '.personalitystage-tab img{width:50px;height:50px;display:block;border:none;}' +
+        '.personalitystage-panels{margin-top:6px;}' +
+        '.personalitystage-panel{display:none;color:' + COLOR_TEXT + ';}' +
+        '.personalitystage-panel.active{display:block;}';
+
+    var styleDone = false;
+    function ensureCSS() {
+        if ( styleDone ) { return; }
+        styleDone = true;
+        if ( window.mw && mw.util && typeof mw.util.addCSS === 'function' ) {
+            mw.util.addCSS( CSS );
+            return;
+        }
+        var s = document.createElement( 'style' );
+        s.type = 'text/css';
+        s.appendChild( document.createTextNode( CSS ) );
+        ( document.head || document.getElementsByTagName( 'head' )[ 0 ] ).appendChild( s );
+    }
+
+    function indexOfClass( el ) {
+        for ( var i = 0; i < CLASSES.length; i++ ) {
+            if ( el.classList.contains( CLASSES[ i ] ) ) { return i; }
+        }
+        return -1;
+    }
+
+    function build( items ) {
+        var parent = items[ 0 ].parentNode;
+        if ( !parent ) { return; }
+
+        var wrapper  = document.createElement( 'div' );
+        wrapper.className = 'personalitystage-wrapper';
+
+        var tabBar   = document.createElement( 'div' );
+        tabBar.className = 'personalitystage-tabs';
+
+        var panelBox = document.createElement( 'div' );
+        panelBox.className = 'personalitystage-panels';
+
+        var label = document.createElement( 'span' );
+        label.className = 'personalitystage-label';
+        label.textContent = '同步阶段';
+        tabBar.appendChild( label );
+
+        var tabs   = [];
+        var panels = [];
+
+        items.forEach( function ( el, i ) {
+            var idx = indexOfClass( el );
+
+            var tab = document.createElement( 'span' );
+            tab.className = 'personalitystage-tab';
+            tab.setAttribute( 'role', 'button' );
+            tab.setAttribute( 'tabindex', '0' );
+            tab.setAttribute( 'aria-label', ( idx + 1 ) + '阶' );
+
+            var img = document.createElement( 'img' );
+            img.src = IMG_DEFAULT[ idx ];
+            img.alt = ( idx + 1 ) + '阶';
+            img.setAttribute( 'data-default', IMG_DEFAULT[ idx ] );
+            img.setAttribute( 'data-active',  IMG_ACTIVE[ idx ] );
+            tab.appendChild( img );
+            tabBar.appendChild( tab );
+
+            /* ---- 内容面板 ---- */
+            var panel = document.createElement( 'div' );
+            panel.className = 'personalitystage-panel';
+            el.parentNode.insertBefore( panel, el );
+            panel.appendChild( el );
+
+            tabs.push( tab );
+            panels.push( panel );
+
+            function activate() {
+                tabs.forEach( function ( t, j ) {
+                    var im = t.querySelector( 'img' );
+                    var on = ( j === i );
+                    t.classList.toggle( 'active', on );
+                    if ( im ) {
+                        im.src = on
+                            ? im.getAttribute( 'data-active' )
+                            : im.getAttribute( 'data-default' );
+                    }
+                } );
+                panels.forEach( function ( p, j ) {
+                    p.classList.toggle( 'active', j === i );
+                } );
+            }
+
+            tab.addEventListener( 'click', activate );
+            tab.addEventListener( 'keydown', function ( e ) {
+                if ( e.key === 'Enter' || e.key === ' ' ) {
+                    e.preventDefault();
+                    activate();
+                }
+            } );
+        } );
+
+        parent.insertBefore( wrapper, panels[ 0 ] );
+        wrapper.appendChild( tabBar );
+        wrapper.appendChild( panelBox );
+        panels.forEach( function ( p ) { panelBox.appendChild( p ); } );
+
+        /* 默认选中第 4 阶 */
+        if ( tabs[ DEFAULT_INDEX ] ) {
+            tabs[ DEFAULT_INDEX ].classList.add( 'active' );
+            var im0 = tabs[ DEFAULT_INDEX ].querySelector( 'img' );
+            if ( im0 ) { im0.src = im0.getAttribute( 'data-active' ); }
+            panels[ DEFAULT_INDEX ].classList.add( 'active' );
+        }
+    }
+
+    function init() {
+        ensureCSS();
+
+        var selector = CLASSES.map( function ( c ) { return '.' + c; } ).join( ',' );
+        var nodes = Array.prototype.slice.call( document.querySelectorAll( selector ) );
+        if ( !nodes.length ) { return; }
+
+        var groups = [];
+        nodes.forEach( function ( el ) {
+            var parent = el.parentNode;
+            var g = null;
+            for ( var i = 0; i < groups.length; i++ ) {
+                if ( groups[ i ].parent === parent ) { g = groups[ i ]; break; }
+            }
+            if ( !g ) {
+                g = { parent: parent, items: [] };
+                groups.push( g );
+            }
+            g.items.push( el );
+        } );
+
+        groups.forEach( function ( g ) {
+            g.items.sort( function ( a, b ) {
+                return indexOfClass( a ) - indexOfClass( b );
+            } );
+            build( g.items );
+        } );
+    }
+
+    if ( document.readyState === 'loading' ) {
+        document.addEventListener( 'DOMContentLoaded', init );
+    } else {
+        init();
+    }
+}() );

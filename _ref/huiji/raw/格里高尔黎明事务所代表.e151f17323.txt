@@ -1,0 +1,290 @@
+{{人格（上）|{{PAGENAME}}}}
+{{技能链接|
+|1技能-图标=1121601
+|1技能-名称=黎明闪光
+|1技能-类型=斩击
+|1技能-罪孽=怠惰
+|1技能-硬币数=2
+|1技能-修正值=+2
+|1技能-1阶技能威力=3
+|1技能-1阶硬币威力=+3
+|1技能-1阶={{颜色|使用时}}若自身的{{BuffPro|StigmaWorkshopHandStep1}}层数不低于30层，则额外使用本技能的第2枚硬币1次，且额外使用的硬币为{{BuffPro|SuperCoin}}<br>{{硬币|1}}{{颜色|命中时}}使目标增加1级{{BuffPro|Combustion}}强度<br>{{颜色|命中时}}对目标施加2层{{BuffPro|Vibration}}<br>{{硬币|2}}{{颜色|命中时}}使目标增加1级{{BuffPro|Combustion}}强度
+|1技能-2阶={{颜色|使用时}}目标的{{BuffPro|Combustion}}强度与{{BuffPro|Vibration}}强度之和每有4级，使本技能的最终威力+1(最多+3)<br>{{颜色|使用时}}若自身的{{BuffPro|StigmaWorkshopHandStep1}}层数不低于30层，则额外使用本技能的第2枚硬币1次，且额外使用的硬币为{{BuffPro|SuperCoin}}<br>{{硬币|1}}{{颜色|命中时}}使目标增加1级{{BuffPro|Combustion}}强度<br>{{颜色|命中时}}对目标施加2层{{BuffPro|Vibration}}<br>{{硬币|2}}{{颜色|命中时}}使目标增加1级{{BuffPro|Combustion}}强度
+|1技能-3阶技能威力=3
+|1技能-3阶硬币威力=+4
+|1技能-4阶技能威力=3
+|1技能-4阶硬币威力=+4
+|1技能-4阶={{颜色|使用时}}目标的{{BuffPro|Combustion}}强度与{{BuffPro|Vibration}}强度之和每有4级，使本技能的最终威力+1(最多+3)<br>{{颜色|使用时}}若自身的{{BuffPro|StigmaWorkshopHandStep1}}层数不低于20层，则额外使用本技能的第2枚硬币1次，且额外使用的硬币为{{BuffPro|SuperCoin}}<br>{{硬币|1}}{{颜色|命中时}}使目标增加1级{{BuffPro|Combustion}}强度<br>{{颜色|命中时}}对目标施加2层{{BuffPro|Vibration}}<br>{{硬币|2}}{{颜色|命中时}}使目标增加1级{{BuffPro|Combustion}}强度
+|2技能-图标=1121602
+|2技能-名称=霞光剑刃
+|2技能-类型=斩击
+|2技能-罪孽=傲慢
+|2技能-硬币数=3
+|2技能-修正值=+3
+|2技能-1阶技能威力=4
+|2技能-1阶硬币威力=+3
+|2技能-1阶={{颜色|使用时}}若自身的{{BuffPro|StigmaWorkshopHandStep1}}层数不低于20层，则额外使用本技能的第3枚硬币1次，且额外使用的硬币为{{BuffPro|SuperCoin}}<br>{{硬币|1}}{{颜色|命中时}}使目标增加2级{{BuffPro|Combustion}}强度<br>{{硬币|2}}{{颜色|命中时}}使目标增加1级{{BuffPro|Combustion}}强度<br>{{颜色|命中时}}使目标增加1级{{BuffPro|Vibration}}强度<br>{{硬币|3}}{{颜色|命中时}}对目标施加1层{{BuffPro|Combustion}}<br>{{颜色|命中时}}对目标施加1层{{BuffPro|Vibration}}
+|2技能-2阶={{颜色|使用时}}目标的{{BuffPro|Combustion}}强度与{{BuffPro|Vibration}}强度之和每有4级，使本技能的最终威力+1(最多+4)<br>{{颜色|使用时}}若自身的{{BuffPro|StigmaWorkshopHandStep1}}层数不低于20层，则额外使用本技能的第3枚硬币1次，且额外使用的硬币为{{BuffPro|SuperCoin}}<br>{{硬币|1}}{{颜色|命中时}}使目标增加2级{{BuffPro|Combustion}}强度<br>{{硬币|2}}{{颜色|命中时}}使目标增加1级{{BuffPro|Combustion}}强度<br>{{颜色|命中时}}使目标增加1级{{BuffPro|Vibration}}强度<br>{{硬币|3}}{{颜色|命中时}}对目标施加1层{{BuffPro|Combustion}}<br>{{颜色|命中时}}对目标施加1层{{BuffPro|Vibration}}
+|2技能-3阶技能威力=4
+|2技能-3阶硬币威力=+4
+|2技能-4阶技能威力=4
+|2技能-4阶硬币威力=+4
+|2技能-4阶={{颜色|使用时}}目标的{{BuffPro|Combustion}}强度与{{BuffPro|Vibration}}强度之和每有4级，使本技能的最终威力+1(最多+4)<br>{{颜色|使用时}}若自身的{{BuffPro|StigmaWorkshopHandStep1}}层数不低于20层，则触发以下效果<br>- 额外使用本技能的第3枚硬币1次，且额外使用的硬币为{{BuffPro|SuperCoin}}<br>- 额外使用的硬币命中时，使目标{{BuffPro|VibrationExplosion}}，并使其{{BuffPro|Vibration}}层数减少1层<br>{{硬币|1}}{{颜色|命中时}}使目标增加2级{{BuffPro|Combustion}}强度<br>{{硬币|2}}{{颜色|命中时}}使目标增加1级{{BuffPro|Combustion}}强度<br>{{颜色|命中时}}使目标增加1级{{BuffPro|Vibration}}强度<br>{{硬币|3}}{{颜色|命中时}}对目标施加1层{{BuffPro|Combustion}}<br>{{颜色|命中时}}对目标施加1层{{BuffPro|Vibration}}
+|3技能-图标=1121603
+|3技能-名称=撕裂黎明之剑
+|3技能-类型=斩击
+|3技能-罪孽=暴怒
+|3技能-硬币数=4
+|3技能-修正值=+4
+|3技能-3阶技能威力=4
+|3技能-3阶硬币威力=+3
+|3技能-3阶={{颜色|战斗开始}}随机使除自身以外的2名友方单位获得2层{{BuffPro|Protection}}<br>(优先使未带有{{BuffPro|Protection}}的人格中属于黎明事务所的友方单位获得。每回合最多1次)<br>{{颜色|使用前}}若自身的{{BuffPro|StigmaWorkshopHandStep1}}层数为30层，则改为使用“黎明将至”(每回合最多1次)<br>{{颜色|使用时}}若自身的{{BuffPro|StigmaWorkshopHandStep1}}层数不低于20层，则触发以下效果<br>- 使本技能的最终威力+1<br>- 使本技能的所有硬币转化为{{BuffPro|SuperCoin}}<br>{{颜色|攻击后}}下回合使全体友方单位获得1层{{BuffPro|DawnLight}}<br>- 若自身的{{BuffPro|StigmaWorkshopHandStep1}}层数不低于20层，则额外获得1层{{BuffPro|DawnLight}}<br>{{硬币|1}}{{颜色|命中时}}使目标增加3级{{BuffPro|Combustion}}强度<br>{{硬币|2}}{{颜色|命中时}}使目标增加3级{{BuffPro|Vibration}}强度<br>{{硬币|3}}{{颜色|命中时}}对目标施加2层{{BuffPro|Combustion}}<br>{{颜色|命中时}}对目标施加2层{{BuffPro|Vibration}}<br>{{硬币|4}}{{颜色|命中时}}使目标{{BuffPro|Switch_Vibration}}为{{BuffPro|VibrationIgnition}}<br>{{颜色|命中时}}使目标{{BuffPro|VibrationExplosion}}，并使其{{BuffPro|Vibration}}层数减少1层
+|3技能-4阶技能威力=4
+|3技能-4阶硬币威力=+3
+|3技能-4阶=使本技能造成的伤害+(自身与目标的{{BuffPro|Combustion}}强度之和)%(最多+30%)<br>{{颜色|战斗开始}}随机使除自身以外的2名友方单位获得2层{{BuffPro|Protection}}<br>(优先使未带有{{BuffPro|Protection}}的人格中属于黎明事务所的友方单位获得。每回合最多1次)<br>{{颜色|使用前}}若自身的{{BuffPro|StigmaWorkshopHandStep1}}层数为30层，则改为使用“黎明将至”(每回合最多1次)<br>{{颜色|使用时}}目标的{{BuffPro|Combustion}}强度与{{BuffPro|Vibration}}强度之和每有6级，使本技能的硬币威力+1(最多+2)<br>{{颜色|使用时}}若自身的{{BuffPro|StigmaWorkshopHandStep1}}层数不低于20层，则触发以下效果<br>- 使本技能的最终威力+1<br>- 使本技能的所有硬币转化为{{BuffPro|SuperCoin}}<br>- 本技能的最后一枚硬币命中时，触发目标的烧伤 ，并使其烧伤 层数减少1层<br>{{颜色|攻击后}}下回合使全体友方单位获得1层{{BuffPro|DawnLight}}<br>- 若自身的{{BuffPro|StigmaWorkshopHandStep1}}层数不低于20层，则额外获得1层{{BuffPro|DawnLight}}<br>{{硬币|1}}{{颜色|命中时}}使目标增加3级{{BuffPro|Combustion}}强度<br>{{硬币|2}}{{颜色|命中时}}使目标增加3级{{BuffPro|Vibration}}强度<br>{{硬币|3}}{{颜色|命中时}}对目标施加2层{{BuffPro|Combustion}}<br>{{颜色|命中时}}对目标施加2层{{BuffPro|Vibration}}<br>{{硬币|4}}{{颜色|命中时}}使目标{{BuffPro|Switch_Vibration}}为{{BuffPro|VibrationIgnition}}<br>{{颜色|命中时}}使目标{{BuffPro|VibrationExplosion}}，并使其{{BuffPro|Vibration}}层数减少1层
+|5技能-图标=1121605
+|5技能-攻击容量=3
+|5技能-名称=黎明将至
+|5技能-类型=斩击
+|5技能-罪孽=暴怒
+|5技能-硬币数=4
+|5技能-修正值=+4
+|5技能-3阶技能威力=5
+|5技能-3阶硬币威力=+3
+|5技能-3阶=本技能的攻击容量高于攻击目标数时，每高于1点，使本技能造成的伤害+50%(若是集中遭遇战，则改为以部位判定)<br>{{颜色|使用时}}下回合使除自身以外的2名友方单位获得2层{{BuffPro|Protection}}<br>(优先使未带有{{BuffPro|Protection}}的人格中属于黎明事务所的友方单位获得。每回合最多1次)<br>{{颜色|使用时}}若自身的{{BuffPro|Combustion}}强度不低于15级，则使本技能的硬币威力+1<br>{{颜色|攻击后}}触发以下效果<br>- 下回合使全体友方单位获得3层{{BuffPro|DawnLight}}<br>- 消耗自身最多15级{{BuffPro|Combustion}}强度并使自身恢复体力上限(15+消耗的{{BuffPro|Combustion}}强度)%的体力<br>- 消耗所有{{BuffPro|StigmaWorkshopHandStep1}}<br>{{硬币|1}}{{BuffPro|SuperCoin}}<br>{{颜色|命中时}}对目标施加3层{{BuffPro|Combustion}}<br>{{颜色|命中时}}对目标施加3层{{BuffPro|Vibration}}<br>{{硬币|2}}{{BuffPro|SuperCoin}}<br>{{颜色|命中时}}使目标增加3级{{BuffPro|Vibration}}强度<br>{{硬币|3}}{{BuffPro|SuperCoin}}<br>{{颜色|命中时}}使目标增加3级{{BuffPro|Combustion}}强度<br>{{硬币|4}}{{BuffPro|SuperCoin}}<br>{{颜色|命中时}}使目标{{BuffPro|Switch_Vibration}}为{{BuffPro|VibrationIgnition}}<br>{{颜色|命中时}}使目标{{BuffPro|VibrationExplosion}}，并使其{{BuffPro|Vibration}}层数减少1层<br>{{颜色|命中时}}触发目标的{{BuffPro|Combustion}}，并使其{{BuffPro|Combustion}}层数减少1层<br><br><span style="color:#815530"><i><b>烟霾战争那些激战中的战场之一。于该处，将某位决战兵器所剩的最后一对翅膀与空间一同熔化的，宣告黎明终结的技术。<br>“哈……差点就死了……”<br>“喂。能不能……把那个怪物……解决掉？”</b></i></span>
+|5技能-4阶技能威力=5
+|5技能-4阶硬币威力=+3
+|5技能-4阶=本技能的攻击容量高于攻击目标数时，每高于1点，使本技能造成的伤害+75%(若是集中遭遇战，则改为以部位判定)<br>{{颜色|使用时}}下回合使除自身以外的2名友方单位获得2层{{BuffPro|Protection}}<br>(优先使未带有{{BuffPro|Protection}}的人格中属于黎明事务所的友方单位获得。每回合最多1次)<br>{{颜色|使用时}}若自身的{{BuffPro|Combustion}}强度不低于15级，则使本技能的硬币威力+1<br>{{颜色|使用时}}主要目标的{{BuffPro|Combustion}}强度与{{BuffPro|Vibration}}强度之和每有6级，使本技能的硬币威力+1(最多+2)<br>{{颜色|攻击后}}触发以下效果<br>- 下回合使全体友方单位获得3层{{BuffPro|DawnLight}}<br>- 消耗自身最多15级{{BuffPro|Combustion}}强度并使自身恢复体力上限(15+消耗的{{BuffPro|Combustion}}强度)%的体力<br>- 消耗所有{{BuffPro|StigmaWorkshopHandStep1}}<br>{{硬币|1}}{{BuffPro|SuperCoin}}<br>{{颜色|命中时}}对目标施加3层{{BuffPro|Combustion}}<br>{{颜色|命中时}}对目标施加3层{{BuffPro|Vibration}}<br>{{硬币|2}}{{BuffPro|SuperCoin}}<br>{{颜色|命中时}}使目标增加5级{{BuffPro|Vibration}}强度<br>{{硬币|3}}{{BuffPro|SuperCoin}}<br>{{颜色|命中时}}使目标增加5级{{BuffPro|Combustion}}强度<br>{{硬币|4}}{{BuffPro|SuperCoin}}<br>{{颜色|命中时}}使目标{{BuffPro|Switch_Vibration}}为{{BuffPro|VibrationIgnition}}<br>{{颜色|命中时}}使目标{{BuffPro|VibrationExplosion}}，并使其{{BuffPro|Vibration}}层数减少1层<br>{{颜色|命中时}}触发目标的{{BuffPro|Combustion}}，并使其{{BuffPro|Combustion}}层数减少1层<br><br><span style="color:#815530"><i><b>烟霾战争那些激战中的战场之一。于该处，将某位决战兵器所剩的最后一对翅膀与空间一同熔化的，宣告黎明终结的技术。<br>“哈……差点就死了……”<br>“喂。能不能……把那个怪物……解决掉？”</b></i></span>
+|4技能-图标=1121604
+|4技能-名称=守护者
+|4技能-突破=1
+|类型=攻击
+|4技能-类型=斩击
+|4技能-硬币数=2
+|4技能-罪孽=暴怒
+|4技能-修正值=+2
+|4技能-2阶技能威力=3
+|4技能-2阶硬币威力=+4
+|4技能-2阶={{颜色|可拼点反击}}<br>{{颜色|战斗开始}}使自身获得1层{{BuffPro|SupportProtect}}(每回合最多1次)<br>{{颜色|使用时}}使自身获得5层{{BuffPro|StigmaWorkshopHandStep1}}(每回合最多1次)<br>{{颜色|拼点胜利}}使自身的{{BuffPro|Combustion}}层数减少2层(每回合最多1次)<br>{{颜色|技能结束时}}使自身的{{BuffPro|Combustion}}强度减少5级(每回合最多1次)<br>{{硬币|1}}{{颜色|命中时}}使目标增加1级{{BuffPro|Combustion}}强度<br>{{颜色|命中时}}使目标增加1级{{BuffPro|Vibration}}强度<br>{{硬币|2}}{{颜色|命中时}}对目标施加1层{{BuffPro|Combustion}}
+|4技能-3阶技能威力=3
+|4技能-3阶硬币威力=+4
+|4技能-3阶={{颜色|可拼点反击}}<br>{{颜色|战斗开始}}使自身获得1层{{BuffPro|SupportProtect}}(每回合最多1次)<br>{{颜色|使用前}}若自身的{{BuffPro|StigmaWorkshopHandStep1}}层数为30层，则改为使用“黎明将至”(每回合最多1次)<br>{{颜色|使用时}}使自身获得5层{{BuffPro|StigmaWorkshopHandStep1}}(每回合最多1次)<br>{{颜色|拼点胜利}}使自身的{{BuffPro|Combustion}}层数减少2层(每回合最多1次)<br>{{颜色|技能结束时}}使自身的{{BuffPro|Combustion}}强度减少5级(每回合最多1次)<br>{{硬币|1}}{{颜色|命中时}}使目标增加1级{{BuffPro|Combustion}}强度<br>{{颜色|命中时}}使目标增加1级{{BuffPro|Vibration}}强度<br>{{硬币|2}}{{颜色|命中时}}对目标施加1层{{BuffPro|Combustion}}
+|4技能-4阶技能威力=3
+|4技能-4阶硬币威力=+4
+|4技能-4阶={{颜色|可拼点反击}}<br>{{颜色|战斗开始}}使自身获得1层{{BuffPro|SupportProtect}}(每回合最多1次)<br>{{颜色|使用前}}若自身的{{BuffPro|StigmaWorkshopHandStep1}}层数为30层，则改为使用“黎明将至”(每回合最多1次)<br>{{颜色|使用时}}使自身获得5层{{BuffPro|StigmaWorkshopHandStep1}}(每回合最多1次)<br>{{颜色|使用时}}目标的{{BuffPro|Combustion}}强度与{{BuffPro|Vibration}}强度之和每有4级，使本技能的最终威力+1(最多+2)<br>{{颜色|拼点胜利}}使自身的{{BuffPro|Combustion}}层数减少2层(每回合最多1次)<br>{{颜色|技能结束时}}使自身的{{BuffPro|Combustion}}强度减少5级(每回合最多1次)<br>{{硬币|1}}{{颜色|命中时}}使目标增加1级{{BuffPro|Combustion}}强度<br>{{颜色|命中时}}使目标增加1级{{BuffPro|Vibration}}强度<br>{{硬币|2}}{{颜色|命中时}}对目标施加1层{{BuffPro|Combustion}}
+|6技能-图标=1121606
+|6技能-名称=热浪
+|6技能-类型=斩击
+|6技能-罪孽=暴怒
+|6技能-硬币数=2
+|6技能-修正值=+2
+|6技能-1阶技能威力=4
+|6技能-1阶硬币威力=+4
+|6技能-1阶={{颜色|可拼点反击}}<br>{{BuffPro|SupportProtect}}专用技能<br>{{颜色|使用时}}使自身获得5层{{BuffPro|StigmaWorkshopHandStep1}}(每回合最多1次)<br>{{颜色|使用时}}使自身获得2层{{BuffPro|Protection}}(每回合最多1次)<br>{{硬币|1}}{{颜色|命中时}}使目标增加1级{{BuffPro|Combustion}}强度<br>{{硬币|2}}{{颜色|命中时}}使目标增加1级{{BuffPro|Vibration}}强度
+|6技能-4阶技能威力=4
+|6技能-4阶硬币威力=+4
+|6技能-4阶={{颜色|可拼点反击}}<br>{{BuffPro|SupportProtect}}专用技能<br>{{颜色|使用时}}使自身获得5层{{BuffPro|StigmaWorkshopHandStep1}}(每回合最多1次)<br>{{颜色|使用时}}使自身获得2层{{BuffPro|Protection}}(每回合最多1次)<br>{{颜色|使用时}}目标的{{BuffPro|Combustion}}强度与{{BuffPro|Vibration}}强度之和每有6级，使本技能的硬币威力+1(最多+2)<br>{{颜色|使用时}}若自身的{{BuffPro|StigmaWorkshopHandStep1}}层数不低于20层，或本回合自身使用了技能“黎明将至”，则使本技能的所有硬币转化为{{BuffPro|SuperCoin}}<br>{{硬币|1}}{{颜色|命中时}}使目标增加1级{{BuffPro|Combustion}}强度<br>{{硬币|2}}{{颜色|命中时}}使目标增加1级{{BuffPro|Vibration}}强度
+}}
+===被动===
+{{人格被动链接|1121602}}
+{{人格被动链接|1121603}}
+{{人格被动链接|1121601}}
+{{人格被动链接|1121621}}
+
+==人格相关信息==
+#该人格的相关角色为前作《废墟图书馆》中的来宾[https://library-of-ruina.fandom.com/zh/wiki/萨尔瓦多 萨尔瓦多]。
+#该人格同步阶段Ⅲ立绘构图与强化技能{{罪孽颜色|暴怒|黎明将至}}参照了《废墟图书馆》中的战斗书页[https://library-of-ruina.fandom.com/zh/wiki/%E5%A4%A9%E5%B0%86%E6%8B%82%E6%99%93 天将拂晓]。
+#该人格的三技能{{罪孽颜色|暴怒|撕裂黎明之剑}}、强化技能{{罪孽颜色|暴怒|黎明将至}}、守备技能{{罪孽颜色|暴怒|守护者}}与{{BuffPro|SupportProtect}}专用技能{{罪孽颜色|暴怒|热浪}}拥有特殊拼点胜利动画。强化技能{{罪孽颜色|暴怒|黎明将至}}的第四枚硬币攻击时，攻击动画将使自身模型改为朝向右侧，即使第三枚硬币攻击后敌方单位位于自身左侧。
+#该人格行动槽选择技能{{罪孽颜色|暴怒|守护者}}时，若该技能满足可转化为强化技能{{罪孽颜色|暴怒|黎明将至}}的条件，技能图标会出现闪光特效。
+#战斗中，若该人格带有{{BuffPro|StigmaWorkshopHandStep1}}，则自身模型的武器与义体将出现{{罪孽颜色|暴怒|升温燃烧}}特效；当本效果的层数不低于10层/不低于20层时，{{BuffPro|StigmaWorkshopHandStep2}}/{{BuffPro|StigmaWorkshopHandStep3}}的{{罪孽颜色|暴怒|升温燃烧}}特效将会增强。
+
+==预览==
+===演示===
+{{RichTab
+|prefix=2
+|闲置
+|[[文件:11216idle.png|x300px|center]]
+|移动
+|[[文件:11216move.png|x300px|center]]
+|闪避
+|[[文件:11216miss.png|x300px|center]]
+|受伤
+|[[文件:11216dmg.png|x300px|center]]
+|防御
+|[[文件:11216gud.png|x300px|center]]
+|动态文件
+|<gallery>
+11216idle.gif
+11212S1.gif
+11212S2.gif
+11212S3.gif
+11212S4.gif
+</gallery>
+}}{{#html:Personalitygif|{"1":"https://huiji-public.huijistatic.com/limbuscompany/uploads/3/31/11216idle.gif"} }}
+===语音台词===
+{{语音台词|
+|角色=11216
+|格式=2
+|获得时=哦……是双和茶吗？今天的茶特别香浓，我很喜欢。这次的蛋黄也完美地浮在了正中心，对吧？
+|早间问候=辛克莱，这么早就过来可辛苦你了。我应该和你说过昨天处理完委托的时间有点晚，所以今天可以迟点再来了吧？哦，浮士德女士。有关千针的委托……都处理好了吗？
+|午间问候=你们出去吃点好的吧。我在事务所里应付一下就行。唉，我得想想下一个委托该怎么办。都知道我在说什么吧？最近有关这个的说法可不少。就这张邀请函。
+|晚间问候=哦呦……我光是一直坐在椅子上都觉得累了。上了年纪之后，只是工作到傍晚都觉得腰快断咯。
+浮士德女士，你也适当处理好就回去吧。那个共鸣器的来头我也会调查的。<font style="color:#ffb1b4">您不需要担心我，格里高尔。</font>不是……你不回去，事务所就没法锁门啊……
+|对话 1=嗯？这份讣告？啊，没什么好在意的。我以前就不喜欢那家伙。那家伙可小心眼了……想法也总是很片面。
+|对话 2=我那时候……做梦都想不到双和茶的香气是这么醇厚。毕竟那时没有这样缓缓飘起的热气，取而代之的是充斥四周的刺鼻烟霾，以及负面意义上的人的气息。
+|对话 3=名誉、升职……还是不要过于追求那些东西比较好，各位。虽然我也说不清楚……但每当我想到那些蒸蒸日上的事物，就会感到恶心。
+或许就算我失去了记忆……身体也保留了经验。并让我意识到那可算不上什么好东西。
+|同步后对话 1=细数你夺走了多少人的性命……然后扪心自问吧。你自己的性命，是否真的比那些性命的总和更有价值。
+|同步后对话 2=年纪越大……身体各处就越是会铭刻上经验。不是有句俗话吗？在都市里，活下来的才是强者。
+|闲置=呼……哎呦，这可真是特色级的……
+|进行同步=……呼。欠下那样的累累血债，还指望能轻易偿还吗？
+这次，你最好真的做好了觉悟。小子。
+|人格出战=都准备好了吗？
+|进入战斗=那么，入场吧。
+|战斗中选中人格=与其在意我，我更希望你考虑自己的事情。你那样可会错过最重要的东西哦。
+|进行攻击=如黎明之光一般。
+|敌方混乱=你，看上去很累嘛。
+|陷入混乱=这种情况……得靠气势撑过去。
+|击杀敌方=没想到会这么柔弱啊。
+|友方阵亡=大家……没有和我共享命运的……必要。
+|判定成功=哎，年轻人连这点事都做不了该怎么办。
+|判定失败=唔嗯……最近这些玩意怎么都这么难？
+|战斗胜利=我向各位的勇气致以敬意。通过交锋就能明白……各位到最后都没有退却。
+多亏各位，我们的人受了伤，也得到了教训。
+|EX CLEAR战斗胜利=看来各位今日状态不佳呀……？早知道是这种程度的委托，就用不着那么犹豫了。<font style="color:#ffb1b4">要不要也搜集其他人的书籍呢？</font>好好好。顺路弄一点额外收入也不错。啊，Zwei的书可一定要弄到手。那玩意可值钱了。
+|战斗失败=我知道……总有一天自己会走到终点。我对余生没有留恋。唯一挂念的……只是那年轻人的未来而已……
+}}
+
+===技能语音===
+<div class="mw-collapsible">
+<div class="mw-collapsible-content">
+{| class="wikitable" style="width: 100%"
+|-
+|width="105px"|技能一-1
+|width="75px"|[[文件:battle_s1_11216_1_1.ogg|50px]]
+|width="75px"|[[文件:battle_s1_11216_1_1-01.ogg|50px]]
+|width="75px"|[[文件:battle_s1_11216_1_1-02.ogg|50px]]
+|width="75px"|[[文件:battle_s1_11216_1_1-03.ogg|50px]]
+||[[文件:battle_s1_11216_1_1-04.ogg|50px]]
+|-
+||技能一-2
+||[[文件:battle_s1_11216_1_2.ogg|50px]]
+||[[文件:battle_s1_11216_1_2-01.ogg|50px]]
+||[[文件:battle_s1_11216_1_2-02.ogg|50px]]
+||[[文件:battle_s1_11216_1_2-03.ogg|50px]]
+||[[文件:battle_s1_11216_1_2-04.ogg|50px]]
+|-
+||技能一-3
+||[[文件:battle_s1_11216_1_3.ogg|50px]]
+||[[文件:battle_s1_11216_1_3-01.ogg|50px]]
+||[[文件:battle_s1_11216_1_3-02.ogg|50px]]
+||[[文件:battle_s1_11216_1_3-03.ogg|50px]]
+||[[文件:battle_s1_11216_1_3-04.ogg|50px]]
+|-
+||技能二
+||[[文件:battle_s2_11216_1_1.ogg|50px]]
+||[[文件:battle_s2_11216_1_2.ogg|50px]]
+||[[文件:battle_s2_11216_1_3.ogg|50px]]
+|width="75px"|[[文件:battle_s2_11216_1_4.ogg|50px]]
+||[[文件:battle_s2_11216_1_5.ogg|50px]]
+|-
+||
+||[[文件:battle_s2_11216_1_6.ogg|50px]]
+|colspan="10" style="text-align: left;"|于霞光之中。
+|-
+||技能三
+||[[文件:battle_s3_11216_1_1.ogg|50px]]
+|colspan="10" style="text-align: left;"|……黎明将至。
+|-
+||
+||[[文件:battle_s3_11216_1_2.ogg|50px]]
+||[[文件:battle_s3_11216_1_3.ogg|50px]]
+||[[文件:battle_s3_11216_1_4.ogg|50px]]
+||[[文件:battle_s3_11216_1_5.ogg|50px]]
+|}
+</div></div>
+
+===特殊语音===
+{| class="wikitable" style="width: 100%"
+|width="55px"|[[文件:battle_special_11216_2.ogg|50px]]||若[[辛克莱黎明事务所收尾人]]因逃脱装置而撤退，则下回合开始时触发
+|-style="color:#E5CAA5"
+|| ||是啊，不如……去找活下去的方法吧。
+|-
+|width="55px"|[[文件:battle_special_11216_3.ogg|50px]]||因[[浮士德黎明事务所收尾人]]的技能三或强化守备技能而使用技能一 黎明闪光 时触发
+|-style="color:#E5CAA5"
+|| ||哈……不愧是我们事务所的骄傲。
+|-
+|width="55px"|[[文件:battle_special_11216_4_1.ogg|50px]]||使用技能三-2 黎明将至 时触发
+|-style="color:#E5CAA5"
+|| ||（语气词）
+|-
+|width="55px"|[[文件:battle_special_11216_4_2.ogg|50px]]||使用技能三-2 黎明将至 时触发
+|-style="color:#E5CAA5"
+|| ||（语气词）
+|-
+|width="55px"|[[文件:battle_special_11216_4_3.ogg|50px]]||使用技能三-2 黎明将至 时触发
+|-style="color:#E5CAA5"
+|| ||（语气词）
+|-
+|width="55px"|[[文件:battle_special_11216_4_4.ogg|50px]]||使用技能三-2 黎明将至 第4币时触发
+|-style="color:#E5CAA5"
+|| ||不久后，晓日便会升起。
+|-
+|width="55px"|[[文件:battle_special_11216_4_5.ogg|50px]]||使用技能三-2 黎明将至 时触发
+|-style="color:#E5CAA5"
+|| ||（语气词）
+|-
+|width="55px"|[[文件:battle_special_11216_5.ogg|50px]]||使用守备技能-2 热浪 时触发
+|-style="color:#E5CAA5"
+|| ||这种事！就交给老手吧。
+|-
+|width="55px"|[[文件:battle_special_11216_6.ogg|50px]]||[[浮士德黎明事务所收尾人]]阵亡时触发
+|-style="color:#E5CAA5"
+|| ||辛苦你了，浮士德女士。别担心事务所了，好好休息吧。
+|-
+|width="55px"|[[文件:battle_special_11216_7.ogg|50px]]||[[辛克莱黎明事务所收尾人]]阵亡时触发（目前无法触发）
+|-style="color:#E5CAA5"
+|| ||……看来还是太勉强了。
+|}
+
+===音效===
+{| class="wikitable" style="width: 100%"
+|-
+|width="75px"|技能1
+||[[文件:salvagreg_1_1-1.ogg|50px]]
+||[[文件:salvagreg_1_1-2.ogg|50px]]
+||[[文件:salvagreg_1_2.ogg|50px]]
+||[[文件:salvagreg_1_3.ogg|50px]]
+|-
+|width="75px"|技能2
+|width="75px"|[[文件:salvagreg_2_2.ogg|50px]]
+|width="75px"|[[文件:salvagreg_2_4.ogg|50px]]
+|width="75px"|[[文件:salvagreg_2_5-1.ogg|50px]]
+|width="75px"|[[文件:salvagreg_2_5-2.ogg|50px]]
+|width="75px"|[[文件:salvagreg_2_6.ogg|50px]]
+|width="75px"|[[文件:salvagreg_2_7-1.ogg|50px]]
+|[[文件:salvagreg_2_7-2.ogg|50px]]
+|-
+|width="75px"|技能3
+||[[文件:salvagreg_3_1-1.ogg|50px]]
+||[[文件:salvagreg_3_4-1.ogg|50px]]
+||[[文件:salvagreg_3_4-2.ogg|50px]]
+|-
+|width="75px"|技能4
+||[[文件:salvagreg_4_7-1.ogg|50px]]
+||[[文件:salvagreg_4_7-2.ogg|50px]]
+||[[文件:salvagreg_4_7-3.ogg|50px]]
+|-
+|width="75px"|拼点
+||[[文件:salvagreg_p_1.ogg|50px]]
+||[[文件:salvagreg_p_2.ogg|50px]]
+||[[文件:salvagreg_p_3.ogg|50px]]
+|-
+|width="75px"|其他
+||[[文件:salvagreg_ad1.ogg|50px]]
+|-
+|}
+
+==导航==
+{{格里高尔人格导航}}{{镜像世界人格导航|11216}}
+{{人格导航}}

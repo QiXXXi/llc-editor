@@ -1,0 +1,86 @@
+{{胶囊导航/start}}{{胶囊导航/item|空洞-浮士德}}{{胶囊导航/item|空洞-默尔索}}{{胶囊导航/end}}
+{{EGO（上）|{{PAGENAME}}}}{{#html:Personalitygif|{"1":"https://huiji-public.huijistatic.com/limbuscompany/uploads/0/03/20510idlesmall.gif"} }}
+==升阶属性==
+{{EGO技能链接
+|类型=E.G.O觉醒
+|名称=空洞
+|硬币数=2
+|理智值消耗=20
+|修正值=+3
+|图片=20510
+|攻击属性=突刺
+|罪孽属性=傲慢
+|基础值1=10
+|变动值1=+1
+|攻击容量1=7
+|效果1=若目标在本技能使用中阵亡，则优先指定体力最低的攻击目标(若是集中遭遇战，则改为以部位判定)<br>自身的{{BuffPro|Breath}}强度与{{BuffPro|Charge}}层数之和每有4点，使本技能的拼点威力+1(最多+5)<br>自身每带有1发{{BuffPro|BulletHole}}，使本技能的拼点威力+2<br>{{颜色|攻击前}}使自身获得3层{{BuffPro|Breath}}与5层{{BuffPro|Charge}}<br>{{颜色|攻击前}}消耗((5-自身的{{BuffPro|BulletHole}}数)×3)点理智值并使自身的{{BuffPro|BulletHole}}数获得至最大值<br>{{颜色|攻击后}}使自身获得2层{{BuffPro|BlackWingHole}}<br>{{硬币|1}}{{BuffPro|SuperCoin}}<br>本硬币仅命中主要目标<br>消耗1发{{BuffPro|BulletHole}}<br>使本硬币暴击时造成的伤害+10%<br>首次使用本硬币时，<br>- 使本硬币造成的伤害+(自身的{{BuffPro|Charge}}层数×5)%(最多+100%)<br>- 使本硬币暴击时造成的伤害+(自身的{{BuffPro|Breath}}强度×{{BuffPro|Breath}}层数)%(最多+100%)<br>- 仅在使用本硬币时，使目标的突刺抗性变为致命<br>{{颜色|命中时}}使目标增加1级{{BuffPro|Sinking}}强度<br>{{颜色|硬币攻击结束时}}若自身的{{BuffPro|BulletHole}}数不低于1发，则重复使用本硬币(每个技能最多4次)<br>{{硬币|2}}{{BuffPro|SuperCoin}}<br>使本硬币暴击时造成的伤害+30%<br>{{颜色|命中时}}对目标施加3层{{BuffPro|Sinking}}
+|基础值3=12
+|变动值3=+1
+|攻击容量3=7
+|效果3=若目标在本技能使用中阵亡，则优先指定体力最低的攻击目标(若是集中遭遇战，则改为以部位判定)<br>自身的{{BuffPro|Breath}}强度与{{BuffPro|Charge}}层数之和每有4点，使本技能的拼点威力+1(最多+7)<br>自身每带有1发{{BuffPro|BulletHole}}，使本技能的拼点威力+2<br>{{颜色|攻击前}}使自身获得3层{{BuffPro|Breath}}与5层{{BuffPro|Charge}}<br>{{颜色|攻击前}}消耗((5-自身的{{BuffPro|BulletHole}}数)×3)点理智值并使自身的{{BuffPro|BulletHole}}数获得至最大值<br>{{颜色|攻击后}}使自身获得2层{{BuffPro|BlackWingHole}}<br>{{硬币|1}}{{BuffPro|SuperCoin}}<br>本硬币仅命中主要目标<br>消耗1发{{BuffPro|BulletHole}}<br>使本硬币暴击时造成的伤害+15%<br>首次使用本硬币时，<br>- 使本硬币造成的伤害+(自身的{{BuffPro|Charge}}层数×5)%(最多+100%)<br>- 使本硬币暴击时造成的伤害+(自身的{{BuffPro|Breath}}强度×{{BuffPro|Breath}}层数)%(最多+100%)<br>- 仅在使用本硬币时，使目标的突刺抗性变为致命<br>{{颜色|命中时}}使目标增加1级{{BuffPro|Sinking}}强度<br>{{颜色|暴击命中时}}使本技能最后一枚硬币的威力+1<br>{{颜色|硬币攻击结束时}}若自身的{{BuffPro|BulletHole}}数不低于1发，则重复使用本硬币(每个技能最多4次)<br>{{硬币|2}}{{BuffPro|SuperCoin}}<br>使本硬币暴击时造成的伤害+50%<br>{{颜色|硬币开始时}}若仅指定1名攻击目标，则使本硬币造成的伤害+50%(若是集中遭遇战，则改为以部位判定)<br>{{颜色|命中时}}对目标施加3层{{BuffPro|Sinking}}
+|基础值4=12
+|变动值4=+2
+|攻击容量4=7
+|效果4=若目标在本技能使用中阵亡，则优先指定体力最低的攻击目标(若是集中遭遇战，则改为以部位判定)<br>自身的{{BuffPro|Breath}}强度与{{BuffPro|Charge}}层数之和每有4点，使本技能的拼点威力+1(最多+10)<br>自身每带有1发{{BuffPro|BulletHole}}，使本技能的拼点威力+2<br>{{颜色|攻击前}}使自身获得3层{{BuffPro|Breath}}与5层{{BuffPro|Charge}}<br>{{颜色|攻击前}}消耗((5-自身的{{BuffPro|BulletHole}}数)×3)点理智值并使自身的{{BuffPro|BulletHole}}数获得至最大值<br>{{颜色|攻击后}}使自身获得2层{{BuffPro|BlackWingHole}}<br>{{硬币|1}}{{BuffPro|SuperCoin}}<br>本硬币仅命中主要目标<br>消耗1发{{BuffPro|BulletHole}}<br>使本硬币暴击时造成的伤害+20%<br>首次使用本硬币时，<br>- 使本硬币造成的伤害+(自身的{{BuffPro|Charge}}层数×5)%(最多+100%)<br>- 使本硬币暴击时造成的伤害+(自身的{{BuffPro|Breath}}强度×{{BuffPro|Breath}}层数)%(最多+100%)<br>- 仅在使用本硬币时，使目标的突刺抗性变为致命<br>{{颜色|命中时}}对目标施加1层{{BuffPro|PenetrateTakeDamageUp}}(每个技能最多1次)<br>{{颜色|命中时}}使目标增加1级{{BuffPro|Sinking}}强度<br>{{颜色|暴击命中时}}使本技能最后一枚硬币的威力+1<br>{{颜色|硬币攻击结束时}}若自身的{{BuffPro|BulletHole}}数不低于1发，则重复使用本硬币(每个技能最多4次)<br>{{硬币|2}}{{BuffPro|SuperCoin}}<br>使本硬币暴击时造成的伤害+50%<br>{{颜色|硬币开始时}}若仅指定1名攻击目标，则使本硬币造成的伤害+100%(若是集中遭遇战，则改为以部位判定)<br>{{颜色|硬币开始时}}自身每带有4层{{BuffPro|Charge}}，使本硬币的硬币威力+1(最多+5)<br>{{颜色|命中时}}对目标施加3层{{BuffPro|Sinking}}
+}}
+{{EGO技能链接
+|类型=E.G.O侵蚀
+|名称=空洞
+|硬币数=2
+|理智值消耗=25
+|修正值=+5
+|图片=20510
+|攻击属性=突刺
+|罪孽属性=傲慢
+|基础值1=14
+|变动值1=-3
+|攻击容量1=7
+|效果1={{颜色|无差别攻击}}<br>随机指定目标<br>本技能不会触发守备技能(包括可拼点守备技能)<br>自身的{{BuffPro|Breath}}强度与{{BuffPro|Charge}}层数之和每有4点，使本技能的拼点威力+1(最多+5)<br>{{颜色|攻击前}}若自身未带有{{BuffPro|BulletHole}}，则使自身获得1发{{BuffPro|BulletHole}}<br>{{颜色|攻击前}}本技能每有1枚硬币被摧毁，使本技能的基础威力-2(最多-4)<br>{{硬币|1}}{{BuffPro|SuperCoin}}<br>{{颜色|硬币开始时}}使自身获得5层{{BuffPro|BlackWingHole}}<br>{{颜色|硬币开始时}}使自身获得5层{{BuffPro|Charge}}<br>{{颜色|硬币开始时}}使自身增加5级{{BuffPro|Breath}}强度<br>{{硬币|2}}{{BuffPro|SuperCoin}}<br>本硬币有(自身的{{BuffPro|BulletHole}}数×20)%的概率朝向反面，不受自身理智值影响<br>{{颜色|正面}}<br>- 本硬币不会命中<br>- {{颜色|硬币攻击结束时}}使自身增加5级{{BuffPro|Breath}}强度<br>- {{颜色|硬币攻击结束时}}使自身获得3层{{BuffPro|Breath}}<br>- {{颜色|硬币攻击结束时}}使自身获得2发{{BuffPro|BulletHole}}<br>- {{颜色|硬币攻击结束时}}返还本技能消耗的E.G.O资源的一半(向下取整)<br>{{颜色|反面}}<br>- 使本硬币造成的伤害+(自身的充能 层数×3)%(最多+60%)<br>- 使本硬币暴击时造成的伤害+70%<br>- {{颜色|命中时}}对目标造成本硬币最终伤害量10%的突刺伤害<br>- {{颜色|硬币攻击结束时}}消耗自身所有{{BuffPro|BulletHole}}<br>{{颜色|命中时}}使目标增加5级{{BuffPro|Sinking}}强度<br>{{颜色|命中时}}对目标施加3层{{BuffPro|Sinking}}
+|基础值3=16
+|变动值3=-2
+|攻击容量3=7
+|效果3={{颜色|无差别攻击}}<br>随机指定目标<br>本技能不会触发守备技能(包括可拼点守备技能)<br>自身的{{BuffPro|Breath}}强度与{{BuffPro|Charge}}层数之和每有4点，使本技能的拼点威力+1(最多+7)<br>{{颜色|攻击前}}仅指定1名攻击目标时，使本技能造成的伤害+100%(若是集中遭遇战，则改为以本体判定)<br>{{颜色|攻击前}}若自身未带有{{BuffPro|BulletHole}}，则使自身获得1发{{BuffPro|BulletHole}}<br>{{颜色|攻击前}}本技能每有1枚硬币被摧毁，使本技能的基础威力-2(最多-4)<br>{{硬币|1}}{{BuffPro|SuperCoin}}<br>{{颜色|硬币开始时}}使自身获得5层{{BuffPro|BlackWingHole}}<br>{{颜色|硬币开始时}}使自身获得5层{{BuffPro|Charge}}<br>{{颜色|硬币开始时}}使自身增加5级{{BuffPro|Breath}}强度<br>{{硬币|2}}{{BuffPro|SuperCoin}}<br>本硬币有(自身的{{BuffPro|BulletHole}}数×20)%的概率朝向反面，不受自身理智值影响<br>{{颜色|正面}}<br>- 本硬币不会命中<br>- {{颜色|硬币攻击结束时}}使自身增加5级{{BuffPro|Breath}}强度<br>- {{颜色|硬币攻击结束时}}使自身获得3层{{BuffPro|Breath}}<br>- {{颜色|硬币攻击结束时}}使自身获得2发{{BuffPro|BulletHole}}<br>- {{颜色|硬币攻击结束时}}返还本技能消耗的E.G.O资源的一半(向下取整)<br>{{颜色|反面}}<br>- 使本硬币造成的伤害+(自身的充能 层数×4)%(最多+80%)<br>- 使本硬币暴击时造成的伤害+100%<br>- {{颜色|命中时}}对目标造成本硬币最终伤害量15%的突刺伤害<br>- {{颜色|硬币攻击结束时}}消耗自身所有{{BuffPro|BulletHole}}<br>{{颜色|命中时}}使目标增加5级{{BuffPro|Sinking}}强度<br>{{颜色|命中时}}对目标施加3层{{BuffPro|Sinking}}
+|基础值4=16
+|变动值4=-2
+|攻击容量4=7
+|效果4={{颜色|无差别攻击}}<br>随机指定目标<br>本技能不会触发守备技能(包括可拼点守备技能)<br>自身的{{BuffPro|Breath}}强度与{{BuffPro|Charge}}层数之和每有4点，使本技能的拼点威力+1(最多+10)<br>{{颜色|攻击前}}仅指定1名攻击目标时，使本技能造成的伤害+200%(若是集中遭遇战，则改为以本体判定)<br>{{颜色|攻击前}}使本技能的最终威力+(自身的{{BuffPro|BulletHole}}数)<br>{{颜色|攻击前}}若自身未带有{{BuffPro|BulletHole}}，则使自身获得1发{{BuffPro|BulletHole}}<br>{{颜色|攻击前}}本技能每有1枚硬币被摧毁，使本技能的基础威力-2(最多-4)<br>{{颜色|击杀敌方时}}使自身恢复5点理智值<br>{{硬币|1}}{{BuffPro|SuperCoin}}<br>{{颜色|硬币开始时}}使自身获得5层{{BuffPro|BlackWingHole}}<br>{{颜色|硬币开始时}}使自身获得5层{{BuffPro|Charge}}<br>{{颜色|硬币开始时}}使自身增加5级{{BuffPro|Breath}}强度<br>{{硬币|2}}{{BuffPro|SuperCoin}}<br>本硬币有(自身的{{BuffPro|BulletHole}}数×20)%的概率朝向反面，不受自身理智值影响<br>{{颜色|正面}}<br>- 本硬币不会命中<br>- {{颜色|硬币攻击结束时}}使自身增加5级{{BuffPro|Breath}}强度<br>- {{颜色|硬币攻击结束时}}使自身获得3层{{BuffPro|Breath}}<br>- {{颜色|硬币攻击结束时}}使自身获得2发{{BuffPro|BulletHole}}<br>- {{颜色|硬币攻击结束时}}返还本技能消耗的E.G.O资源的一半(向下取整)<br>{{颜色|反面}}<br>- 使本硬币造成的伤害+(自身的充能 层数×5)%(最多+100%)<br>- 使本硬币暴击时造成的伤害+130%<br>- {{颜色|命中时}}对目标造成本硬币最终伤害量20%的突刺伤害<br>- {{颜色|击杀敌方时}}使自身恢复体力上限5%的体力<br>- {{颜色|硬币攻击结束时}}消耗自身所有{{BuffPro|BulletHole}}<br>{{颜色|命中时}}使目标增加5级{{BuffPro|Sinking}}强度<br>{{颜色|命中时}}对目标施加3层{{BuffPro|Sinking}}
+}}
+
+==E.G.O相关信息==
+*战斗中，每当自身装填{{BuffPro|BulletHole}}时，自身模型旁将出现<span style="color:#808080">弹巢旋转动画</span>并装填弹巢中的弹药；若自身拥有5发{{BuffPro|BulletHole}}，自身模型旁将出现<span style="color:#808080">装填完毕的弹巢</span>。
+
+==被动==
+{{EGO被动链接|
+|名称=内出血(l'hémorragie interne)
+|效果={{颜色|常驻效果}}<br>若自身的{{BuffPro|BulletHole}}数为5发，则自身的“空洞”E.G.O技能(觉醒、侵蚀)使用时不会消耗E.G.O资源<br>回合开始时，使自身获得1发{{BuffPro|BulletHole}}<br>{{颜色|使用效果}}<br>回合开始时，使自身获得1层{{BuffPro|BlackWingHole}}<br>每当自身累计消耗或失去3发{{BuffPro|Bullet}}时，使自身恢复5点理智值并在下回合获得1层{{BuffPro|ResultEnhancement}}(包括特殊{{BuffPro|Bullet}}；每回合最多计入9发{{BuffPro|Bullet}})<br><br><span style="color:#815530"><i><b>他人之视线刺穿我的身体，形成空洞，使一切溢出。溢出之物化作子弹又再次射向你，刺出空洞。</b></i></span>
+}}
+
+==相关异想体==
+[[空洞之人]]<br>
+PS:暂无此E.G.O相关异想体更详细的信息
+
+==预览==
+===语音===
+{{E.G.O语音|编号=20510|1=一声枪响。自闪烁的视野中，向深邃的黑夜……子弹，将与他人之视线相汇。|2=A single gunshot. <br>Fired into the dark night's reflection on the glimmering sight,<br>the bullet... will meet the gaze of another.|3=一発の銃声。明滅する視界の中、暗い夜へ向けて…弾丸は、他者の視線と交わらん。|4=한발의 총성. 명멸하는 시야 속 어두운 밤을 향하여… 탄환은, 타자의 시선과 마주칠 지어다.|5=瞄准(En joue)，枪口指向某人头颅。子弹瞄准日斑，于眩目中贯穿。|6=En joue, train the muzzle upon the human head.<br>Sight the bullet on the sunspot...<br>.... and take a clean shot through the blinding glare.|7=アン・ジュ(En joue)、銃口は人の頭へ。弾丸は黒点に狙いを定め、眩しさの中で貫け。|8=앙 주(En joue), 총구는 사람의 머리로.탄환은 흑점에 겨눠,눈부심 속에 꿰뚫어라.}}
+
+===演示===
+{{RichTab
+|prefix=2
+|站姿（侵蚀）
+|[[文件:20510-Default.png|260px|center]]
+|移动（侵蚀）
+|[[文件:20510-Move.png|260px|center]]
+|受击（侵蚀）
+|[[文件:20510-Damaged.png|260px|center]]
+|攻击（动态文件）
+|<gallery>
+20510-awaken-skill.gif|觉醒
+20510-erosion-skill1.gif|侵蚀（正面）
+20510-erosion-skill2.gif|侵蚀（反面）
+</gallery>
+|背景
+|P.S.因文件与视角等原因，参考游戏演出效果拼图而成的该背景与游戏内使用该E.G.O时的背景存在一定差异，仅供参考，如有错误还望指正。[[文件:空洞-背景.png|600px|center]]
+}}
+==导航==
+{{默尔索E.G.O导航}}
+{{E.G.O导航}}

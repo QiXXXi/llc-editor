@@ -1,0 +1,111 @@
+{{胶囊导航/start}}{{胶囊导航/item|空洞-浮士德}}{{胶囊导航/item|空洞-默尔索}}{{胶囊导航/end}}
+{{EGO（上）|{{PAGENAME}}}}{{#html:Personalitygif|{"1":"https://huiji-public.huijistatic.com/limbuscompany/uploads/0/08/20211idlesmall.gif"} }}
+==升阶属性==
+{{EGO技能链接
+|类型=E.G.O觉醒
+|名称=空洞(le trou)
+|硬币数=1
+|理智值消耗=15
+|修正值=+0
+|图片=20211
+|攻击属性=突刺
+|罪孽属性=傲慢
+|基础值1=5
+|变动值1=+5
+|攻击容量1=1
+|效果1={{颜色|无法拼点}}<br>本场战斗中首次使用时，消耗的理智值减少5点，消耗的E.G.O资源减少2个忧郁、2个傲慢与2个嫉妒<br>若自身的{{BuffPro|BulletHole}}数不低于1发，则改为使用“填补空洞”<br>本技能不会命中敌方单位，不会触发守备技能，且不会因外部效果而重复使用<br>{{颜色|攻击后}}使自身获得5发{{BuffPro|BulletHole}}<br>{{颜色|攻击后}}使自身增加5级{{BuffPro|Breath}}强度<br>{{颜色|攻击后}}使自身获得3层{{BuffPro|Breath}}<br>{{颜色|攻击后}}使自身获得5层{{BuffPro|Charge}}<br>{{颜色|攻击后}}使自身获得4层{{BuffPro|BlackWingHole}}
+|基础值3=6
+|变动值3=+5
+|攻击容量3=1
+|效果3={{颜色|无法拼点}}<br>本场战斗中首次使用时，消耗的理智值减少5点，消耗的E.G.O资源减少2个忧郁、2个傲慢与2个嫉妒<br>若自身的{{BuffPro|BulletHole}}数不低于1发，则改为使用“填补空洞”<br>本技能不会命中敌方单位，不会触发守备技能，且不会因外部效果而重复使用<br>{{颜色|攻击后}}使自身获得5发{{BuffPro|BulletHole}}<br>{{颜色|攻击后}}使自身增加5级{{BuffPro|Breath}}强度<br>{{颜色|攻击后}}使自身获得3层{{BuffPro|Breath}}<br>{{颜色|攻击后}}使自身获得5层{{BuffPro|Charge}}<br>{{颜色|攻击后}}使自身获得4层{{BuffPro|BlackWingHole}}
+|基础值4=6
+|变动值4=+5
+|攻击容量4=1
+|效果4={{颜色|无法拼点}}<br>本场战斗中首次使用时，消耗的理智值减少5点，消耗的E.G.O资源减少2个忧郁、2个傲慢与2个嫉妒<br>若自身的{{BuffPro|BulletHole}}数不低于1发，则改为使用“填补空洞”<br>本技能不会命中敌方单位，不会触发守备技能，且不会因外部效果而重复使用<br>{{颜色|攻击后}}使自身获得5发{{BuffPro|BulletHole}}<br>{{颜色|攻击后}}使自身增加5级{{BuffPro|Breath}}强度<br>{{颜色|攻击后}}使自身获得3层{{BuffPro|Breath}}<br>{{颜色|攻击后}}使自身获得5层{{BuffPro|Charge}}<br>{{颜色|攻击后}}使自身获得4层{{BuffPro|BlackWingHole}}
+}}
+{{EGO技能链接
+|类型=E.G.O觉醒
+|名称=填补空洞(boucher un trou)
+|硬币数=1
+|理智值消耗=15
+|修正值=+3
+|图片=20211
+|攻击属性=突刺
+|罪孽属性=傲慢
+|基础值1=4
+|变动值1=+1
+|攻击容量1=7
+|效果1=本技能不会因外部效果而重复使用<br>自身的{{BuffPro|Breath}}强度与{{BuffPro|Charge}}层数之和每有4点，使本技能的拼点威力+1(最多+5)<br>自身每带有1发{{BuffPro|BulletHole}}，使本技能的拼点威力+2<br>{{颜色|攻击前}}消耗所有{{BuffPro|BulletHole}}并触发以下效果<br>- 每消耗1发{{BuffPro|BulletHole}}，使自身增加2级{{BuffPro|Breath}}强度并使自身获得1层{{BuffPro|Breath}}与2层{{BuffPro|Charge}}<br>- 每消耗1发{{BuffPro|BulletHole}}，使本技能造成的伤害+8%<br>若本技能消耗了5发{{BuffPro|BulletHole}}，则使自身恢复5点理智值<br>{{颜色|攻击后}}使自身获得1发{{BuffPro|BulletHole}}<br>{{硬币|1}}{{BuffPro|SuperCoin}}<br>重复使用本硬币(消耗的{{BuffPro|BulletHole}}数-1)次(最多4次)<br>{{颜色|命中时}}使目标增加1级{{BuffPro|Sinking}}强度
+|基础值3=5
+|变动值3=+1
+|攻击容量3=7
+|效果3=本技能不会因外部效果而重复使用<br>本技能的攻击容量高于攻击目标数时，每高于1点，使本技能造成的伤害+5%(若是集中遭遇战，则改为以部位判定)<br>自身的{{BuffPro|Breath}}强度与{{BuffPro|Charge}}层数之和每有4点，使本技能的拼点威力+1(最多+7)<br>自身每带有1发{{BuffPro|BulletHole}}，使本技能的拼点威力+2<br>{{颜色|攻击前}}若本技能仅指定1名攻击目标，则使本技能造成的伤害+50%(若是集中遭遇战，则以本体判定)<br>{{颜色|攻击前}}消耗所有{{BuffPro|BulletHole}}并触发以下效果<br>- 每消耗1发{{BuffPro|BulletHole}}，使自身增加2级{{BuffPro|Breath}}强度并使自身获得1层{{BuffPro|Breath}}与2层{{BuffPro|Charge}}<br>- 每消耗1发{{BuffPro|BulletHole}}，使本技能造成的伤害+8%<br>若本技能消耗了5发{{BuffPro|BulletHole}}，则使自身恢复5点理智值<br>{{颜色|攻击后}}使自身获得1发{{BuffPro|BulletHole}}<br>{{硬币|1}}{{BuffPro|SuperCoin}}<br>重复使用本硬币(消耗的{{BuffPro|BulletHole}}数-1)次(最多4次)<br>{{颜色|命中时}}使目标增加1级{{BuffPro|Sinking}}强度
+|基础值4=5
+|变动值4=+2
+|攻击容量4=7
+|效果4=本技能不会因外部效果而重复使用<br>本技能的攻击容量高于攻击目标数时，每高于1点，使本技能造成的伤害+10%(若是集中遭遇战，则改为以部位判定)<br>自身的{{BuffPro|Breath}}强度与{{BuffPro|Charge}}层数之和每有4点，使本技能的拼点威力+1(最多+10)<br>自身每带有1发{{BuffPro|BulletHole}}，使本技能的拼点威力+2<br>{{颜色|攻击前}}若本技能仅指定1名攻击目标，则使本技能造成的伤害+100%(若是集中遭遇战，则以本体判定)<br>{{颜色|攻击前}}消耗所有{{BuffPro|BulletHole}}并触发以下效果<br>- 每消耗1发{{BuffPro|BulletHole}}，使自身增加2级{{BuffPro|Breath}}强度并使自身获得1层{{BuffPro|Breath}}与2层{{BuffPro|Charge}}<br>- 每消耗1发{{BuffPro|BulletHole}}，使本技能造成的伤害+8%<br>{{颜色|攻击后}}使(2+最大共鸣数)名友方单位增加5级{{BuffPro|Breath}}强度并使其获得2层{{BuffPro|Breath}}(最多7名)<br>若本技能消耗了5发{{BuffPro|BulletHole}}，则使自身恢复5点理智值<br>{{颜色|攻击后}}使自身获得1发{{BuffPro|BulletHole}}<br>{{硬币|1}}{{BuffPro|SuperCoin}}<br>重复使用本硬币(消耗的{{BuffPro|BulletHole}}数-1)次(最多4次)<br>{{颜色|命中时}}使目标增加1级{{BuffPro|Sinking}}强度
+}}
+{{EGO技能链接
+|类型=E.G.O侵蚀
+|名称=空洞
+|硬币数=3
+|理智值消耗=25
+|修正值=+3
+|图片=20211
+|攻击属性=突刺
+|罪孽属性=傲慢
+|基础值1=16
+|变动值1=-4
+|攻击容量1=7
+|效果1={{颜色|无差别攻击}}<br>随机指定目标<br>自身的{{BuffPro|Breath}}强度与{{BuffPro|Charge}}层数之和每有4点，使本技能的拼点威力+1(最多+5)<br>{{颜色|攻击前}}使自身获得3层{{BuffPro|Breath}}与5层{{BuffPro|Charge}}<br>{{颜色|攻击前}}消耗自身最多15层超过10层的{{BuffPro|Charge}}并使本技能造成的伤害+(消耗的{{BuffPro|Charge}}层数×2)%<br>{{颜色|攻击前}}若自身的{{BuffPro|BulletHole}}数为最大值，则消耗所有{{BuffPro|BulletHole}}并在下回合使全体友方单位获得以下效果<br>- 1层{{BuffPro|AttackUp}}<br>- 1层{{BuffPro|AttackDmgUp}}(每回合最多1次)<br>- 1层{{BuffPro|CriticalDamageUp}}(每回合最多1次)<br>{{颜色|攻击前}}本技能每有1枚硬币被摧毁，使本技能的基础威力-3(最多-9)<br>{{颜色|攻击后}}使自身获得1发{{BuffPro|BulletHole}}与2层{{BuffPro|BlackWingHole}}<br>{{硬币|1}}{{BuffPro|SuperCoin}}<br>{{颜色|命中时}}对目标施加2层{{BuffPro|Sinking}}<br>{{硬币|2}}{{BuffPro|SuperCoin}}<br>{{颜色|命中时}}使目标增加2级{{BuffPro|Sinking}}强度<br>{{硬币|3}}{{BuffPro|SuperCoin}}
+|基础值3=16
+|变动值3=-3
+|攻击容量3=7
+|效果3={{颜色|无差别攻击}}<br>随机指定目标<br>自身的{{BuffPro|Breath}}强度与{{BuffPro|Charge}}层数之和每有4点，使本技能的拼点威力+1(最多+7)<br>{{颜色|攻击前}}使自身获得3层{{BuffPro|Breath}}与5层{{BuffPro|Charge}}<br>{{颜色|攻击前}}消耗自身最多15层超过10层的{{BuffPro|Charge}}并使本技能造成的伤害+(消耗的{{BuffPro|Charge}}层数×3)%<br>{{颜色|攻击前}}若自身的{{BuffPro|BulletHole}}数为最大值，则消耗所有{{BuffPro|BulletHole}}并在下回合使全体友方单位获得以下效果<br>- 1层{{BuffPro|AttackUp}}<br>- 1层{{BuffPro|AttackDmgUp}}(每回合最多1次)<br>- 1层{{BuffPro|CriticalDamageUp}}(每回合最多1次)<br>{{颜色|攻击前}}本技能每有1枚硬币被摧毁，使本技能的基础威力-3(最多-9)<br>{{颜色|攻击后}}使自身获得1发{{BuffPro|BulletHole}}与2层{{BuffPro|BlackWingHole}}<br>{{颜色|攻击后}}随机使(2+最大共鸣数)名友方单位增加5级{{BuffPro|Breath}}强度并使其获得2层{{BuffPro|Breath}}(最多7名)<br>{{硬币|1}}{{BuffPro|SuperCoin}}<br>{{颜色|命中时}}对目标施加2层{{BuffPro|Sinking}}<br>{{硬币|2}}{{BuffPro|SuperCoin}}<br>{{颜色|命中时}}使目标增加2级{{BuffPro|Sinking}}强度<br>{{硬币|3}}{{BuffPro|SuperCoin}}
+|基础值4=16
+|变动值4=-3
+|攻击容量4=7
+|效果4={{颜色|无差别攻击}}<br>随机指定目标<br>自身的{{BuffPro|Breath}}强度与{{BuffPro|Charge}}层数之和每有4点，使本技能的拼点威力+1(最多+10)<br>{{颜色|攻击前}}使自身获得3层{{BuffPro|Breath}}与5层{{BuffPro|Charge}}<br>{{颜色|攻击前}}消耗自身最多15层超过10层的{{BuffPro|Charge}}并使本技能造成的伤害+(消耗的{{BuffPro|Charge}}层数×5)%<br>{{颜色|攻击前}}若自身的{{BuffPro|BulletHole}}数为最大值，则消耗所有{{BuffPro|BulletHole}}并在下回合使全体友方单位获得以下效果<br>- 1层{{BuffPro|AttackUp}}<br>- 1层{{BuffPro|AttackDmgUp}}(每回合最多1次)<br>- 1层{{BuffPro|CriticalDamageUp}}(每回合最多1次)<br>{{颜色|攻击前}}本技能每有1枚硬币被摧毁，使本技能的基础威力-3(最多-9)<br>{{颜色|攻击后}}使自身获得1发{{BuffPro|BulletHole}}与2层{{BuffPro|BlackWingHole}}<br>{{颜色|攻击后}}随机使(2+最大共鸣数)名友方单位增加5级{{BuffPro|Breath}}强度并使其获得2层{{BuffPro|Breath}}与2层{{BuffPro|BlackWingHole}}(最多7名)<br>{{硬币|1}}{{BuffPro|SuperCoin}}<br>{{颜色|命中时}}对目标施加2层{{BuffPro|Sinking}}<br>{{硬币|2}}{{BuffPro|SuperCoin}}<br>{{颜色|命中时}}使目标增加2级{{BuffPro|Sinking}}强度<br>{{硬币|3}}{{BuffPro|SuperCoin}}
+}}
+
+==被动==
+{{EGO被动链接|
+|名称=空洞(le trou de vidange)
+|效果=若自身的{{BuffPro|BulletHole}}数为5发，则自身的“空洞”E.G.O技能(觉醒、侵蚀)使用时不会消耗E.G.O资源<br>回合开始时，使自身获得1发{{BuffPro|BulletHole}}与1层{{BuffPro|BlackWingHole}}<br>友方单位击杀敌方单位时，使该友方单位恢复5点理智值并在下回合获得1层{{BuffPro|Enhancement}}(每回合最多1次)<br>最大{{BuffPro|Charge}}层数+5<br>自身获得超过自身最大{{BuffPro|Charge}}层数的{{BuffPro|Charge}}层数时，随机使自身增加相当于溢出获得量的{{BuffPro|Breath}}强度或获得层数相当于溢出获得量的{{BuffPro|Breath}}(每回合最多转化6层)<br><br><span style="color:#815530"><i><b>空洞并非因穿刺而产生，而是因缺欠而产生。空洞渴望被填满，却反而从中溢出。</b></i></span>
+}}
+
+==E.G.O相关信息==
+*战斗中，每当自身装填{{BuffPro|BulletHole}}时，自身模型旁将出现<span style="color:#808080">弹巢旋转动画</span>并装填弹巢中的弹药；若自身拥有5发{{BuffPro|BulletHole}}，自身模型旁将出现<span style="color:#808080">装填完毕的弹巢</span>。
+
+==相关异想体==
+[[空洞之人]]<br>
+PS:暂无此E.G.O相关异想体更详细的信息
+
+==预览==
+===语音===
+{{E.G.O语音|编号=20211|1=厄运一旦瞄准目标，终将如期而至。人会消逝，唯有灰色留存。|2=Misfortune, once it takes aim,<br>is destined to return with a bite.<br>Thus man has become null, leaving only the ashen behind.|3=狙い定められた不運は、ついには追い来る定めなれば。<br>人は消え去り、ただ灰色のみが残らん。|4=겨눠진 불운은 기어코 쫓아오기 마련이기에. 사람은 사라져, 오직 잿빛만 남으리.|5=无数视线，无数子弹。击锤独自敲动二十四次……自阴影下，无休止地，倾泻而下。|6=Gazes beyond reckoning, bullets beyond counting.<br>The lone hammer strikes twenty-four times...<br>and the barrage, restless under the shade,<br>shall fall like torrential rain.|7=無数の視線と無数の銃弾。撃鉄は独り二十四度動き…。陰の下、休むことなく、降り注げ。|8=무수한 시선과 무수한 총탄. 격철은 홀로 스물네 번 움직여…그늘 아래 쉼 없이,빗발쳐라.}}
+
+===演示===
+{{RichTab
+|prefix=2
+|站姿（侵蚀）
+|[[文件:20211-Default.png|260px|center]]
+|移动（侵蚀）
+|[[文件:20211-Move.png|260px|center]]
+|拼点（侵蚀）
+|[[文件:20211-s1.png|260px|center]]
+|受击（侵蚀）
+|[[文件:20211-Damaged.png|260px|center]]
+|攻击（动态文件）
+|<gallery>
+20211-awaken-skill1.gif|觉醒（空洞）
+20211-awaken-skill2.gif|觉醒（填补空洞）
+20211-awaken-skill3.gif|觉醒（特写）
+20211-erosion-skill.gif|侵蚀
+</gallery>
+|背景
+|P.S.因文件与视角等原因，参考游戏演出效果拼图而成的该背景与游戏内使用该E.G.O时的背景存在一定差异，仅供参考，如有错误还望指正。[[文件:空洞-背景.png|600px|center]]
+}}
+==导航==
+{{浮士德E.G.O导航}}
+{{E.G.O导航}}

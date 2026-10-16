@@ -1,0 +1,82 @@
+{{胶囊导航/start}}{{胶囊导航/item|迁居申请-希斯克利夫}}{{胶囊导航/item|迁居申请-格里高尔}}{{胶囊导航/end}}
+{{EGO（上）|{{PAGENAME}}}}{{#html:Personalitygif|{"1":"https://huiji-public.huijistatic.com/limbuscompany/uploads/9/90/21210idle.gif"} }}
+==升阶属性==
+{{EGO技能链接
+|类型=E.G.O觉醒
+|名称=迁居申请
+|硬币数=2
+|理智值消耗=20
+|修正值=+3
+|图片=21210
+|攻击属性=打击
+|罪孽属性=嫉妒
+|基础值1=9
+|变动值1=+6
+|攻击容量1=3
+|效果1=满足以下条件时，使本技能的硬币威力增加(最多+3)<br>- 主要目标每带有6级{{BuffPro|Combustion}}强度，使本技能的硬币威力+1<br>- 使本技能的硬币威力+(自身的{{BuffPro|Charge}}强度-1)<br>{{颜色|攻击前}}令本技能增加的{{BuffPro|Combustion}}强度额外+(自身的{{BuffPro|Charge}}强度-1)级(最多+2)<br>{{颜色|攻击前}}使自身获得(最大共鸣数+1)层{{BuffPro|Charge}}(最多7层)<br>{{颜色|攻击前}}消耗自身最多15层{{BuffPro|Charge}}，每消耗1层{{BuffPro|Charge}}，使本技能造成的伤害+1%(最多+15%)<br>{{硬币|1}}{{颜色|命中时}}使目标增加1级{{BuffPro|Combustion}}强度<br>{{颜色|命中时}}若目标带有{{BuffPro|IDMicroChip}}或{{BuffPro|Binding}}，则对其施加2层{{BuffPro|Combustion}}<br>{{硬币|2}}{{颜色|命中时}}对目标施加1层{{BuffPro|IDMicroChip}}<br>{{颜色|命中时}}下回合对目标施加1层{{BuffPro|Binding}}
+|基础值3=9
+|变动值3=+6
+|攻击容量3=3
+|效果3=满足以下条件时，使本技能的硬币威力增加(最多+3)<br>- 主要目标每带有6级{{BuffPro|Combustion}}强度，使本技能的硬币威力+1<br>- 使本技能的硬币威力+(自身的{{BuffPro|Charge}}强度-1)<br>{{颜色|攻击前}}令本技能增加的{{BuffPro|Combustion}}强度额外+(自身的{{BuffPro|Charge}}强度-1)级(最多+2)<br>{{颜色|攻击前}}使自身获得(最大共鸣数+1)层{{BuffPro|Charge}}(最多7层)<br>- 若自身的{{BuffPro|Charge}}层数不高于3层，则使自身额外获得3层{{BuffPro|Charge}}<br>{{颜色|攻击前}}消耗自身最多15层{{BuffPro|Charge}}，每消耗1层{{BuffPro|Charge}}，使本技能造成的伤害+2%(最多+30%)<br>{{颜色|攻击后}}若本技能的攻击前效果消耗了15层{{BuffPro|Charge}}，则使自身获得5层{{BuffPro|Charge}}<br>{{硬币|1}}{{颜色|命中时}}使目标增加2级{{BuffPro|Combustion}}强度<br>{{颜色|命中时}}若目标带有{{BuffPro|IDMicroChip}}或{{BuffPro|Binding}}，则对其施加2层{{BuffPro|Combustion}}<br>{{硬币|2}}{{颜色|命中时}}使自身获得2层{{BuffPro|Charge}}<br>{{颜色|命中时}}对目标施加1层{{BuffPro|IDMicroChip}}<br>{{颜色|命中时}}下回合对目标施加1层{{BuffPro|Binding}}
+|基础值4=9
+|变动值4=+6
+|攻击容量4=3
+|效果4=满足以下条件时，使本技能的硬币威力增加(最多+3)<br>- 主要目标每带有6级{{BuffPro|Combustion}}强度，使本技能的硬币威力+1<br>- 使本技能的硬币威力+(自身的{{BuffPro|Charge}}强度-1)<br>{{颜色|攻击前}}令本技能增加的{{BuffPro|Combustion}}强度额外+(自身的{{BuffPro|Charge}}强度-1)级(最多+2)<br>{{颜色|攻击前}}使自身获得(最大共鸣数+1)层{{BuffPro|Charge}}(最多7层)<br>- 若自身的{{BuffPro|Charge}}层数不高于3层，则使自身额外获得3层{{BuffPro|Charge}}<br>{{颜色|攻击前}}消耗自身最多15层{{BuffPro|Charge}}，每消耗1层{{BuffPro|Charge}}，使本技能造成的伤害+3%(最多+45%)<br>{{颜色|攻击后}}若本技能的攻击前效果消耗了15层{{BuffPro|Charge}}，则使自身获得5层{{BuffPro|Charge}}<br>{{硬币|1}}{{颜色|命中时}}使目标增加3级{{BuffPro|Combustion}}强度<br>{{颜色|命中时}}若目标带有{{BuffPro|IDMicroChip}}或{{BuffPro|Binding}}，则对其施加2层{{BuffPro|Combustion}}<br>{{硬币|2}}{{颜色|命中时}}使自身获得2层{{BuffPro|Charge}}<br>{{颜色|命中时}}对目标施加2层{{BuffPro|IDMicroChip}}<br>{{颜色|命中时}}下回合对目标施加1层{{BuffPro|Binding}}
+}}
+{{EGO技能链接
+|类型=E.G.O侵蚀
+|名称=迁居申请
+|硬币数=2
+|理智值消耗=20
+|修正值=+3
+|图片=21210
+|攻击属性=打击
+|罪孽属性=嫉妒
+|基础值1=7
+|变动值1=+7
+|攻击容量1=3
+|效果1={{颜色|无差别攻击}}<br>随机指定目标<br>满足以下条件时，使本技能的硬币威力增加(最多+3)<br>- 主要目标每带有6级{{BuffPro|Combustion}}强度，使本技能的硬币威力+1<br>- 使本技能的硬币威力+(自身的{{BuffPro|Charge}}强度-1)<br>{{颜色|攻击前}}使自身获得(最大共鸣数+3)层{{BuffPro|Charge}}(最多10层)<br>{{颜色|攻击前}}使本技能造成的伤害+(自身的{{BuffPro|Charge}}强度与层数之和-1)%(最多+20%)<br>{{颜色|击杀敌方时}}使自身获得4层{{BuffPro|Charge}}<br>{{硬币|1}}{{颜色|命中时}}对目标施加1层{{BuffPro|Combustion}}<br>{{颜色|命中时}}对目标施加1层{{BuffPro|IDMicroChip}}<br>{{颜色|命中时}}下回合对目标施加1层{{BuffPro|Binding}}
+|基础值3=7
+|变动值3=+7
+|攻击容量3=3
+|效果3={{颜色|无差别攻击}}<br>随机指定目标<br>满足以下条件时，使本技能的硬币威力增加(最多+3)<br>- 主要目标每带有6级{{BuffPro|Combustion}}强度，使本技能的硬币威力+1<br>- 使本技能的硬币威力+(自身的{{BuffPro|Charge}}强度-1)<br>{{颜色|攻击前}}使自身获得(最大共鸣数+3)层{{BuffPro|Charge}}(最多10层)<br>{{颜色|攻击前}}使本技能造成的伤害+(自身的{{BuffPro|Charge}}强度与层数之和-1)×2%(最多+40%)<br>{{颜色|击杀敌方时}}<br>- 使自身获得4层{{BuffPro|Charge}}<br>- 下回合使自身获得1层{{BuffPro|AttackDmgUp}}(每回合最多1次)<br>{{硬币|1}}{{颜色|命中时}}对目标施加2层{{BuffPro|Combustion}}<br>{{颜色|命中时}}对目标施加1层{{BuffPro|IDMicroChip}}<br>{{颜色|命中时}}下回合对目标施加1层{{BuffPro|Binding}}<br>{{硬币|2}}{{颜色|硬币开始时}}消耗自身最多8层{{BuffPro|Charge}}<br>{{颜色|命中时}}若本硬币消耗了{{BuffPro|Charge}}层数，则对目标造成本硬币最终伤害量(消耗的{{BuffPro|Charge}}层数×5)%的嫉妒伤害(最少5%，最多40%)
+|基础值4=7
+|变动值4=+7
+|攻击容量4=3
+|效果4={{颜色|无差别攻击}}<br>随机指定目标<br>满足以下条件时，使本技能的硬币威力增加(最多+3)<br>- 主要目标每带有6级{{BuffPro|Combustion}}强度，使本技能的硬币威力+1<br>- 使本技能的硬币威力+(自身的{{BuffPro|Charge}}强度-1)<br>{{颜色|攻击前}}使自身获得(最大共鸣数+3)层{{BuffPro|Charge}}(最多10层)<br>{{颜色|攻击前}}使本技能造成的伤害+(自身的{{BuffPro|Charge}}强度与层数之和-1)×3%(最多+60%)<br>{{颜色|击杀敌方时}}<br>- 使自身获得4层{{BuffPro|Charge}}<br>- 下回合使自身获得1层{{BuffPro|AttackDmgUp}}(每回合最多1次)<br>{{硬币|1}}{{颜色|命中时}}对目标施加3层{{BuffPro|Combustion}}<br>{{颜色|命中时}}对目标施加2层{{BuffPro|IDMicroChip}}<br>{{颜色|命中时}}下回合对目标施加1层{{BuffPro|Binding}}<br>{{硬币|2}}{{颜色|硬币开始时}}消耗自身最多8层{{BuffPro|Charge}}<br>{{颜色|命中时}}若本硬币消耗了{{BuffPro|Charge}}层数，则对目标造成本硬币最终伤害量(消耗的{{BuffPro|Charge}}层数×5)%的嫉妒伤害(最少5%，最多40%)
+}}
+
+==被动==
+{{EGO被动链接|
+|名称=处理迁居申请
+|效果=若最大共鸣数不低于3，则自身技能命中时，下回合对主要目标施加1层{{BuffPro|Binding}}(每回合最多1次)<br>若自身的{{BuffPro|Charge}}强度不低于3级，则使自身获得或消耗{{BuffPro|Charge}}层数的基础技能与使敌方单位增加{{BuffPro|Combustion}}强度或对敌方单位{{BuffPro|Combustion}}烧伤层数的基础技能造成的伤害+10%
+}}
+
+==相关异想体==
+{{异想体筛选|id=8519|name=敌方单位/8519|name2=Kqe-1j-23|codeName=O-06-20-02|color=#EE0AEE|classType=HE|LCEtype=HE-04}}
+==预览==
+===语音===
+{{E.G.O语音|编号=21210|1=…哈！不错啊，抓到个大奖！<br>对于那些不合作的参观者……！就执行规则A62GBFE1吧！|2=... Hah! Clawed out a real catch!<br>Now, any tourists who refuse to cooperate... will be processed under Rule A62GBFE1!|3=…ハッ！いいねぇ、とんだ当たりを引いたな！<br>協力してくれない見学者には…！規則A62GBFE1を執行するぞ！|4=…하! 좋아, 제대로 뽑혔군! 협조하지 않는 견학생은…! 규칙 A62GBFE1을 집행한다!|5=呼叫管理员……失败、失败。重启……拒绝、拒绝！<br>捕获流程继续、继续！继续下去！！！|6=Calling Administrator... FAILED, FAILED. Rebooting... DENIED, DENIED!<br>Capture Protocol... CONTINUE, CONTINUE! CONTINUE EXECUTION!!|7=管理者を呼び出し…失敗、失敗。再起動…拒否、拒否！<br>捕獲手順を続行、続行！このまま続行ォ！！|8=관리자 호출… 실패, 실패. 재부팅… 거절됨, 거절됨! 포획 절차를 계속, 계속! 계속 수행해!!!}}
+
+===演示===
+{{RichTab
+|prefix=2
+|站姿（侵蚀）
+|[[文件:21210-idie.png|260px|center]]
+|移动（侵蚀）
+|[[文件:21210-move.png|260px|center]]
+|拼点（侵蚀）
+|[[文件:21210-s1.png|260px|center]]
+|受击（侵蚀）
+|[[文件:21210-dmg.png|260px|center]]
+|攻击（动态文件）
+|<gallery>
+21210-awaken-skill.gif|觉醒
+21210-erosion-skill.gif|侵蚀
+</gallery>
+|背景
+|P.S.因文件与视角等原因，参考游戏演出效果拼图而成的该背景与游戏内使用该E.G.O时的背景存在一定差异，仅供参考，如有错误还望指正。[[文件:迁居申请-背景.png|600px|center]]
+}}
+==导航==
+{{格里高尔E.G.O导航}}
+{{E.G.O导航}}

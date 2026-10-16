@@ -1,0 +1,216 @@
+{{人格（上）|{{PAGENAME}}}}
+{{技能链接|
+|1技能-图标=1071601
+|1技能-名称=巴勒莫之剑
+|1技能-类型=斩击
+|1技能-罪孽=色欲
+|1技能-硬币数=2
+|1技能-修正值=+2
+|1技能-1阶技能威力=3
+|1技能-1阶硬币威力=+3
+|1技能-1阶={{硬币|1}}{{颜色|命中时}}使目标增加1级{{BuffPro|Combustion}}强度<br>{{硬币|2}}{{颜色|命中时}}使目标增加1级{{BuffPro|Vibration}}强度
+|1技能-2阶={{颜色|使用时}}若目标的{{BuffPro|Combustion}}强度与{{BuffPro|Vibration}}强度之和不低于6级，则使本技能的硬币威力+1<br>{{硬币|1}}{{颜色|命中时}}使目标增加1级{{BuffPro|Combustion}}强度<br>{{硬币|2}}{{颜色|命中时}}使目标增加1级{{BuffPro|Vibration}}强度
+|1技能-3阶技能威力=3
+|1技能-3阶硬币威力=+4
+|1技能-4阶技能威力=3
+|1技能-4阶硬币威力=+4
+|1技能-4阶={{颜色|使用时}}目标的{{BuffPro|Combustion}}强度与{{BuffPro|Vibration}}强度之和每有6级，使本技能的硬币威力+1(最多+2)<br>{{硬币|1}}{{颜色|命中时}}使目标增加2级{{BuffPro|Combustion}}强度<br>{{硬币|2}}{{颜色|命中时}}使目标增加1级{{BuffPro|Vibration}}强度
+|2技能-图标=1071602
+|2技能-名称=纵斩
+|2技能-类型=斩击
+|2技能-罪孽=怠惰
+|2技能-硬币数=3
+|2技能-修正值=+3
+|2技能-1阶技能威力=4
+|2技能-1阶硬币威力=+3
+|2技能-1阶={{硬币|1}}{{颜色|命中时}}对目标施加1层{{BuffPro|Combustion}}<br>{{硬币|2}}{{颜色|命中时}}对目标施加1层{{BuffPro|Vibration}}
+|2技能-2阶={{颜色|使用时}}若目标的{{BuffPro|Combustion}}强度与{{BuffPro|Vibration}}强度之和不低于6级，则使本技能的硬币威力+1<br>{{硬币|1}}{{颜色|命中时}}对目标施加2层{{BuffPro|Combustion}}<br>{{硬币|2}}{{颜色|命中时}}对目标施加2层{{BuffPro|Vibration}}<br>{{硬币|3}}{{颜色|命中时}}若自身带有{{BuffPro|EvolvingManual}}或目标带有{{BuffPro|DuelEdgeAlly}}，则使目标{{BuffPro|VibrationExplosion}}，并使目标的{{BuffPro|Vibration}}层数减少1层
+|2技能-3阶技能威力=4
+|2技能-3阶硬币威力=+4
+|2技能-4阶技能威力=4
+|2技能-4阶硬币威力=+4
+|2技能-4阶={{颜色|使用时}}目标的{{BuffPro|Combustion}}强度与{{BuffPro|Vibration}}强度之和每有6级，使本技能的硬币威力+1(最多+2)<br>{{颜色|拼点胜利}}若目标带有{{BuffPro|DuelEdgeAlly}}，则对其施加1层震颤 <br>{{硬币|1}}{{颜色|命中时}}使目标增加2级{{BuffPro|Combustion}}强度并对其施加2层{{BuffPro|Combustion}}<br>{{硬币|2}}{{颜色|命中时}}使目标增加2级{{BuffPro|Vibration}}强度并对其施加2层{{BuffPro|Vibration}}<br>{{硬币|3}}{{颜色|命中时}}若自身带有{{BuffPro|EvolvingManual}}或目标带有{{BuffPro|DuelEdgeAlly}}，则使目标{{BuffPro|VibrationExplosion}}，并使目标的{{BuffPro|Vibration}}层数减少1层
+|3技能-图标=1071603
+|3技能-名称=猎人
+|3技能-类型=斩击
+|3技能-罪孽=暴怒
+|3技能-硬币数=3
+|3技能-修正值=+4
+|3技能-3阶技能威力=4
+|3技能-3阶硬币威力=+4
+|3技能-3阶={{颜色|使用前}}若目标的{{BuffPro|DuelEdgeAlly}}层数为5层，则改为使用“解鹿”(每回合最多1次)<br>{{颜色|使用时}}若目标的{{BuffPro|Combustion}}强度与{{BuffPro|Vibration}}强度之和不低于6级，则使本技能的硬币威力+1<br>{{颜色|使用时}}根据目标的{{BuffPro|DuelEdgeAlly}}层数，相应使本技能获得以下效果<br>- 不低于1层：增加的{{BuffPro|Vibration}}强度额外+1级<br>- 不低于2层：施加的{{BuffPro|Vibration}}层数额外+1层<br>- 不低于3层：增加的{{BuffPro|Combustion}}强度额外+1级<br>- 不低于4层：施加的{{BuffPro|Combustion}}层数额外+1层<br>{{颜色|使用时}}若自身带有{{BuffPro|EvolvingManual}}或目标的{{BuffPro|DuelEdgeAlly}}层数不低于3层，则使本技能的所有硬币转化为{{BuffPro|SuperCoin}}<br>{{硬币|1}}{{颜色|命中时}}使目标增加2级{{BuffPro|Combustion}}强度并对其施加2层{{BuffPro|Combustion}}<br>{{硬币|2}}{{颜色|命中时}}使目标增加2级{{BuffPro|Vibration}}强度并对其施加2层{{BuffPro|Vibration}}<br>{{硬币|3}}自身每带有1层{{BuffPro|EvolvingManual}}，使本硬币造成的伤害+10%(最多+30%)<br>{{颜色|命中时}}使目标{{BuffPro|Switch_Vibration}}为{{BuffPro|VibrationIgnition}}<br>{{颜色|命中时}}使目标{{BuffPro|VibrationExplosion}}，并使其{{BuffPro|Vibration}}层数减少1层<br>{{颜色|命中时}}若自身带有{{BuffPro|EvolvingManual}}或目标的{{BuffPro|DuelEdgeAlly}}层数不低于3层，则使目标{{BuffPro|VibrationExplosion}}，并使目标的{{BuffPro|Vibration}}层数减少1层
+|3技能-4阶技能威力=5
+|3技能-4阶硬币威力=+4
+|3技能-4阶={{颜色|使用前}}若目标的{{BuffPro|DuelEdgeAlly}}层数为5层，则改为使用“解鹿”(每回合最多1次)<br>{{颜色|使用时}}目标的{{BuffPro|Combustion}}强度与{{BuffPro|Vibration}}强度之和每有6级，使本技能的硬币威力+1(最多+2)<br>{{颜色|使用时}}根据目标的{{BuffPro|DuelEdgeAlly}}层数，相应使本技能获得以下效果<br>- 每带有1层{{BuffPro|DuelEdgeAlly}}，使本技能造成的伤害+6%(最多+30%)<br>- 不低于1层：增加的{{BuffPro|Vibration}}强度额外+1级<br>- 不低于2层：施加的{{BuffPro|Vibration}}层数额外+1层<br>- 不低于3层：增加的{{BuffPro|Combustion}}强度额外+1级<br>- 不低于4层：施加的{{BuffPro|Combustion}}层数额外+1层<br>{{颜色|使用时}}若自身带有{{BuffPro|EvolvingManual}}或目标的{{BuffPro|DuelEdgeAlly}}层数不低于3层，则使本技能的所有硬币转化为{{BuffPro|SuperCoin}}<br>{{硬币|1}}{{颜色|命中时}}使目标增加3级{{BuffPro|Combustion}}强度并对其施加2层{{BuffPro|Combustion}}<br>{{硬币|2}}{{颜色|命中时}}使目标增加3级{{BuffPro|Vibration}}强度并对其施加2层{{BuffPro|Vibration}}<br>{{硬币|3}}自身每带有1层{{BuffPro|EvolvingManual}}，使本硬币造成的伤害+25%(最多+75%)<br>{{颜色|命中时}}使目标{{BuffPro|Switch_Vibration}}为{{BuffPro|VibrationIgnition}}<br>{{颜色|命中时}}使目标{{BuffPro|VibrationExplosion}}，并使其{{BuffPro|Vibration}}层数减少1层<br>{{颜色|命中时}}若自身带有{{BuffPro|EvolvingManual}}或目标的{{BuffPro|DuelEdgeAlly}}层数不低于3层，则使目标{{BuffPro|VibrationExplosion}}2次，并使目标的{{BuffPro|Vibration}}层数减少2层
+|5技能-图标=1071606
+|5技能-名称=解鹿
+|5技能-类型=斩击
+|5技能-罪孽=暴怒
+|5技能-硬币数=4
+|5技能-修正值=+5
+|5技能-3阶技能威力=4
+|5技能-3阶硬币威力=+3
+|5技能-3阶={{颜色|使用时}}<br>- 使本技能的攻击容量+(自身的{{BuffPro|EvolvingManual}}层数-1)(最多+2)<br>- 主要目标的{{BuffPro|Combustion}}强度与{{BuffPro|Vibration}}强度之和每有6级，使本技能的硬币威力+1(最多+2)<br>- 仅攻击1名目标时，使本技能造成的伤害+15%(若是集中遭遇战，则改为以部位判定)<br>- 本技能的攻击容量高于攻击目标数时，每高于1点，使本技能造成的伤害+15%(若是集中遭遇战，则改为以部位判定)<br>{{颜色|攻击后}}<br>- 消耗主要目标的所有{{BuffPro|DuelEdgeAlly}}<br>- 使自身获得1层{{BuffPro|EvolvingManual}}。若主要目标阵亡，则改为获得2层{{BuffPro|EvolvingManual}}<br>{{硬币|1}}{{BuffPro|SuperCoin}}<br>{{颜色|命中时}}使目标增加3级{{BuffPro|Combustion}}强度并对其施加3层{{BuffPro|Combustion}}<br>{{硬币|2}}{{BuffPro|SuperCoin}}<br>{{颜色|命中时}}使目标增加3级{{BuffPro|Vibration}}强度并对其施加3层{{BuffPro|Vibration}}<br>{{硬币|3}}{{BuffPro|SuperCoin}}<br>{{硬币|4}}{{BuffPro|SuperCoin}}<br>{{颜色|硬币开始时}}自身每带有1层{{BuffPro|EvolvingManual}}，使本硬币的威力+1(最多+3)<br>{{颜色|命中时}}使目标{{BuffPro|Switch_Vibration}}为{{BuffPro|VibrationIgnition}}<br>{{颜色|命中时}}使目标{{BuffPro|VibrationExplosion}}2次，并使其{{BuffPro|Vibration}}层数减少2层
+|5技能-4阶技能威力=5
+|5技能-4阶硬币威力=+3
+|5技能-4阶={{颜色|使用时}}<br>- 使本技能的攻击容量+(自身的{{BuffPro|EvolvingManual}}层数-1)(最多+2)<br>- 主要目标的{{BuffPro|Combustion}}强度与{{BuffPro|Vibration}}强度之和每有6级，使本技能的硬币威力+1(最多+3)<br>- 仅攻击1名目标时，使本技能造成的伤害+25%(若是集中遭遇战，则改为以部位判定)<br>- 本技能的攻击容量高于攻击目标数时，每高于1点，使本技能造成的伤害+25%(若是集中遭遇战，则改为以部位判定)<br>{{颜色|攻击后}}<br>- 消耗主要目标的所有{{BuffPro|DuelEdgeAlly}}<br>- 使自身获得1层{{BuffPro|EvolvingManual}}。若主要目标阵亡，则改为获得2层{{BuffPro|EvolvingManual}}<br>{{硬币|1}}{{BuffPro|SuperCoin}}<br>{{颜色|命中时}}使目标增加4级{{BuffPro|Combustion}}强度并对其施加3层{{BuffPro|Combustion}}<br>{{硬币|2}}{{BuffPro|SuperCoin}}<br>{{颜色|命中时}}使目标增加4级{{BuffPro|Vibration}}强度并对其施加3层{{BuffPro|Vibration}}<br>{{硬币|3}}{{BuffPro|SuperCoin}}<br>{{硬币|4}}{{BuffPro|SuperCoin}}<br>{{颜色|硬币开始时}}自身每带有1层{{BuffPro|EvolvingManual}}，使本硬币的威力+1(最多+3)<br>{{颜色|命中时}}使目标{{BuffPro|Switch_Vibration}}为{{BuffPro|VibrationIgnition}}<br>{{颜色|命中时}}使目标{{BuffPro|VibrationExplosion}}3次，并使其{{BuffPro|Vibration}}层数减少3层
+|4技能-图标=1071604
+|4技能-名称=以剑锋测量
+|类型=攻击
+|4技能-类型=斩击
+|4技能-罪孽=暴怒
+|4技能-硬币数=2
+|4技能-修正值=+1
+|4技能-3阶技能威力=4
+|4技能-3阶硬币威力=+3
+|4技能-3阶={{颜色|可拼点反击}}<br>目标每带有1层{{BuffPro|DuelEdgeAlly}}，使本技能造成的伤害+10%(最多+50%)<br>{{硬币|1}}{{颜色|命中时}}使目标增加1级{{BuffPro|Combustion}}强度(每回合最多2次)<br>{{硬币|2}}{{颜色|命中时}}使目标增加1级{{BuffPro|Vibration}}强度(每回合最多2次)
+|4技能-4阶技能威力=5
+|4技能-4阶硬币威力=+4
+|4技能-4阶={{颜色|可拼点反击}}<br>目标每带有1层{{BuffPro|DuelEdgeAlly}}，使本技能造成的伤害+20%(最多+100%)<br>{{颜色|使用时}}目标的{{BuffPro|Combustion}}强度与{{BuffPro|Vibration}}强度之和每有4级，使本技能的最终威力+1(最多+2)<br>{{硬币|1}}{{颜色|命中时}}使目标增加1级{{BuffPro|Combustion}}强度(每回合最多2次)<br>{{硬币|2}}{{颜色|命中时}}使目标增加1级{{BuffPro|Vibration}}强度(每回合最多2次)
+|7技能-图标=1071605
+|7技能-名称=我将守护。
+|7技能-罪孽=忧郁
+|7技能-硬币数=1
+|7技能-修正值=+0
+|7技能-1阶技能威力=3
+|7技能-1阶硬币威力=+8
+|7技能-1阶={{BuffPro|CanDuelGuard}}<br>{{BuffPro|SupportProtect}}专用技能<br>{{硬币|1}}{{BuffPro|SuperCoin}}
+|7技能-4阶技能威力=3
+|7技能-4阶硬币威力=+10
+|7技能-4阶={{BuffPro|CanDuelGuard}}<br>{{BuffPro|SupportProtect}}专用技能<br>{{颜色|使用时}}<br>- 使自身获得2层{{BuffPro|Protection}}(每回合最多1次)<br>- 使{{BuffPro|SupportProtect}}保护的目标恢复5点理智值<br>{{硬币|1}}{{BuffPro|SuperCoin}}
+}}
+===被动===
+{{人格被动链接|1071602}}
+{{人格被动链接|1071603}}
+{{人格被动链接|1071604}}
+{{人格被动链接|1071601}}
+{{人格被动链接|1071621}}
+==人格相关信息==
+{{人物筛选|picture=剧情头像-卢西奥|page=卢西奥|organize=拇指 子辈|name=卢西奥}}
+#该人格的三技能{{罪孽颜色|暴怒|猎人}}、强化技能{{罪孽颜色|暴怒|解鹿}}与{{BuffPro|SupportProtect}}专用技能{{罪孽颜色|忧郁|我将守护。}}拥有特殊拼点胜利动画。
+#该人格行动槽选择技能{{罪孽颜色|暴怒|猎人}}时，若该技能满足可转化为强化技能{{罪孽颜色|暴怒|解鹿}}的条件，技能图标会出现闪光特效。
+#战斗中，若有敌方单位（或部位）带有的{{BuffPro|DuelEdgeAlly}}不低于5层，且该人格行动槽内存在三技能{{罪孽颜色|暴怒|猎人}}时，该人格的待机动画将改变为握剑待发姿态。
+
+==预览==
+===演示===
+{{RichTab
+|prefix=2
+|闲置
+|[[文件:10716idle.png|x300px|center]]
+|移动
+|[[文件:10716move.png|x300px|center]]
+|闪避
+|[[文件:10716miss.png|x300px|center]]
+|受伤
+|[[文件:10716dmg.png|x300px|center]]
+|防御
+|[[文件:10716gud.png|x300px|center]]
+|动态文件
+|<gallery>
+10716idle.gif
+10716skill1.gif
+10716skill2.gif
+10716skill3.gif
+</gallery>
+}}
+{{#html:Personalitygif|{"1":"https://huiji-public.huijistatic.com/limbuscompany/uploads/4/4c/10716idle.gif"} }}
+
+===语音台词===
+{{语音台词|
+|角色=10716
+|格式=2
+|获得时=……她给了曾经粗俗又低贱的我住处和食物。甚至教了我一辈子连做梦都不敢想的……厉害剑术。
+我懂。我都懂……可是我……难道要这样过一辈子吗？
+|早间问候=她还睡着啊。哎，毕竟喝了好几瓶那么烈的酒……大概还要四个小时才能醒吧。趁现在赶紧收拾一下，再做点缓解宿醉的培根三明治……
+哈啊……算了。之前被她说真他妈难吃，挨了一顿揍，已经够了。干嘛又想着做这自讨苦吃的……
+|午间问候=我记得她说会在这时候教我，但她不在走廊里……难道是中央的人布置了课题吗？
+……瞎想什么呢。我只要，照她说的等着就行了……
+|晚间问候=可恶……怎么都傍晚了……又得因为回去晚了被师父像打狗似的打一顿……哎……
+|对话 1=只是装模作样也没事。说到底我也不是为了变强才练习巴勒莫的。
+成为师父让吠叫就吠叫、让撕咬便撕咬的猎犬。那就够了。言听计从，那样就足够了。
+|对话 2=明明每次嘴上都念叨着那位券券做得有多好……啧。真是意义不明。她教辛克莱那家伙的完完全全是别的剑术啊？
+……算了，随便吧。反正只要把离家出走的那个良秀(Yoshihide)的剑术学好就行了。照她说的做。照她说的做就好。
+|对话 3=我总算是拿到协助良秀(Yoshihide)那家伙的公司和收尾人事务所清单了……可是和报酬比起来，内容好像详细过头了。就像是刻意想让情报泄露……<font style="color:#923838">得了，管他呢。有坑正好。别惦记你那直觉之类的胡话了，好好训练。</font>……我明白了。
+|同步后对话 1=以实玛利那家伙死了，辛克莱也背叛了……子辈里只剩下堂吉诃德大人……和浮士德。逃跑也好、杀了她也罢，现在……都是最好的时机吧。
+……不对。还是先抵御袭击，等到她筋疲力尽的时候更好吧？对。现在还是先帮助师父……
+|同步后对话 2=我都能撑过对我的那些鞭打、各种嘲弄和蔑视了。这点小事只要忍受下去就好。
+但我依然想杀了师父，是因为……我意识到了。那一切暴力从我身上消失的日子，永远都不会到来。
+|闲置=……现在的话，说不定能杀了她。
+|进行同步=如果是一对一决斗，对修习巴勒莫的我有利。
+|人格出战=依照战斗礼仪，一人接一人。
+|进入战斗=这场战斗结束后，一定要……
+|战斗中选中人格=与强者交手时，不要用蛮力硬拼，要靠剑尖卸力……对付一群敌人时时要压低姿势……
+|进行攻击=请观察这轨迹，回想起来。
+|敌方混乱=只是按照职责。
+|陷入混乱=呼……
+|击杀敌方=重现而已。
+|友方阵亡=都怪我还……没能完成……
+|判定成功=依照您的命令，完成了。
+|判定失败=……非常抱歉，师父。
+|战斗胜利=呼……我说过的。决斗中其他剑术跟不上巴勒莫的加速。
+同样的架势重复了上千次，不行就上万次。如果对手是你，至少我不会输。
+|EX CLEAR战斗胜利=……这还是人类的所作所为吗？一定不是吧。忘记养育之恩反咬一口的白眼狼，怎么能被称之为人呢。
+即使如此……您也不会怨我吧。因为您死不足惜。
+|战斗失败=早知道就在变成这样之前试一次了……
+}}
+
+===技能语音===
+<div class="mw-collapsible">
+<div class="mw-collapsible-content">
+{| class="wikitable" style="width: 100%"
+|-
+|width="105px"|技能二-1
+|width="75px"|[[文件:battle_s2_10716_1_1.ogg|50px]]
+|width="75px"|[[文件:battle_s2_10716_1_1-01.ogg|50px]]
+|width="75px"|[[文件:battle_s2_10716_1_1-02.ogg|50px]]
+||[[文件:battle_s2_10716_1_1-03.ogg|50px]]
+|-
+||技能二-2
+||[[文件:battle_s2_10716_1_2.ogg|50px]]
+||[[文件:battle_s2_10716_1_2-01.ogg|50px]]
+||[[文件:battle_s2_10716_1_2-02.ogg|50px]]
+||[[文件:battle_s2_10716_1_2-03.ogg|50px]]
+|-
+||技能二-3
+||[[文件:battle_s2_10716_1_3.ogg|50px]]
+||[[文件:battle_s2_10716_1_3-01.ogg|50px]]
+||[[文件:battle_s2_10716_1_3-02.ogg|50px]]
+||[[文件:battle_s2_10716_1_3-03.ogg|50px]]
+|-
+||技能三-1
+||[[文件:battle_s3_10716_1_1.ogg|50px]]
+|colspan="10" style="text-align: left;"|以与你无限相似的角度与速度。猎人！
+|-
+||技能三-2
+||[[文件:battle_s3_10716_1_2.ogg|50px]]
+|colspan="10" style="text-align: left;"|巴勒莫解体剑术。解鹿！演示完成。
+|}
+
+</div></div>
+===特殊语音===
+<div class="mw-collapsible">
+<div class="mw-collapsible-content">
+{| class="wikitable" style="width:100%"
+|-
+|width="55px"|[[文件:battle_special_10716_1.ogg|50px]]||使用技能三-2 解鹿 进行拼点时触发
+|-style="color:#E5CAA5"
+|| ||这下就是一对一……
+|-
+|width="55px"|[[文件:battle_special_10716_2.ogg|50px]]||使用守备技能-2 我将守护。 时触发
+|-style="color:#E5CAA5"
+|| ||……不会让你过去的。
+|-
+|width="55px"|[[文件:battle_special_10716_3.ogg|50px]]||分别于[[罗佳蜘蛛巢拇指父辈#语音台词|拇指父辈罗佳语音 晚间问候]]和[[希斯克利夫蜘蛛巢拇指子辈#语音台词|拇指子辈希斯克利夫人格语音 对话3]]中使用
+|-style="color:#E5CAA5"
+|| ||是。我明白了。
+|-
+|width="55px"|[[文件:battle_special_10716_4.ogg|50px]]||本场战斗首次获得{{BuffPro|EvolvingManual}}时触发
+|-style="color:#E5CAA5"
+|| ||解体完成。同样的招数对我可不管用。
+|}
+
+</div></div>
+
+==导航==
+{{希斯克利夫人格导航}}{{镜像世界人格导航|10716}}
+{{人格导航}}

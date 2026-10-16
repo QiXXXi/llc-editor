@@ -1,0 +1,14 @@
+<includeonly><div style="position:relative;z-index:3;width:75px;height:80px;margin-left:35px; margin-top:30px">
+<div style="position:absolute;z-index:2;margin-left:80px; margin-top:10px;">
+<b>{{#html:Textcolorskill|{"1":"{{{罪孽|常规}}}","2":"{{{名称|1}}}"} }}</b>
+</div>{{{{{罪孽|常规}}}技能图标|图标={{{图标}}}|等级={{{等级}}}}}
+<div style="position:absolute;z-index:2;margin-left:80px; margin-top:-25px;width:625px">
+[[file:数值图标-攻击.png|35px|link=]]<big><b>{{Color|#ECCCA3|{{{修正值|+0}}}}}</b></big>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{{Color|#F0BC00|攻击容量}}&nbsp;&nbsp;{{{攻击容量|1}}}&nbsp;&nbsp;[[File:数值图标-攻击容量.png|20px]]</div>
+<div style="position:absolute;z-index:3;margin-left:20px; margin-top:-15px;width:50px">[[文件:{{{罪孽|常规}}}-{{{类型|}}}-暗色.png|30px]]</div>
+<div style="position:absolute;z-index:3;margin-left:-35px; margin-top:-70px;width:30px; text-align:right;font-size: 1.8em;text-shadow:2px 0 black,-2px 0 black,0 2px black,0 -2px black,1.4px 1.4px black,1.4px -1.4px black,-1.4px 1.4px black,-1.4px -1.4px black;"><b>{{Color|#ECCCA3|{{{技能威力|1}}}}}</b></div>
+<div style="position:absolute;z-index:3;margin-left:20px; margin-top:-105px;width:40px;text-align:center;text-shadow:2px 0 black,-2px 0 black,0 2px black,0 -2px black,1.4px 1.4px black,1.4px -1.4px black,-1.4px 1.4px black,-1.4px -1.4px black;"><big><b>{{Color|#ECCCA3|{{{硬币威力|1}}}}}</b></big></div>
+<div style="position:absolute;z-index:3;margin-left:95px; margin-top:-95px;width:50px;text-shadow:2px 0 black,-2px 0 black,0 2px black,0 -2px black,1.4px 1.4px black,1.4px -1.4px black,-1.4px 1.4px black,-1.4px -1.4px black"><big><b>[[文件:硬币.png|20px|link=]][[文件:乘号.png|15px|link=]]{{Color|#ECCCA3|{{{硬币数|1}}}}}</b></big></div>
+<div style="position:absolute;z-index:0;margin-left:20px; margin-top:-95px;height:40px;width:40px;background:{{#switch:{{{罪孽|常规}}}|忧郁=#40A1B5|常规=#a16a3b|暴怒=#A0392B|色欲=#BB521F|怠惰=#C9A424|暴食=#849A30|傲慢=#305E87|嫉妒=#6E4D7E|疯狂=#ffffff|恐惧=#444444}};transform:rotate(165deg)"></div>
+</div><br>
+{{{描述|}}}
+</includeonly>

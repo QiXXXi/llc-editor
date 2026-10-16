@@ -1,0 +1,20 @@
+跳转至：[[技能图标]]
+<onlyinclude>
+<center>
+<div style="position:relative;z-index:3;width:75px;height:80px">
+<div style="position:absolute;z-index:2;">
+[[file:常规-等级1.png|70px|link=]]
+</div>
+<div style="position:absolute;color:#BB521F;{{#switch:{{{等级|1}}}
+|1=margin-left:9px; margin-top:7px;
+}}clip-path: polygon(73% 4%, 98% 40%,90% 80%,50% 100%,10% 80%,2% 40%,27% 4%)">
+[[file:{{{图标|800803}}}.png|55px|link=]]
+</div>
+<div style="position:absolute;z-index:-1;{{#switch:{{{等级|1}}}
+|1=margin-left:-2px; margin-top:-2px;
+}}">
+[[file:常规-等级1-底部.png|75px|link=]]
+</div>
+</div>
+</center>
+</onlyinclude>

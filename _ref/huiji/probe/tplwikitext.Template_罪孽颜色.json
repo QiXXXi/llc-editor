@@ -1,0 +1,1 @@
+{"parse": {"title": "模板:罪孽颜色", "pageid": 3394, "wikitext": {"*": "<span style=\"color:{{#switch:{{{1}}}\n|暴怒=#A0392B\n|色欲=#BB521F\n|怠惰=#C9A424\n|暴食=#849A30\n|忧郁=#40A1B5\n|傲慢=#305E87\n|嫉妒=#6E4D7E\n|疯狂=#ffffff\n|恐惧=#444444\n|ZAYIN=#00FF00\n|TETH=#1E90FF\n|HE=#FFFF00\n|WAW=#8A2BE2\n|ALEPH=#FF0000\n}}\">{{{2|{{{1}}}}}}</span>"}}}

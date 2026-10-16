@@ -1,0 +1,293 @@
+{{人格（上）|{{PAGENAME}}}}
+{{技能链接|
+|1技能-图标=1091601
+|1技能-名称=切割攻击
+|1技能-类型=斩击
+|1技能-罪孽=傲慢
+|1技能-硬币数=2
+|1技能-修正值=+2
+|1技能-1阶技能威力=3
+|1技能-1阶硬币威力=+3
+|1技能-1阶={{颜色|拼点胜利}}使自身的{{BuffPro|FutureEyeOnRodion}}层数减少(剩余硬币数)，每减少1层{{BuffPro|FutureEyeOnRodion}}，使本技能造成的伤害+5%(最多+10%)<br>{{硬币|1}}{{颜色|命中时}}使目标增加1级{{BuffPro|Combustion}}强度<br>{{颜色|命中时}}使目标增加1级{{BuffPro|Vibration}}强度<br>{{硬币|2}}{{颜色|命中时}}对目标施加1层{{BuffPro|Combustion}}<br>{{颜色|命中时}}对目标施加1层{{BuffPro|Vibration}}
+|1技能-2阶={{颜色|使用时}}若自身的{{BuffPro|Breath}}强度不低于6级，则使本技能的最终威力+1<br>{{颜色|拼点胜利}}使自身的{{BuffPro|FutureEyeOnRodion}}层数减少(剩余硬币数)，每减少1层{{BuffPro|FutureEyeOnRodion}}，使本技能造成的伤害+5%(最多+10%)<br>{{硬币|1}}{{颜色|命中时}}使目标增加1级{{BuffPro|Combustion}}强度<br>{{颜色|命中时}}使目标增加1级{{BuffPro|Vibration}}强度<br>{{硬币|2}}{{颜色|命中时}}对目标施加1层{{BuffPro|Combustion}}<br>{{颜色|命中时}}对目标施加1层{{BuffPro|Vibration}}
+|1技能-3阶技能威力=3
+|1技能-3阶硬币威力=+4
+|1技能-4阶技能威力=3
+|1技能-4阶硬币威力=+4
+|1技能-4阶={{颜色|使用时}}若自身的{{BuffPro|Breath}}强度不低于6级，则使本技能的最终威力+1<br>{{颜色|使用时}}目标的{{BuffPro|Combustion}}强度与{{BuffPro|Vibration}}强度之和每有6级，使本技能的硬币威力+1(最多+2)<br>{{颜色|拼点胜利}}使自身的{{BuffPro|FutureEyeOnRodion}}层数减少(剩余硬币数)，每减少1层{{BuffPro|FutureEyeOnRodion}}，使本技能造成的伤害+5%(最多+10%)<br>{{硬币|1}}{{颜色|命中时}}使目标增加1级{{BuffPro|Combustion}}强度<br>{{颜色|命中时}}使目标增加1级{{BuffPro|Vibration}}强度<br>{{硬币|2}}{{颜色|命中时}}对目标施加1层{{BuffPro|Combustion}}<br>{{颜色|命中时}}对目标施加1层{{BuffPro|Vibration}}
+|更多1技能=1
+|强化1技能-图标=1091605
+|强化1技能-名称=解兔
+|强化1技能-类型=斩击
+|强化1技能-罪孽=色欲
+|强化1技能-硬币数=2
+|强化1技能-修正值=+2
+|强化1技能-1阶技能威力=4
+|强化1技能-1阶硬币威力=+4
+|强化1技能-1阶={{颜色|无法拼点}}<br>本技能不会触发守备技能，且不会因外部效果而重复使用<br>{{硬币|1}}{{颜色|命中时}}对目标施加1层{{BuffPro|Combustion}}<br>{{颜色|命中时}}对目标施加2层{{BuffPro|Vibration}}<br>{{硬币|2}}{{颜色|命中时}}使目标{{BuffPro|VibrationExplosion}}，并使其{{BuffPro|Vibration}}层数减少1层
+|强化1技能-2阶={{颜色|无法拼点}}<br>本技能不会触发守备技能，且不会因外部效果而重复使用<br>{{颜色|使用时}}若自身的{{BuffPro|Breath}}强度不低于6级，则使本技能的最终威力+1<br>{{硬币|1}}{{颜色|命中时}}对目标施加1层{{BuffPro|Combustion}}<br>{{颜色|命中时}}对目标施加2层{{BuffPro|Vibration}}<br>{{硬币|2}}{{颜色|命中时}}使目标{{BuffPro|VibrationExplosion}}，并使其{{BuffPro|Vibration}}层数减少1层
+|强化1技能-3阶技能威力=4
+|强化1技能-3阶硬币威力=+4
+|强化1技能-4阶技能威力=4
+|强化1技能-4阶硬币威力=+4
+|强化1技能-4阶={{颜色|无法拼点}}<br>本技能不会触发守备技能，且不会因外部效果而重复使用<br>{{颜色|使用时}}若自身的{{BuffPro|Breath}}强度不低于6级，则使本技能的最终威力+1<br>{{颜色|使用时}}目标的{{BuffPro|Combustion}}强度与{{BuffPro|Vibration}}强度之和每有4级，使本技能的基础威力+1(最多+2)<br>{{硬币|1}}{{颜色|命中时}}对目标施加1层{{BuffPro|Combustion}}<br>{{颜色|命中时}}对目标施加2层{{BuffPro|Vibration}}<br>{{硬币|2}}{{颜色|命中时}}使目标{{BuffPro|VibrationExplosion}}，并使其{{BuffPro|Vibration}}层数减少1层
+|2技能-图标=1091602
+|2技能-名称=我很乐意用这颗子弹将你洞穿
+|2技能-类型=斩击
+|2技能-罪孽=怠惰
+|2技能-硬币数=3
+|2技能-修正值=+3
+|2技能-1阶技能威力=3
+|2技能-1阶硬币威力=+4
+|2技能-1阶=回合开始时，若自身未带有{{BuffPro|AccelBullet}}，则改为使用“解鹿”<br>{{颜色|拼点胜利}}使自身的{{BuffPro|FutureEyeOnRodion}}层数减少(剩余硬币数)，每减少1层{{BuffPro|FutureEyeOnRodion}}，使本技能造成的伤害+5%(最多+15%)<br>{{硬币|1}}消耗1发{{BuffPro|AccelBullet}}<br>{{颜色|命中时}}使目标增加2级{{BuffPro|Combustion}}强度<br>{{颜色|命中时}}使目标增加2级{{BuffPro|Vibration}}强度<br>{{硬币|2}}消耗1发{{BuffPro|AccelBullet}}<br>{{颜色|命中时}}使目标增加1级{{BuffPro|Vibration}}强度并对其施加1层{{BuffPro|Vibration}}<br>{{硬币|3}}{{颜色|命中时}}使目标{{BuffPro|VibrationExplosion}}，并使其{{BuffPro|Vibration}}层数减少1层
+|2技能-2阶=回合开始时，若自身未带有{{BuffPro|AccelBullet}}，则改为使用“解鹿”<br>{{颜色|使用时}}若自身的{{BuffPro|Breath}}强度不低于6级，则使本技能的最终威力+1<br>{{颜色|拼点胜利}}使自身的{{BuffPro|FutureEyeOnRodion}}层数减少(剩余硬币数)，每减少1层{{BuffPro|FutureEyeOnRodion}}，使本技能造成的伤害+5%(最多+15%)<br>{{硬币|1}}消耗1发{{BuffPro|AccelBullet}}<br>{{颜色|命中时}}使目标增加2级{{BuffPro|Combustion}}强度<br>{{颜色|命中时}}使目标增加2级{{BuffPro|Vibration}}强度<br>{{硬币|2}}消耗1发{{BuffPro|AccelBullet}}<br>{{颜色|命中时}}使目标增加1级{{BuffPro|Vibration}}强度并对其施加1层{{BuffPro|Vibration}}<br>{{硬币|3}}{{颜色|命中时}}使目标{{BuffPro|VibrationExplosion}}，并使其{{BuffPro|Vibration}}层数减少1层
+|2技能-3阶技能威力=4
+|2技能-3阶硬币威力=+4
+|2技能-4阶技能威力=4
+|2技能-4阶硬币威力=+4
+|2技能-4阶=回合开始时，若自身未带有{{BuffPro|AccelBullet}}，则改为使用“解鹿”<br>{{颜色|使用时}}若自身的{{BuffPro|Breath}}强度不低于6级，则使本技能的最终威力+1<br>{{颜色|使用时}}目标的{{BuffPro|Combustion}}强度与{{BuffPro|Vibration}}强度之和每有6级，使本技能的硬币威力+1(最多+2)<br>{{颜色|拼点胜利}}使自身的{{BuffPro|FutureEyeOnRodion}}层数减少(剩余硬币数)，每减少1层{{BuffPro|FutureEyeOnRodion}}，使本技能造成的伤害+5%(最多+15%)<br>{{硬币|1}}消耗1发{{BuffPro|AccelBullet}}<br>{{颜色|命中时}}使目标增加2级{{BuffPro|Combustion}}强度<br>{{颜色|命中时}}使目标增加2级{{BuffPro|Vibration}}强度<br>{{硬币|2}}消耗1发{{BuffPro|AccelBullet}}<br>{{颜色|命中时}}使目标增加1级{{BuffPro|Vibration}}强度并对其施加1层{{BuffPro|Vibration}}<br>{{硬币|3}}{{颜色|命中时}}使目标{{BuffPro|VibrationExplosion}}，并使其{{BuffPro|Vibration}}层数减少1层
+|更多2技能=1
+|强化2技能-图标=1091606
+|强化2技能-名称=解鹿
+|强化2技能-类型=斩击
+|强化2技能-罪孽=怠惰
+|强化2技能-硬币数=3
+|强化2技能-修正值=+3
+|强化2技能-1阶技能威力=4
+|强化2技能-1阶硬币威力=+4
+|强化2技能-1阶={{颜色|使用时}}若自身处于{{BuffPro|FutureEyeOffRodion}}状态，则使本技能的所有硬币转化为{{BuffPro|SuperCoin}}<br>{{颜色|使用时}}使自身获得4层{{BuffPro|Breath}}<br>{{颜色|拼点胜利}}使自身的{{BuffPro|FutureEyeOnRodion}}层数减少(剩余硬币数)，每减少1层{{BuffPro|FutureEyeOnRodion}}，使本技能造成的伤害+5%(最多+15%)<br>{{硬币|1}}{{颜色|命中时}}使自身增加5级{{BuffPro|Breath}}强度<br>{{颜色|命中时}}使目标增加2级{{BuffPro|Combustion}}强度<br>{{硬币|2}}{{颜色|命中时}}使目标增加2级{{BuffPro|Vibration}}强度并对其施加2层{{BuffPro|Vibration}}<br>{{颜色|命中时}}使目标{{BuffPro|Switch_Vibration}}为{{BuffPro|VibrationIgnition}}<br>{{硬币|3}}{{颜色|命中时}}使目标{{BuffPro|VibrationExplosion}}，并使其{{BuffPro|Vibration}}层数减少1层
+|强化2技能-2阶={{颜色|使用时}}若自身处于{{BuffPro|FutureEyeOffRodion}}状态，则使本技能的最终威力+2并使本技能的所有硬币转化为{{BuffPro|SuperCoin}}<br>{{颜色|使用时}}使自身获得4层{{BuffPro|Breath}}<br>{{颜色|拼点胜利}}使自身的{{BuffPro|FutureEyeOnRodion}}层数减少(剩余硬币数)，每减少1层{{BuffPro|FutureEyeOnRodion}}，使本技能造成的伤害+5%(最多+15%)<br>{{硬币|1}}{{颜色|命中时}}使自身增加5级{{BuffPro|Breath}}强度<br>{{颜色|命中时}}使目标增加2级{{BuffPro|Combustion}}强度<br>{{硬币|2}}{{颜色|命中时}}使目标增加2级{{BuffPro|Vibration}}强度并对其施加2层{{BuffPro|Vibration}}<br>{{颜色|命中时}}使目标{{BuffPro|Switch_Vibration}}为{{BuffPro|VibrationIgnition}}<br>{{硬币|3}}{{颜色|命中时}}使目标{{BuffPro|VibrationExplosion}}，并使其{{BuffPro|Vibration}}层数减少1层
+|强化2技能-3阶技能威力=4
+|强化2技能-3阶硬币威力=+4
+|强化2技能-4阶技能威力=4
+|强化2技能-4阶硬币威力=+4
+|强化2技能-4阶={{颜色|使用时}}若自身处于{{BuffPro|FutureEyeOffRodion}}状态，则使本技能的最终威力+2并使本技能的所有硬币转化为{{BuffPro|SuperCoin}}<br>{{颜色|使用时}}使自身获得4层{{BuffPro|Breath}}<br>{{颜色|使用时}}目标的{{BuffPro|Combustion}}强度与{{BuffPro|Vibration}}强度之和每有6级，使本技能的硬币威力+1(最多+2)<br>{{颜色|拼点胜利}}使自身的{{BuffPro|FutureEyeOnRodion}}层数减少(剩余硬币数)，每减少1层{{BuffPro|FutureEyeOnRodion}}，使本技能造成的伤害+5%(最多+15%)<br>{{硬币|1}}{{颜色|命中时}}使自身增加5级{{BuffPro|Breath}}强度<br>{{颜色|命中时}}使目标增加2级{{BuffPro|Combustion}}强度<br>{{硬币|2}}{{颜色|命中时}}使目标增加2级{{BuffPro|Vibration}}强度并对其施加2层{{BuffPro|Vibration}}<br>{{颜色|命中时}}使目标{{BuffPro|Switch_Vibration}}为{{BuffPro|VibrationIgnition}}<br>{{硬币|3}}{{颜色|命中时}}使目标{{BuffPro|VibrationExplosion}}，并使其{{BuffPro|Vibration}}层数减少1层<br>{{颜色|命中时}}若目标的{{BuffPro|Vibration}}强度不低于10级，则使其{{BuffPro|VibrationExplosion}}，并使其{{BuffPro|Vibration}}层数减少1层
+|3技能-图标=1091603
+|3技能-名称=解象
+|3技能-类型=斩击
+|3技能-罪孽=暴怒
+|3技能-硬币数=4
+|3技能-修正值=+4
+|3技能-3阶技能威力=4
+|3技能-3阶硬币威力=+3
+|3技能-3阶={{颜色|使用时}}若自身的{{BuffPro|Breath}}强度不低于6级，则使本技能的最终威力+1<br>{{颜色|攻击前}}使自身的{{BuffPro|FutureEyeOnRodion}}层数减少最多10层(每回合最多1次)<br>{{硬币|1}}消耗1发{{BuffPro|AccelBullet}}<br>{{颜色|命中时}}使目标增加2级{{BuffPro|Combustion}}强度<br>{{颜色|命中时}}使目标增加2级{{BuffPro|Vibration}}强度<br>{{硬币|2}}消耗1发{{BuffPro|AccelBullet}}<br>{{颜色|命中时}}对目标施加2层{{BuffPro|Combustion}}<br>{{颜色|命中时}}对目标施加2层{{BuffPro|Vibration}}<br>{{硬币|3}}消耗1发{{BuffPro|AccelBullet}}<br>{{颜色|命中时}}使目标{{BuffPro|Switch_Vibration}}为{{BuffPro|VibrationIgnition}}<br>{{硬币|4}}{{颜色|命中时}}使目标{{BuffPro|VibrationExplosion}}，并使其{{BuffPro|Vibration}}层数减少1层
+|3技能-4阶技能威力=4
+|3技能-4阶硬币威力=+3
+|3技能-4阶={{颜色|使用时}}若自身的{{BuffPro|Breath}}强度不低于6级，则使本技能的最终威力+1<br>{{颜色|使用时}}目标的{{BuffPro|Combustion}}强度与{{BuffPro|Vibration}}强度之和每有6级，使本技能的硬币威力+1(最多+2)<br>{{颜色|攻击前}}使自身的{{BuffPro|FutureEyeOnRodion}}层数减少最多10层(每回合最多1次)<br>{{硬币|1}}消耗1发{{BuffPro|AccelBullet}}<br>{{颜色|命中时}}使目标增加2级{{BuffPro|Combustion}}强度<br>{{颜色|命中时}}使目标增加2级{{BuffPro|Vibration}}强度<br>{{硬币|2}}消耗1发{{BuffPro|AccelBullet}}<br>{{颜色|命中时}}对目标施加2层{{BuffPro|Combustion}}<br>{{颜色|命中时}}对目标施加2层{{BuffPro|Vibration}}<br>{{硬币|3}}消耗1发{{BuffPro|AccelBullet}}<br>{{颜色|命中时}}使目标{{BuffPro|Switch_Vibration}}为{{BuffPro|VibrationIgnition}}<br>{{硬币|4}}{{颜色|命中时}}使目标{{BuffPro|VibrationExplosion}}，并使其{{BuffPro|Vibration}}层数减少1层<br>- 本技能每消耗1发{{BuffPro|AccelBullet}}，使该效果额外触发1次(最多2次)
+|5技能-图标=1091607
+|5技能-名称=处置
+|5技能-类型=斩击
+|5技能-罪孽=暴怒
+|5技能-硬币数=5
+|5技能-修正值=+5
+|5技能-3阶技能威力=5
+|5技能-3阶硬币威力=+3
+|5技能-3阶=若目标现存体力不高于50%，则使本技能造成的伤害+50%<br>攻击带有{{BuffPro|TeachersPreyRodion}}的目标时，使本技能的硬币威力+1<br>{{颜色|使用时}}若自身的{{BuffPro|AccelBullet}}数不低于1发，则使本技能的硬币威力+1<br>{{颜色|击杀敌方时}}击杀带有{{BuffPro|TeachersPreyRodion}}的目标时，添加1个技能“处置”到下回合将要使用的技能池中<br>(该效果添加的技能“处置”不会触发该效果)<br>{{颜色|击杀敌方时}}使自身{{BuffPro|FullReload}}(每回合最多1次)<br>{{硬币|1}}{{BuffPro|SuperCoin}}<br>{{颜色|命中时}}使目标增加2级{{BuffPro|Combustion}}强度<br>{{颜色|命中时}}使目标增加2级{{BuffPro|Vibration}}强度<br>{{硬币|2}}{{BuffPro|SuperCoin}}<br>{{颜色|命中时}}使目标增加2级{{BuffPro|Combustion}}强度<br>{{颜色|命中时}}使目标增加2级{{BuffPro|Vibration}}强度<br>{{硬币|3}}{{BuffPro|SuperCoin}}<br>{{颜色|命中时}}对目标施加3层{{BuffPro|Combustion}}<br>{{颜色|命中时}}对目标施加3层{{BuffPro|Vibration}}<br>{{硬币|4}}{{BuffPro|SuperCoin}}<br>{{颜色|命中时}}使目标{{BuffPro|Switch_Vibration}}为{{BuffPro|VibrationIgnition}}<br>{{硬币|5}}{{BuffPro|SuperCoin}}<br>消耗最多5发{{BuffPro|AccelBullet}}<br>{{颜色|命中时}}使目标{{BuffPro|VibrationExplosion}}，并使其{{BuffPro|Vibration}}层数减少1层<br>- 本硬币每消耗1发{{BuffPro|AccelBullet}}，使该效果额外触发1次(最多2次)
+|5技能-4阶技能威力=5
+|5技能-4阶硬币威力=+3
+|5技能-4阶=若目标现存体力不高于50%，则使本技能造成的伤害+50%<br>攻击带有{{BuffPro|TeachersPreyRodion}}的目标时，使本技能的硬币威力+1<br>{{颜色|使用时}}若自身的{{BuffPro|AccelBullet}}数不低于1发，则使本技能的硬币威力+1<br>{{颜色|使用时}}目标的{{BuffPro|Combustion}}强度与{{BuffPro|Vibration}}强度之和每有4级，使本技能的最终威力+1(最多+5)<br>{{颜色|击杀敌方时}}击杀带有{{BuffPro|TeachersPreyRodion}}的目标时，添加1个技能“处置”到下回合将要使用的技能池中<br>(该效果添加的技能“处置”不会触发该效果)<br>{{颜色|击杀敌方时}}使自身{{BuffPro|FullReload}}(每回合最多1次)<br>{{硬币|1}}{{BuffPro|SuperCoin}}<br>{{颜色|命中时}}使目标增加2级{{BuffPro|Combustion}}强度<br>{{颜色|命中时}}使目标增加2级{{BuffPro|Vibration}}强度<br>{{硬币|2}}{{BuffPro|SuperCoin}}<br>{{颜色|命中时}}使目标增加2级{{BuffPro|Combustion}}强度<br>{{颜色|命中时}}使目标增加2级{{BuffPro|Vibration}}强度<br>{{硬币|3}}{{BuffPro|SuperCoin}}<br>{{颜色|命中时}}对目标施加3层{{BuffPro|Combustion}}<br>{{颜色|命中时}}对目标施加3层{{BuffPro|Vibration}}<br>{{硬币|4}}{{BuffPro|SuperCoin}}<br>{{颜色|命中时}}使目标{{BuffPro|Switch_Vibration}}为{{BuffPro|VibrationIgnition}}<br>{{硬币|5}}{{BuffPro|SuperCoin}}<br>消耗最多5发{{BuffPro|AccelBullet}}<br>本硬币每消耗1发{{BuffPro|AccelBullet}}，使本硬币造成的伤害+10%(最多+50%)<br>{{颜色|命中时}}使目标{{BuffPro|VibrationExplosion}}，并使其{{BuffPro|Vibration}}层数减少1层<br>- 本硬币每消耗1发{{BuffPro|AccelBullet}}，使该效果额外触发1次(最多3次)
+|4技能-图标=1091604
+|4技能-名称=滚开！
+|类型=攻击
+|4技能-类型=斩击
+|4技能-罪孽=傲慢
+|4技能-硬币数=2
+|4技能-修正值=+2
+|4技能-3阶技能威力=3
+|4技能-3阶硬币威力=+4
+|4技能-3阶={{颜色|可拼点反击}}<br>{{颜色|使用时}}使自身的{{BuffPro|FutureEyeOnRodion}}层数减少3层<br>{{颜色|回合结束时}}若自身的{{BuffPro|AccelBullet}}数低于5发，则使自身装填至5发{{BuffPro|AccelBullet}}(每回合最多1次)<br>{{硬币|1}}{{颜色|命中时}}使目标增加1级{{BuffPro|Combustion}}强度<br>{{颜色|命中时}}使目标增加1级{{BuffPro|Vibration}}强度<br>{{硬币|2}}{{颜色|命中时}}使目标增加1级{{BuffPro|Combustion}}强度<br>{{颜色|命中时}}使目标增加1级{{BuffPro|Vibration}}强度
+|4技能-4阶技能威力=3
+|4技能-4阶硬币威力=+4
+|4技能-4阶={{颜色|可拼点反击}}<br>{{颜色|使用时}}目标的{{BuffPro|Combustion}}强度与{{BuffPro|Vibration}}强度之和每有4级，使本技能的最终威力+1(最多+2)<br>{{颜色|使用时}}使自身的{{BuffPro|FutureEyeOnRodion}}层数减少4层<br>{{颜色|回合结束时}}若自身的{{BuffPro|AccelBullet}}数低于5发，则使自身装填至5发{{BuffPro|AccelBullet}}(每回合最多1次)<br>{{硬币|1}}{{颜色|命中时}}使目标增加1级{{BuffPro|Combustion}}强度<br>{{颜色|命中时}}使目标增加1级{{BuffPro|Vibration}}强度<br>{{硬币|2}}{{颜色|命中时}}使目标增加1级{{BuffPro|Combustion}}强度<br>{{颜色|命中时}}使目标增加1级{{BuffPro|Vibration}}强度
+|7技能-图标=1091608
+|7技能-名称=预知
+|7技能-罪孽=忧郁
+|7技能-硬币数=1
+|7技能-修正值=+2
+|7技能-1阶技能威力=3
+|7技能-1阶硬币威力=+7
+|7技能-1阶=本技能成功闪避一个技能的所有硬币时，对攻击的敌方单位使用“解兔”进行单方面攻击(每回合最多1次)<br>自身每带有2层{{BuffPro|FutureEyeOnRodion}}，使本技能的硬币威力+1(最多+4)<br>自身每带有2层超过10层的{{BuffPro|FutureEyeOnRodion}}，使本技能的基础威力+1(最多+4)<br>{{颜色|使用时}}使自身获得3层{{BuffPro|Breath}}(每回合最多1次)<br>{{颜色|闪避成功时}}使自身增加2级{{BuffPro|Breath}}强度(每回合最多2次)<br>{{颜色|技能结束时}}使自身的{{BuffPro|FutureEyeOnRodion}}层数减少2层
+|7技能-4阶技能威力=3
+|7技能-4阶硬币威力=+7
+|7技能-4阶=本技能成功闪避一个技能的所有硬币时，对攻击的敌方单位使用“解兔”进行单方面攻击(每回合最多1次)<br>自身每带有2层{{BuffPro|FutureEyeOnRodion}}，使本技能的硬币威力+1(最多+4)<br>自身每带有2层超过10层的{{BuffPro|FutureEyeOnRodion}}，使本技能的基础威力+1(最多+4)<br>{{颜色|使用时}}使自身获得3层{{BuffPro|Breath}}(每回合最多1次)<br>{{颜色|闪避成功时}}使自身增加2级{{BuffPro|Breath}}强度(每回合最多2次)<br>{{颜色|闪避成功时}}使自身恢复3点理智值(每回合最多2次)<br>{{颜色|技能结束时}}使自身的{{BuffPro|FutureEyeOnRodion}}层数减少2层
+}}
+===被动===
+{{人格被动链接|1091602}}
+{{人格被动链接|1091603}}
+{{人格被动链接|1091604}}
+{{人格被动链接|1091601}}
+{{人格被动链接|1091621}}
+==人格相关信息==
+{{人物筛选|picture=剧情头像-瓦伦希娜|page=瓦伦希娜|organize=拇指 父辈|name=瓦伦希娜}}
+#该人格进入初次战斗时持有10发{{BuffPro|AccelBullet}}。
+#该人格的强化技能{{罪孽颜色|怠惰|解鹿}}和三技能{{罪孽颜色|暴怒|解象}}拥有特殊拼点胜利动画。
+#该人格的强化技能{{罪孽颜色|暴怒|处置}}拥有专属的拼点胜利动画，且非最后一枚硬币击杀时还拥有特殊结束动画。
+#战斗中，当该人格使用守备技能{{罪孽颜色|傲慢|滚开！}}补充{{BuffPro|AccelBullet}}，或触发战斗被动“预知眼”的{{BuffPro|FullReload}}时，自身模型将出现<span style="color:#FFFFFF">弹药装填动画</span>。
+#该人格的{{BuffPro|FutureEyeOnRodion}}层数减少时，模型旁将出现{{罪孽颜色|暴怒|义眼闪烁特效}}。
+#战斗中，当该人格触发战斗被动“预知眼”的解除混乱效果时，将触发{{罪孽颜色|暴怒|双剑挥舞动画}}。
+#回合开始时，若该人格行动槽内存在强化技能{{罪孽颜色|暴怒|处置}}，则自身模型将环绕红色剑痕流动特效。
+#战斗中，若该人格带有{{状态2|心-不光彩|3=心（通用）}}，则自身模型上将出现{{罪孽颜色|怠惰|特效动画-心}}。
+#带有{{BuffPro|TeachersPreyRodion}}的单位，其模型上将出现双剑交叉特效。
+
+==预览==
+===演示===
+{{RichTab
+|prefix=2
+|闲置
+|[[文件:10916idle.png|x300px|center]]
+|移动
+|[[文件:10916move.png|x300px|center]]
+|闪避
+|[[文件:10916miss.png|x300px|center]]
+|受伤
+|[[文件:10916dmg.png|x300px|center]]
+|防御
+|[[文件:10916gud.png|x300px|center]]
+|动态文件
+|<gallery>
+10916idle.gif
+10916skill1.gif
+10916skill2.gif
+10916skill3.gif
+</gallery>
+}}
+{{#html:Personalitygif|{"1":"https://huiji-public.huijistatic.com/limbuscompany/uploads/0/08/10916idle.gif"} }}
+
+===语音台词===
+{{语音台词|
+|角色=10916
+|格式=2
+|获得时=……我已经等得够久了。本来以为终于能摆脱这冻死人的鬼地方了。结果就因为那个臭小鬼，券券就变成废纸了？哈……哈哈……说梦话也该有个限度吧。
+|早间问候=唔……我的头。几瓶伏特加而已，搞得我想吐得要命。咳。呕。喂，希斯克利夫！拿点酒过来给我解酒！
+|午间问候=希斯克利夫！我交代你的训练……什么嘛。这不是做得挺好吗？对~就这样别想什么多余的事，照我教的去做就行了。
+我要去中央那边一趟，回来之前把桌子收拾干净。饭什么的你就自己随便吃点吧。
+|晚间问候=……什么啊。又全喝完了吗？呼……希斯克利夫，把架子上别的酒……搞什么，那家伙上哪儿去了？希斯克利夫！！！<font style="color:#8c63c2">您叫我吗，师父。</font>操，肯定是我叫的啊，不然还能是鬼叫的不成？<font style="color:#8c63c2">非常抱歉。</font>啧，你还是太松懈了啊……下次给我立马滚过来，明白了吗？<font style="color:#8c63c2">是。</font>
+|对话 1=他妈的……知不知道我在券券身上花了多少时间，还要我从头再教那小鬼一次？这种事像话吗？
+呼……中央的那个混蛋顾问也暂时没什么别的消息。既然那个大脑空空的李箱都说了没关系……啧，要不先教她一下看看呢。
+|对话 2=她是一边斩切着一边逃走的。就算是为了不让那些代价浪费，良秀(Yoshihide)也不会放弃天杀星刀……不会放弃那件遗物的。
+……嘁。就算这样，有本教材也不错。她可能学到了许多闻所未闻的剑术，握剑的姿势已经完全变形了也说不定。
+|对话 3=等一切结束后，我得从中央的那个混蛋顾问那儿拿回一切。我累死累活受了多少罪，理应拿到点回报吧。
+先恢复我的阶级，再弄点钱把券券半残的身体也修好……教材的话，凭他的手段，至少也能混个指挥官当当吧……哈，还不坏嘛。
+|同步后对话 1=良秀(Yoshihide)，只要你完成我就能得到回报对吧？被击落至底的阶级也好，在污泥中腐坏至今的岁月也是一样！还有半死不活、卧床不起的我的券券！全部！全部！都会得到回报的！
+|同步后对话 2=战胜了其他的几个父辈就得意忘形了……我可不一样。和那些老东西远远不同。
+哈、哈哈！我可是罗季昂啊。伯纳特利家族的战争英雄，罗季昂！我可是连苍蝇之王的首级都能猎获，难道你觉得我还砍不下你这种家伙的脑袋？
+|闲置=……嘁。连能叫来一起喝上一杯的人都没有……一帮废物。已经全都被虫崽子杀光了吗……
+|进行同步=哈哈……你知道自己现在忘记了什么……又牺牲了什么吗？
+从她第一次握起剑的那天，到把你带回来的那天……我、我花了多少心血打磨她……你这忘恩负义的混蛋……！
+|人格出战=哈，操。把我当什么了。喂，放马过来。弄个特色来还差不多，净叫来些不入流的家伙……
+|进入战斗=睁大眼睛，看清楚了。
+|战斗中选中人格=挡路了，给我让开。啧。看看这些连战争都没经历过的年轻人……
+|进行攻击=有自信的话就来试试吧。
+|敌方混乱=再这样下去，你会死哦？
+|陷入混乱=开玩笑吧，该死……
+|击杀敌方=哈！下一个。
+|友方阵亡=……我、我败了吗……？怎么会……操……
+|判定成功=哈。连这点事都做不好，还要麻烦我？再有这种事让教材去办。
+|判定失败=不知道……操，我还需要知道这种东西吗？
+|战斗胜利=……手指们想要的刀，就是这个吗？为了弄一个这样的垃圾桶出来，我们这些家伙遭了多少磨难……哈，真笑不出来啊。
+希斯克利夫。别装了，赶紧起来。联系一下中央，查查那些死人是谁。
+|EX CLEAR战斗胜利=……什么？吓到了？我说过的吧。决斗也好，单挑也罢，我从没输过。
+|战斗失败=你……你……！希斯克利夫，你……你竟敢……咳……
+}}
+
+===技能语音===
+<div class="mw-collapsible">
+<div class="mw-collapsible-content">
+{| class="wikitable" style="width: 100%"
+|-
+|width="105px"|技能二-1
+|width="75px"|[[文件:battle_s2_10916_1_1.ogg|50px]]
+|width="75px"|[[文件:battle_s2_10916_1_1-01.ogg|50px]]
+|width="75px"|[[文件:battle_s2_10916_1_1-02.ogg|50px]]
+|width="75px"|[[文件:battle_s2_10916_1_1-03.ogg|50px]]
+|width="75px"|[[文件:battle_s2_10916_1_1-04.ogg|50px]]
+|width="75px"|[[文件:battle_s2_10916_1_1-05.ogg|50px]]
+|width="75px"|[[文件:battle_s2_10916_1_1-07.ogg|50px]]
+||[[文件:battle_s2_10916_1_1-08.ogg|50px]]
+|-
+||技能二-2
+||[[文件:battle_s2_10916_1_2.ogg|50px]]
+||[[文件:battle_s2_10916_1_2-01.ogg|50px]]
+||[[文件:battle_s2_10916_1_2-02.ogg|50px]]
+||[[文件:battle_s2_10916_1_2-03.ogg|50px]]
+||[[文件:battle_s2_10916_1_2-04.ogg|50px]]
+||[[文件:battle_s2_10916_1_2-05.ogg|50px]]
+||[[文件:battle_s2_10916_1_2-06.ogg|50px]]
+||[[文件:battle_s2_10916_1_2-07.ogg|50px]]
+||[[文件:battle_s2_10916_1_2-08.ogg|50px]]
+|-
+||技能二-2
+||[[文件:battle_s2_10916_1_3.ogg|50px]]
+|colspan="10" style="text-align: left;"|还敢东张西望，滚去死吧。
+|-
+||技能三
+||[[文件:battle_s3_10916_1_1.ogg|50px]]
+|colspan="10" style="text-align: left;"|哈哈哈哈哈！狩猎结束。把你们统统解体哦。
+|}
+</div></div>
+===特殊语音===
+<div class="mw-collapsible">
+<div class="mw-collapsible-content">
+{| class="wikitable" style="width:100%"
+|-
+|width="55px"|[[文件:battle_special_10916_1.ogg|50px]]||使用守备技能 预知 闪避成功时触发 1
+|-style="color:#E5CAA5"
+|| ||怎么？打不中吗？
+|-
+|width="55px"|[[文件:battle_special_10916_1_2.ogg|50px]]||使用守备技能 预知 闪避成功时触发 2
+|-style="color:#E5CAA5"
+|| ||慢得要死。
+|-
+|width="55px"|[[文件:battle_special_10916_1_3.ogg|50px]]||使用守备技能 预知 闪避成功时触发 3
+|-style="color:#E5CAA5"
+|| ||看得清清楚楚哦~
+|-
+|width="55px"|[[文件:battle_special_10916_1_4.ogg|50px]]||使用守备技能 预知 闪避成功时触发 4
+|-style="color:#E5CAA5"
+|| ||我全都看得一清二楚。
+|-
+|width="55px"|[[文件:battle_special_10916_1_5.ogg|50px]]||使用守备技能 预知 闪避成功时触发 5
+|-style="color:#E5CAA5"
+|| ||我都说了吧。慢死了。
+|-
+|width="55px"|[[文件:battle_special_10916_2.ogg|50px]]||使{{BuffPro|FutureEyeOnRodion}}转化为{{BuffPro|FutureEyeOffRodion}}时触发
+|-style="color:#E5CAA5"
+|| ||……啧。才用了几下就。
+|-
+|width="55px"|[[文件:battle_special_10916_3.ogg|50px]]||使用技能一-2 解兔 时触发
+|-style="color:#E5CAA5"
+|| ||哈！轮到我了哟~？
+|-
+|width="55px"|[[文件:battle_special_10916_4.ogg|50px]]||使用技能二-2 解鹿 时触发
+|-style="color:#E5CAA5"
+|| ||教材。这也叫难？
+|-
+|width="55px"|[[文件:battle_special_10916_5.ogg|50px]]||使用技能三-2 处置 时触发 1
+|-style="color:#E5CAA5"
+|| ||烦死了，烦死了啊！良秀(Yoshihide)那混蛋，还有你，全都烦死了！！！
+|-
+|width="55px"|[[文件:battle_special_10916_5_2.ogg|50px]]||使用技能三-2 处置 时触发 2
+|-style="color:#E5CAA5"
+|| ||我爱恨就恨！我恨所有那该死的家族！还有你们！全部！
+|-
+|width="55px"|[[文件:battle_special_10916_6.ogg|50px]]||使用技能三-2 处置 击杀带有{{BuffPro|TeachersPreyRodion}}敌人后，于下回合开始时触发
+|-style="color:#E5CAA5"
+|| ||下一个，出来吧。嘛，结果……毫无悬念。
+|-
+|width="55px"|[[文件:battle_special_10916_7.ogg|50px]]||因被动“预知眼”解除混乱时触发
+|-style="color:#E5CAA5"
+|| ||我像是会在这种鬼地方死掉的人吗？
+|-
+|width="55px"|[[文件:battle_special_10916_8.ogg|50px]]||若[[希斯克利夫蜘蛛巢拇指子辈]]已阵亡，则回合开始时触发（每场战斗仅1次）
+|-style="color:#E5CAA5"
+|| ||哈。想想也是啊。愚钝的孩子。连那点都撑不住……
+|-
+|width="55px"|[[文件:battle_special_10916_9.ogg|50px]]||[[希斯克利夫蜘蛛巢拇指子辈]]因被动“拼死奋战”使用技能一 巴勒莫之剑 时触发
+|-style="color:#E5CAA5"
+|| ||心脏！瞄准心脏啊！
+|}
+</div></div>
+
+==导航==
+{{罗佳人格导航}}{{镜像世界人格导航|10916}}
+{{人格导航}}

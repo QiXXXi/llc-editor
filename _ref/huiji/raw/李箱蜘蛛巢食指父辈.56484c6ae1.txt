@@ -1,0 +1,440 @@
+{{人格（上）|{{PAGENAME}}}}
+{{技能链接|
+|1技能-图标=1011501
+|1技能-名称=将冻结之血缠绕三百三十次
+|1技能-类型=打击
+|1技能-罪孽=暴食
+|1技能-硬币数=2
+|1技能-修正值=+2
+|1技能-1阶技能威力=3
+|1技能-1阶硬币威力=+3
+|1技能-1阶=以(75-(自身的{{BuffPro|KarmaOfIndexAlly}}层数/2))%的概率提供打击武器<br>- 使使用打击武器的硬币造成的伤害+10%<br>若本技能被{{BuffPro|IndexPrescriptTargetMarkToEnemy}}标记，则使本技能造成的伤害+15%<br>{{颜色|使用时}}从本技能的最后一枚硬币起，使(自身的{{BuffPro|UnlockBuff_Base}}阶段-1)枚硬币转化为{{BuffPro|SuperCoin}}<br>{{颜色|使用时}}使自身获得1层{{BuffPro|Breath}}<br>{{硬币|2}}{{颜色|命中时}}使自身增加2级{{BuffPro|Breath}}强度<br>{{颜色|未摧毁 - 命中时}}使目标增加1级{{BuffPro|Sinking}}强度
+|1技能-2阶=以(75-(自身的{{BuffPro|KarmaOfIndexAlly}}层数/2))%的概率提供打击武器<br>- 使使用打击武器的硬币造成的伤害+10%<br>若本技能被{{BuffPro|IndexPrescriptTargetMarkToEnemy}}标记，则使本技能造成的伤害+15%<br>若自身的{{BuffPro|Breath}}强度与目标的{{BuffPro|Sinking}}强度之和不低于6级，则使本技能的硬币威力+1<br>{{颜色|使用时}}从本技能的最后一枚硬币起，使(自身的{{BuffPro|UnlockBuff_Base}}阶段-1)枚硬币转化为{{BuffPro|SuperCoin}}<br>{{颜色|使用时}}使自身获得2层{{BuffPro|Breath}}<br>{{硬币|2}}{{颜色|命中时}}使自身增加2级{{BuffPro|Breath}}强度<br>{{颜色|未摧毁 - 命中时}}使目标增加1级{{BuffPro|Sinking}}强度
+|1技能-3阶技能威力=3
+|1技能-3阶硬币威力=+4
+|1技能-4阶技能威力=3
+|1技能-4阶硬币威力=+4
+|1技能-4阶=以(75-(自身的{{BuffPro|KarmaOfIndexAlly}}层数/2))%的概率提供打击武器<br>- 使使用打击武器的硬币造成的伤害+15%<br>若本技能被{{BuffPro|IndexPrescriptTargetMarkToEnemy}}标记，则使本技能的拼点威力+1，造成的伤害+20%<br>自身的{{BuffPro|Breath}}强度与目标的{{BuffPro|Sinking}}强度之和每有6级，使本技能的硬币威力+1(最多+2)<br>{{颜色|使用时}}从本技能的最后一枚硬币起，使(自身的{{BuffPro|UnlockBuff_Base}}阶段-1)枚硬币转化为{{BuffPro|SuperCoin}}<br>{{颜色|使用时}}使自身获得2层{{BuffPro|Breath}}<br>{{硬币|2}}{{颜色|命中时}}使自身增加2级{{BuffPro|Breath}}强度<br>{{颜色|未摧毁 - 命中时}}使目标增加2级{{BuffPro|Sinking}}强度
+|2技能-图标=1011502
+|2技能-名称=于无声之掌声中沉醉，无言而悲怆地贯穿
+|2技能-类型=突刺
+|2技能-罪孽=傲慢
+|2技能-硬币数=3
+|2技能-修正值=+3
+|2技能-1阶技能威力=4
+|2技能-1阶硬币威力=+3
+|2技能-1阶=以(75-(自身的{{BuffPro|KarmaOfIndexAlly}}层数/2))%的概率提供突刺武器<br>- 使使用突刺武器的硬币造成的伤害+10%<br>若本技能被{{BuffPro|IndexPrescriptTargetMarkToEnemy}}标记，则使本技能的拼点威力+1<br>{{颜色|使用时}}从本技能的最后一枚硬币起，使(自身的{{BuffPro|UnlockBuff_Base}}阶段)枚硬币转化为{{BuffPro|SuperCoin}}<br>{{颜色|使用时}}使自身增加3级{{BuffPro|Breath}}强度<br>{{硬币|2}}{{颜色|命中时}}使目标增加2级{{BuffPro|Sinking}}强度<br>{{硬币|3}}{{颜色|命中时}}使自身获得1层{{BuffPro|Breath}}<br>{{颜色|未摧毁 - 命中时}}对目标施加1层{{BuffPro|Sinking}}
+|2技能-2阶=以(75-(自身的{{BuffPro|KarmaOfIndexAlly}}层数/2))%的概率提供突刺武器<br>- 使使用突刺武器的硬币造成的伤害+10%<br>若本技能被{{BuffPro|IndexPrescriptTargetMarkToEnemy}}标记，则使本技能的拼点威力+1<br>若自身的{{BuffPro|Breath}}强度与目标的{{BuffPro|Sinking}}强度之和不低于6级，则使本技能的硬币威力+1<br>{{颜色|使用时}}从本技能的最后一枚硬币起，使(自身的{{BuffPro|UnlockBuff_Base}}阶段)枚硬币转化为{{BuffPro|SuperCoin}}<br>{{颜色|使用时}}使自身增加3级{{BuffPro|Breath}}强度<br>{{硬币|2}}{{颜色|命中时}}使目标增加2级{{BuffPro|Sinking}}强度<br>{{硬币|3}}{{颜色|命中时}}使自身获得1层{{BuffPro|Breath}}<br>{{颜色|未摧毁 - 命中时}}对目标施加1层{{BuffPro|Sinking}}
+|2技能-3阶技能威力=4
+|2技能-3阶硬币威力=+4
+|2技能-4阶技能威力=4
+|2技能-4阶硬币威力=+4
+|2技能-4阶=以(75-(自身的{{BuffPro|KarmaOfIndexAlly}}层数/2))%的概率提供突刺武器<br>- 使使用突刺武器的硬币造成的伤害+15%<br>若本技能被{{BuffPro|IndexPrescriptTargetMarkToEnemy}}标记，则使本技能的最终威力+1<br>自身的{{BuffPro|Breath}}强度与目标的{{BuffPro|Sinking}}强度之和每有6级，使本技能的硬币威力+1(最多+2)<br>{{颜色|使用时}}从本技能的最后一枚硬币起，使(自身的{{BuffPro|UnlockBuff_Base}}阶段)枚硬币转化为{{BuffPro|SuperCoin}}<br>{{颜色|使用时}}使自身增加3级{{BuffPro|Breath}}强度<br>{{硬币|2}}{{颜色|命中时}}使目标增加3级{{BuffPro|Sinking}}强度<br>{{硬币|3}}{{颜色|命中时}}使自身获得2层{{BuffPro|Breath}}<br>{{颜色|未摧毁 - 命中时}}对目标施加1层{{BuffPro|Sinking}}
+|3技能-图标=1011503
+|3技能-名称=举刃对笑，如落叶之香气般对瀑布哭泣
+|3技能-类型=斩击
+|3技能-罪孽=忧郁
+|3技能-硬币数=4
+|3技能-修正值=+4
+|3技能-3阶技能威力=3
+|3技能-3阶硬币威力=+3
+|3技能-3阶=回合开始时，若自身的{{BuffPro|StackYisangSpecialSkill}}为9层，则使本技能转化为“Furioso-Replica”(每回合最多1次)<br>- 仪表盘上位于最左侧行动槽下方一行的技能优先触发<br>- {{颜色|使用前}}若自身的{{BuffPro|StackYisangSpecialSkill}}层数低于9层，则使用3技能<br>以(75-(自身的{{BuffPro|KarmaOfIndexAlly}}层数/2))%的概率提供斩击武器<br>- 使使用斩击武器的硬币造成的伤害+12.5%<br>若本技能被{{BuffPro|IndexPrescriptTargetMarkToEnemy}}标记，则使本技能造成的伤害+10%<br>若自身的{{BuffPro|Breath}}强度与目标的{{BuffPro|Sinking}}强度之和不低于6级，则使本技能的硬币威力+1<br>{{颜色|使用时}}从本技能的最后一枚硬币起，使(自身的{{BuffPro|UnlockBuff_Base}}阶段)枚硬币转化为{{BuffPro|SuperCoin}}<br>{{颜色|使用时}}使自身获得3层{{BuffPro|Breath}}<br>{{硬币|2}}{{颜色|命中时}}使自身增加2级{{BuffPro|Breath}}强度<br>{{硬币|3}}{{颜色|命中时}}使目标增加2级{{BuffPro|Sinking}}强度<br>{{硬币|4}}自身的{{BuffPro|UnlockBuff_Base}}每有1阶段，使本硬币造成的伤害+10%(最多+30%)<br>{{颜色|暴击命中时}}使自身获得1层{{BuffPro|Breath}}<br>{{颜色|未摧毁 - 命中时}}对目标施加2层{{BuffPro|Sinking}}
+|3技能-4阶技能威力=4
+|3技能-4阶硬币威力=+3
+|3技能-4阶=回合开始时，若自身的{{BuffPro|StackYisangSpecialSkill}}为9层，则使本技能转化为“Furioso-Replica”(每回合最多1次)<br>- 仪表盘上位于最左侧行动槽下方一行的技能优先触发<br>- {{颜色|使用前}}若自身的{{BuffPro|StackYisangSpecialSkill}}层数低于9层，则使用3技能<br>以(75-(自身的{{BuffPro|KarmaOfIndexAlly}}层数/2))%的概率提供斩击武器<br>- 使使用斩击武器的硬币造成的伤害+25%<br>若本技能被{{BuffPro|IndexPrescriptTargetMarkToEnemy}}标记，则使本技能造成的伤害+20%<br>自身的{{BuffPro|Breath}}强度与目标的{{BuffPro|Sinking}}强度之和每有6级，使本技能的硬币威力+1(最多+2)<br>{{颜色|使用时}}从本技能的最后一枚硬币起，使(自身的{{BuffPro|UnlockBuff_Base}}阶段+1)枚硬币转化为{{BuffPro|SuperCoin}}<br>{{颜色|使用时}}使自身获得3层{{BuffPro|Breath}}<br>- 额外使自身增加相当于自身{{BuffPro|UnlockBuff_Base}}阶段的{{BuffPro|Breath}}强度<br>{{硬币|2}}{{颜色|命中时}}使自身增加3级{{BuffPro|Breath}}强度<br>{{硬币|3}}{{颜色|命中时}}使目标增加3级{{BuffPro|Sinking}}强度<br>{{硬币|4}}自身的{{BuffPro|UnlockBuff_Base}}每有1阶段，使本硬币造成的伤害+20%(最多+60%)<br>{{颜色|暴击命中时}}使自身获得1层{{BuffPro|Breath}}<br>{{颜色|未摧毁 - 命中时}}对目标施加3层{{BuffPro|Sinking}}
+|5技能-图标=1011505
+|5技能-名称=Furioso-Replica
+|5技能-类型=斩击
+|5技能-罪孽=暴怒
+|5技能-攻击容量=7
+|5技能-硬币数=9
+|5技能-修正值=+5
+|5技能-3阶技能威力=2
+|5技能-3阶硬币威力=+3
+|5技能-3阶={{BuffPro|WideAreaRampage}}<br>仪表盘上仅可存在1个本技能<br>若本技能被{{BuffPro|IndexPrescriptTargetMarkToEnemy}}标记，则使本技能造成的伤害+10%<br>本技能的硬币威力不会改变；本技能的最终硬币威力每增加1，使本技能的最终威力+5(本技能不会受到{{BuffPro|Paralysis}}影响)<br>若自身的{{BuffPro|Breath}}强度与目标的{{BuffPro|Sinking}}强度之和不低于6级，则使本技能的最终威力+1<br>{{颜色|战斗开始}}<br>- 使本技能的所有硬币转化为{{BuffPro|SuperCoin}}<br>- 令本技能命中时使目标增加1级{{BuffPro|Sinking}}强度或使自身增加1级{{BuffPro|Breath}}强度<br>- 本回合自身不会获得{{BuffPro|StackYisangSpecialSkill}}<br>{{颜色|使用时}}<br>- 使本技能的拼点威力+3<br>- 使自身增加3级{{BuffPro|Breath}}强度并使自身获得3层{{BuffPro|Breath}}<br>{{颜色|攻击后}}<br>- 下回合使本技能命中的全体目标增加5级{{BuffPro|Combustion}}强度并对其施加3层{{BuffPro|Binding}}与3层{{BuffPro|Vulnerable}}<br>- 消耗所有{{BuffPro|StackYisangSpecialSkill}}<br>{{硬币|9}}分配给本硬币的武器固定为镰刀<br>{{颜色|未摧毁 - 命中时}}对目标施加3层{{BuffPro|Sinking}}
+|5技能-4阶技能威力=3
+|5技能-4阶硬币威力=+3
+|5技能-4阶={{BuffPro|WideAreaRampage}}<br>仪表盘上仅可存在1个本技能<br>若本技能被{{BuffPro|IndexPrescriptTargetMarkToEnemy}}标记，则使本技能造成的伤害+10%<br>本技能的硬币威力不会改变；本技能的最终硬币威力每增加1，使本技能的最终威力+5，造成的伤害+25%(本技能不会受到{{BuffPro|Paralysis}}影响)<br>自身的{{BuffPro|Breath}}强度与目标的{{BuffPro|Sinking}}强度之和每有6级，使本技能的最终威力+1(最多+2)<br>{{颜色|战斗开始}}<br>- 使本技能的所有硬币转化为{{BuffPro|SuperCoin}}<br>- 令本技能命中时使目标增加1级{{BuffPro|Sinking}}强度或使自身增加1级{{BuffPro|Breath}}强度<br>- 本回合自身不会获得{{BuffPro|StackYisangSpecialSkill}}<br>{{颜色|使用时}}<br>- 使本技能的拼点威力+3<br>- 使自身增加3级{{BuffPro|Breath}}强度并使自身获得3层{{BuffPro|Breath}}<br>{{颜色|攻击后}}<br>- 下回合使本技能命中的全体目标增加5级{{BuffPro|Combustion}}强度并对其施加3层{{BuffPro|Binding}}与3层{{BuffPro|Vulnerable}}<br>- 消耗所有{{BuffPro|StackYisangSpecialSkill}}<br>{{硬币|9}}分配给本硬币的武器固定为镰刀<br>使本硬币暴击时造成的伤害+90%<br>{{颜色|未摧毁 - 命中时}}对目标施加3层{{BuffPro|Sinking}}
+|4技能-图标=1011504
+|4技能-名称=不可预测的变化无常
+|类型=守备
+|4技能-罪孽2=忧郁
+|4技能-硬币数=1
+|4技能-修正值=+2
+|4技能-3阶技能威力=4
+|4技能-3阶硬币威力=+10
+|4技能-3阶={{颜色|战斗开始}}使自身获得2层{{BuffPro|Breath}}(每回合最多1次)<br>{{颜色|闪避成功时}}使自身增加1级{{BuffPro|Breath}}强度(每回合最多2次)<br>{{颜色|回合结束时}}若自身的{{BuffPro|UnlockBuff_Base}}低于2阶段，则触发以下效果(每场战斗最多1次)<br>- 使自身获得{{BuffPro|UnlockBuffAlly_2}}<br>- 若自身的{{BuffPro|BlessingOfIndexPrescriptAlly}}层数低于6层，则使自身的{{BuffPro|BlessingOfIndexPrescriptAlly}}层数变为6层<br>- 每获得1层{{BuffPro|BlessingOfIndexPrescriptAlly}}，下回合对自身施加5层{{BuffPro|KarmaOfIndexAlly}}
+|4技能-4阶技能威力=4
+|4技能-4阶硬币威力=+10
+|4技能-4阶=若自身带有{{BuffPro|UnlockBuffAlly_3}}，则使本技能的硬币威力+2<br>{{颜色|战斗开始}}使自身获得2层{{BuffPro|Breath}}(每回合最多1次)<br>{{颜色|闪避成功时}}使自身增加2级{{BuffPro|Breath}}强度(每回合最多2次)<br>{{颜色|回合结束时}}若自身的{{BuffPro|UnlockBuff_Base}}低于2阶段，则触发以下效果(每场战斗最多1次)<br>- 使自身获得{{BuffPro|UnlockBuffAlly_2}}<br>- 若自身的{{BuffPro|BlessingOfIndexPrescriptAlly}}层数低于6层，则使自身的{{BuffPro|BlessingOfIndexPrescriptAlly}}层数变为6层<br>- 每获得1层{{BuffPro|BlessingOfIndexPrescriptAlly}}，下回合对自身施加5层{{BuffPro|KarmaOfIndexAlly}}
+}}
+===被动===
+*由于数据库字符限制会导致部分格式受到影响
+{{人格被动链接|1011502}}
+{{人格被动链接|1011503}}
+{{人格被动链接|1011504}}
+{{人格被动链接|1011505}}
+{{人格被动链接|1011501}}
+{{人格被动链接|1011521}}
+
+==人格相关信息==
+此部分内容较多，需要查看请点击一旁[展开]
+<div class="mw-collapsible mw-collapsed">
+<div class="mw-collapsible-content">
+{{人物筛选|picture=剧情头像-里恩|page=里恩|organize=食指 父辈|name=里恩}}
+#该人格的三技能{{罪孽颜色|忧郁|举刃对笑，如落叶之香气般对瀑布哭泣}}和特殊技能{{罪孽颜色|暴怒|Furioso-Replica}}拥有特殊拼点胜利动画，后者还拥有特殊技能结束动画。
+#回合开始时，若该人格行动槽内存在特殊技能{{罪孽颜色|暴怒|Furioso-Replica}}，则自身模型将出现<font style="text-shadow:0px 0px 10px #000000, 0px 0px 10px #000000,0px 0px 10px #000000">{{color|#FFFFFF|爆发的黑雾特效动画}}</font>；若此时该人格带有{{状态2|指令成瘾（李箱）|指令成瘾}}，还会额外使自身模型脸部出现{{罪孽颜色|暴怒|阴郁笑容}}。
+#该人格使用特殊技能{{罪孽颜色|暴怒|Furioso-Replica}}时，若前八枚硬币中的任意一枚可击杀攻击容量内的所有敌方单位，则该枚硬币将直接播放特殊技能结束动画，某些敌方单位血量低于一定程度并强制结束回合时也会如此。（仅改变动画，武器并不固定为{{状态2|应该用镰刀…像某人一般沿着空间斩裂时…（李箱）|镰刀|应该用镰刀…像某人一般沿着空间斩裂时…}}）
+#该人格进行拼点和投掷硬币攻击时，将根据本枚硬币随机的武器类型变更拼点和攻击动作。该人格的武器类型中，属于斩击类的武器类型为{{状态2|用手半剑将肩膀击碎时…（李箱）|手半剑|用手半剑将肩膀击碎时…}}，{{状态2|应该用大剑将躯干劈开时…（李箱）|大剑|应该用大剑将躯干劈开时…}}，{{状态2|应该用镰刀…像某人一般沿着空间斩裂时…（李箱）|镰刀|应该用镰刀…像某人一般沿着空间斩裂时…}}；属于突刺类的武器类型为{{状态2|用锥将肺贯穿时…（李箱）|锥|用锥将肺贯穿时…}}，{{状态2|应该用刺剑在身体上开超过十个洞时…（李箱）|刺剑|应该用刺剑在身体上开超过十个洞时…}}，{{状态2|应该用长枪刺穿一个20英寸的洞时…（李箱）|长枪|应该用长枪刺穿一个20英寸的洞时…}}；属于打击类的武器类型为{{状态2|用手斧将肋骨砍下时…（李箱）|手斧|用手斧将肋骨砍下时…}}，{{状态2|应该用锤子将后脑敲碎时…（李箱）|锤子|应该用锤子将后脑敲碎时…}}，{{状态2|应该用鞭子抽落上万块肉时…（李箱）|鞭子|应该用鞭子抽落上万块肉时…}}。
+#战斗中，当该人格获得{{状态2|灼烧着的伤口（李箱）|灼烧着的伤口}}时，将转换自身形态并触发{{罪孽颜色|暴怒|假面摔落动画}}，之后，自身所有武器攻击的动作均会追加{{罪孽颜色|傲慢|双蛇杖-完全解放特效}}（与敌方原版效果不同，不会改变武器本身的附加效果）。
+#战斗中，每当该人格获得{{状态2|指令【终端】}}，都将于身前浮现一串{{罪孽颜色|忧郁|未知代码}}；每当该人格达到当前{{状态2|指令【终端】}}可获取{{状态2|指令加护}}的上限，都将于身前将未知代码重新排列为{{罪孽颜色|忧郁|_CLEAR._}}。
+#战斗中，若该人格带有{{状态2|指令加护}}，则自身模型脚底将出现特效动画，每带有3层{{状态2|指令加护}}便强化一次特效动画。
+#战斗中，若该人格带有{{状态2|解放}}，则自身模型上将出现{{罪孽颜色|忧郁|飘散的花瓣}}特效动画，随着{{状态2|解放}}进程推进特效动画也会逐渐强化。
+#战斗中，若该人格带有{{BuffPro|Shin_IndexFingerYisang}}，则自身模型上将出现{{罪孽颜色|怠惰|特效动画-心}}。
+#战斗中，被{{状态2|指令的印记|4=特殊}}标记的技能与被{{状态2|指令对象|4=特殊}}标记的敌人身上将出现{{罪孽颜色|忧郁|指令花瓣}}。
+</div></div>
+
+==预览==
+===演示===
+{{RichTab
+|prefix=2
+|形态1
+|
+{{RichTab
+|prefix=2
+|闲置
+|[[文件:10115idle.png|x300px|center]]
+|移动
+|[[文件:10115move.png|x300px|center]]
+|闪避
+|[[文件:10115miss.png|x300px|center]]
+|受伤
+|[[文件:10115dmg.png|x300px|center]]
+|防御
+|[[文件:10115gu.png|x300px|center]]
+|动态文件
+|
+<gallery>
+index_father_yisang_idle-off-animation.gif
+10115skill.gif
+10115skill1-1.gif
+10115skill1-2.gif
+10115skill3-1.gif
+10115skill4-1.gif
+10115skill5-1.gif
+10115skill6-1.gif
+10115skill7-1.gif
+10115skill8-1.gif
+10115skill9-1.gif
+10115skill10-1.gif
+10115skill11-1.gif
+10115skill12-1.gif
+10115skill13-1.gif
+</gallery>
+}}
+|形态2
+|
+{{RichTab
+|prefix=2
+|闲置
+|[[文件:101152idle.png|x300px|link=|center]]
+|移动
+|[[文件:101152move.png|x300px|link=|center]]
+|闪避
+|[[文件:101152miss.png|x300px|link=|center]]
+|受伤
+|[[文件:101152dmg.png|x300px|link=|center]]
+|防御
+|[[文件:101152gud.png|x300px|link=|center]]
+|动态文件
+|
+<gallery>
+index_father_yisang_idle-on-animation.gif
+10115skill2-1.gif
+10115skill2-2.gif
+10115skill3-2.gif
+10115skill4-2.gif
+10115skill5-2.gif
+10115skill6-2.gif
+10115skill7-2.gif
+10115skill8-2.gif
+10115skill9-2.gif
+10115skill10-2.gif
+10115skill11-2.gif
+10115skill12-2.gif
+10115skill13-2.gif
+</gallery>
+}}}}
+{{#html:Background
+|{"background":"https://huiji-public.huijistatic.com/limbuscompany/uploads/5/57/Index_Father_Yisang_BG.png"}
+}}
+{{#html:Personalitygif2|{"1":"170","2":"https://huiji-public.huijistatic.com/limbuscompany/uploads/b/bd/Index_father_yisang_idle-off-animation.gif","3":"https://huiji-public.huijistatic.com/limbuscompany/uploads/a/a0/Index_father_yisang_idle-on-animation.gif"} }}
+
+===语音台词===
+{{语音台词|
+|角色=10115
+|格式=2
+|获得时=与其自己去选择人生，不如被人生所选择……<font style="color:#50acff;font-size:90%"><i>*哔哔声*</i></font> 呼。但愿女儿……亦得尝此般人生之乐。
+|早间问候=黎明时分，寒意初显之际。我总是想于此时翻开书册。在女儿归来时想为其朗读的章节间插入书签，并在那不应去逾越的结局之前夹入书签带作为标记。
+|午间问候=若镜如书页，则只需翻过一页，便可重见那已逝的季节。可这烧焦的面容，纵使在温暖的阳光下，也无一日不隐隐作痛。<br>不……这样反而更好。如此我便能一心伫立在那书页前，反复回味我与女儿的点点滴滴。
+|晚间问候=如此深夜有何贵干，堂…… <font style="color:#50acff;font-size:90%"><i>*哔哔声*</i></font> 嗯……啊。这样啊。你似乎想与我这父辈一同于夜间散步啊。
+|对话 1=此处……是蜘蛛栖息之所。那么必然……<font style="color:#50acff;font-size:90%"><i>*哔哔声*</i></font> 将有猎物蜂拥而至。无须踏出家门，亦无须整日受饥饿煎熬。<br>自这如此便利的人生中走出的理由……于我而言当真存在吗。
+|对话 2=那孩子啊。嗯……的确具备相当优秀的资质。对于时间的感知以及适应性尤为卓越。当我们将身插螺旋的猴儿放于时间保险箱中，待她将作业悉数完成后归来……再次取出猴儿、拔出其身上螺旋时，我所见到的她的眼神，至今仍残留心中。此外，她能在父辈们都不曾察觉时熟练进出时间保险箱……不觉得相当聪慧吗。可遗憾的是，她仍不过是个聪慧的“孩子”罢了……
+|对话 3=我的人生……恰似螺旋。虽始终朝着终点不断穿刺，速度却逐渐放缓，终究无法抵达终点……女儿也是如此。粉碎机、焚化炉……抑或是深渊中的蜘蛛网。为了创造出这些，我将女儿置于螺旋之上，也同样将我自己的人生置于螺旋之上。远远望去……那排列纠缠的模样与螺旋无异，再无比此更为确凿的证据了。<font style="color:#50acff;font-size:90%"><i>*哔哔声*</i></font> ……来，你也听见了吧。这“愉悦”似乎永无止境的模样。
+|同步后对话 1=那么，这次是。<font style="color:#50acff;font-size:90%"><i>*哔哔声*</i></font> 手半剑吗。嗯，接下来是……<font style="color:#50acff;font-size:90%"><i>*哔哔声*</i></font> 巨镰。指令今日……选择武器的眼光依旧高洁啊。
+|同步后对话 2=这座都市，无论白昼黑夜……自何时望去，都如被雨水濡湿般朦胧泛白。因而我无需雨伞。同理，晴朗时亦不必用阳伞。<br>我仅需将指令所赐之物握于掌中挥动便足够……纵使眼前永远苍白一片，也无碍。
+|闲置=……于是翩翩而去的蝴蝶如此回答：“拥有一颗彻底绝望、即便仰望天空也不会动摇的心。那才是获得自由的……唯一方法。”
+|进行同步=<font style="color:#50acff;font-size:90%"><i>*哔哔声*</i></font>  用长矛刺穿心脏，再倒吊起来。<font style="color:#50acff;font-size:90%"><i>*哔哔声*</i></font>  用剑猛烈啄刺，撕碎吞噬……<br><font style="color:#50acff;font-size:90%"><i>*哔哔声*</i></font>  ……无须怨恨。你们此刻的死亡……也不过是指令的选择。
+|人格出战=<font style="color:#50acff;font-size:90%"><i>*哔哔声*</i></font> 已确认目标，开始吧。
+|进入战斗=<font style="color:#50acff;font-size:90%"><i>*哔哔声*</i></font> ……此次朗读的绘本就是这个了。
+|战斗中选中人格=似乎……我仍被“冻住”了呢。
+|进行攻击=你究竟做了多大的觉悟呢。
+|敌方混乱=你那悲伤的眼神，很好。
+|陷入混乱=哈哈。
+|击杀敌方=因为心脏这里……略微有些发麻。
+|友方阵亡=……多么……寂寞啊。
+|判定成功=<font style="color:#50acff;font-size:90%"><i>*哔哔声*</i></font> 没有特别之处。
+|判定失败=<font style="color:#50acff;font-size:90%"><i>*哔哔声*</i></font> 只是如此发生了而已。
+|战斗胜利=即使不够完美，但只要完成了指令……便无妨。因为于我而言，那唯一必须完美执行的指令……尚未到来。
+|EX CLEAR战斗胜利=完美执行么。然而……<font style="color:#50acff;font-size:90%"><i>*哔哔声*</i></font> 至今尚未指定时期。如此一来我依然……“什么都不是”，是么？
+|战斗失败=有时……真希望她能为我解冻。似乎女儿却已然将此事忘却。<font style="color:#50acff;font-size:90%"><i>*哔哔声*</i></font> 哈啊。虽然相当辛苦……但终端的鸣响尚未停歇，在编织螺旋的道路上，本就不该有止步之时吧。
+}}
+
+===技能语音===
+<div class="mw-collapsible mw-collapsed">
+<div class="mw-collapsible-content">
+{| class="wikitable" style="width: 100%"
+|-
+|width="105px"|技能一-1
+|width="75px"|[[文件:battle_s1_10115_1_1.ogg|50px]]
+|width="75px"|[[文件:battle_s1_10115_1_1-01.ogg|50px]]
+|width="75px"|[[文件:battle_s1_10115_1_1-02.ogg|50px]]
+|width="75px"|[[文件:battle_s1_10115_1_1-03.ogg|50px]]
+|width="75px"|[[文件:battle_s1_10115_1_1-04.ogg|50px]]
+|-
+||技能一-2
+||[[文件:battle_s1_10115_1_2.ogg|50px]]
+||[[文件:battle_s1_10115_1_2-01.ogg|50px]]
+||[[文件:battle_s1_10115_1_2-02.ogg|50px]]
+||[[文件:battle_s1_10115_1_2-03.ogg|50px]]
+|-
+||技能一-3
+||[[文件:battle_s1_10115_1_3.ogg|50px]]
+||[[文件:battle_s1_10115_1_3-01.ogg|50px]]
+||[[文件:battle_s1_10115_1_3-02.ogg|50px]]
+||[[文件:battle_s1_10115_1_3-03.ogg|50px]]
+|-
+||技能二-1
+||[[文件:battle_s2_10115_1_1.ogg|50px]]
+||[[文件:battle_s2_10115_1_1-01.ogg|50px]]
+||[[文件:battle_s2_10115_1_1-02.ogg|50px]]
+||[[文件:battle_s2_10115_1_1-03.ogg|50px]]
+||[[文件:battle_s2_10115_1_1-04.ogg|50px]]
+|width="75px"|[[文件:battle_s2_10115_1_1-05.ogg|50px]]
+|width="75px"|[[文件:battle_s2_10115_1_1-06.ogg|50px]]
+|width="75px"|[[文件:battle_s2_10115_1_1-07.ogg|50px]]
+|width="75px"|[[文件:battle_s2_10115_1_1-08.ogg|50px]]
+||[[文件:battle_s2_10115_1_1-09.ogg|50px]]
+|-
+||技能二-2
+||[[文件:battle_s2_10115_1_2.ogg|50px]]
+||[[文件:battle_s2_10115_1_2-01.ogg|50px]]
+||[[文件:battle_s2_10115_1_2-02.ogg|50px]]
+||[[文件:battle_s2_10115_1_2-03.ogg|50px]]
+||[[文件:battle_s2_10115_1_2-04.ogg|50px]]
+||[[文件:battle_s2_10115_1_2-05.ogg|50px]]
+||[[文件:battle_s2_10115_1_2-06.ogg|50px]]
+||[[文件:battle_s2_10115_1_2-07.ogg|50px]]
+||[[文件:battle_s2_10115_1_2-08.ogg|50px]]
+||[[文件:battle_s2_10115_1_2-09.ogg|50px]]
+|-
+||技能二-3
+||[[文件:battle_s2_10115_1_3.ogg|50px]]
+||[[文件:battle_s2_10115_1_3-01.ogg|50px]]
+||[[文件:battle_s2_10115_1_3-02.ogg|50px]]
+||[[文件:battle_s2_10115_1_3-03.ogg|50px]]
+||[[文件:battle_s2_10115_1_3-04.ogg|50px]]
+||[[文件:battle_s2_10115_1_3-05.ogg|50px]]
+||[[文件:battle_s2_10115_1_3-06.ogg|50px]]
+||[[文件:battle_s2_10115_1_3-07.ogg|50px]]
+||[[文件:battle_s2_10115_1_3-08.ogg|50px]]
+||[[文件:battle_s2_10115_1_3-09.ogg|50px]]
+|-
+||技能三-1
+||[[文件:battle_s3_10115_1_1.ogg|50px]]
+||[[文件:battle_s3_10115_1_1-01.ogg|50px]]
+||[[文件:battle_s3_10115_1_1-02.ogg|50px]]
+||[[文件:battle_s3_10115_1_1-03.ogg|50px]]
+|-
+||技能三-2
+||[[文件:battle_s3_10115_1_2.ogg|50px]]
+||[[文件:battle_s3_10115_1_2-01.ogg|50px]]
+||[[文件:battle_s3_10115_1_2-02.ogg|50px]]
+||[[文件:battle_s3_10115_1_2-03.ogg|50px]]
+|-
+||技能三-3
+||[[文件:battle_s3_10115_1_3.ogg|50px]]
+||[[文件:battle_s3_10115_1_3-01.ogg|50px]]
+||[[文件:battle_s3_10115_1_3-02.ogg|50px]]
+||[[文件:battle_s3_10115_1_3-03.ogg|50px]]
+||[[文件:battle_s3_10115_1_3-04.ogg|50px]]
+|-
+||技能三-4
+||[[文件:battle_s3_10115_1_4.ogg|50px]]
+||[[文件:battle_s3_10115_1_4-01.ogg|50px]]
+||[[文件:battle_s3_10115_1_4-02.ogg|50px]]
+||[[文件:battle_s3_10115_1_4-03.ogg|50px]]
+||[[文件:battle_s3_10115_1_4-04.ogg|50px]]
+|-
+||技能三-5
+||[[文件:battle_s3_10115_1_5.ogg|50px]]
+||[[文件:battle_s3_10115_1_5-01.ogg|50px]]
+||[[文件:battle_s3_10115_1_5-02.ogg|50px]]
+|-
+||技能三-6
+||[[文件:battle_s3_10115_1_6.ogg|50px]]
+|colspan="10" style="text-align: left;"|<font style="color:#50acff;font-size:90%"><i>*哔哔声*</i></font> 哈……海浪汹涌而来。
+|}
+</div></div>
+----
+
+===特殊语音===
+<div class="mw-collapsible mw-collapsed">
+<div class="mw-collapsible-content">
+{| class="wikitable" style="width: 100%"
+|width="55px"|[[文件:battle_special_10115_1.ogg|50px]]||使用基础技能后，{{BuffPro|StackYisangSpecialSkill}}层数变为1时触发
+|-style="color:#E5CAA5"
+|| ||一。
+|-
+|width="55px"|[[文件:battle_special_10115_1-01.ogg|50px]]||未启用
+|-style="color:#E5CAA5"
+|| ||一。
+|-
+|width="55px"|[[文件:battle_special_10115_2.ogg|50px]]||使用基础技能后，{{BuffPro|StackYisangSpecialSkill}}层数变为2时触发
+|-style="color:#E5CAA5"
+|| ||二。
+|-
+|width="55px"|[[文件:battle_special_10115_2-01.ogg|50px]]||未启用
+|-style="color:#E5CAA5"
+|| ||二。
+|-
+|width="55px"|[[文件:battle_special_10115_3.ogg|50px]]||使用基础技能后，{{BuffPro|StackYisangSpecialSkill}}层数变为3时触发
+|-style="color:#E5CAA5"
+|| ||第三。
+|-
+|width="55px"|[[文件:battle_special_10115_3-01.ogg|50px]]||未启用
+|-style="color:#E5CAA5"
+|| ||第三。
+|-
+|width="55px"|[[文件:battle_special_10115_4.ogg|50px]]||使用基础技能后，{{BuffPro|StackYisangSpecialSkill}}层数变为4时触发
+|-style="color:#E5CAA5"
+|| ||四。
+|-
+|width="55px"|[[文件:battle_special_10115_4-01.ogg|50px]]||未启用
+|-style="color:#E5CAA5"
+|| ||四。
+|-
+|width="55px"|[[文件:battle_special_10115_5.ogg|50px]]||使用基础技能后，{{BuffPro|StackYisangSpecialSkill}}层数变为5时触发
+|-style="color:#E5CAA5"
+|| ||五。
+|-
+|width="55px"|[[文件:battle_special_10115_5-01.ogg|50px]]||未启用
+|-style="color:#E5CAA5"
+|| ||五。
+|-
+|width="55px"|[[文件:battle_special_10115_6.ogg|50px]]||使用基础技能后，{{BuffPro|StackYisangSpecialSkill}}层数变为6时触发
+|-style="color:#E5CAA5"
+|| ||第六。
+|-
+|width="55px"|[[文件:battle_special_10115_6-01.ogg|50px]]||未启用
+|-style="color:#E5CAA5"
+|| ||第六。
+|-
+|width="55px"|[[文件:battle_special_10115_7.ogg|50px]]||使用基础技能后，{{BuffPro|StackYisangSpecialSkill}}层数变为7时触发
+|-style="color:#E5CAA5"
+|| ||七。还剩二。
+|-
+|width="55px"|[[文件:battle_special_10115_7-01.ogg|50px]]||未启用
+|-style="color:#E5CAA5"
+|| ||七。还剩二。
+|-
+|width="55px"|[[文件:battle_special_10115_8.ogg|50px]]||使用基础技能后，{{BuffPro|StackYisangSpecialSkill}}层数变为8时触发
+|-style="color:#E5CAA5"
+|| ||八。还剩一。
+|-
+|width="55px"|[[文件:battle_special_10115_8-01.ogg|50px]]||未启用
+|-style="color:#E5CAA5"
+|| ||八。还剩一。
+|-
+|width="55px"|[[文件:battle_special_10115_9.ogg|50px]]||使用基础技能后，{{BuffPro|StackYisangSpecialSkill}}层数变为9时触发
+|-style="color:#E5CAA5"
+|| ||第九。完成。
+|-
+|width="55px"|[[文件:battle_special_10115_9-01.ogg|50px]]||未启用
+|-style="color:#E5CAA5"
+|| ||第九。完成。
+|-
+|width="55px"|[[文件:battle_special_10115_10.ogg|50px]]||获得{{BuffPro|UnlockBuff_Rien1}}时触发
+|-style="color:#E5CAA5"
+|| ||无我梦中
+|-
+|width="55px"|[[文件:battle_special_10115_11.ogg|50px]]||获得{{BuffPro|UnlockBuff_Rien2}}时触发
+|-style="color:#E5CAA5"
+|| ||阿鼻叫唤
+|-
+|width="55px"|[[文件:battle_special_10115_12.ogg|50px]]||获得{{BuffPro|UnlockBuff_Rien3}}时触发
+|-style="color:#E5CAA5"
+|| ||支离灭裂
+|-
+|width="55px"|[[文件:battle_special_10115_13.ogg|50px]]||击杀目标为{{BuffPro|IndexPrescriptTargetToEnemy}}时触发
+|-style="color:#E5CAA5"
+|| ||请自始至终保持愉悦。毕竟你是被选中的啊。
+|-
+|width="55px"|[[文件:battle_special_10115_14-1.ogg|50px]]||获得{{BuffPro|BurningWoundYisang}}时随机触发 1
+|-style="color:#E5CAA5"
+|| ||……哈哈。若是女儿也能记得这伤口就好了。
+|-
+|width="55px"|[[文件:battle_special_10115_14-2.ogg|50px]]||获得{{BuffPro|BurningWoundYisang}}时随机触发 2
+|-style="color:#E5CAA5"
+|| ||哈。不知女儿是否还记得这伤口呢。
+|-
+|width="55px"|[[文件:battle_special_10115_15-1.ogg|50px]]||若拥有{{BuffPro|BurningWoundYisangMask}}，则使用技能三“Furioso-Replica”拼点时触发
+|-style="color:#E5CAA5"
+|| ||模仿那激情之心。
+|-
+|width="55px"|[[文件:battle_special_10115_15-2.ogg|50px]]||若拥有{{BuffPro|BurningWoundYisangMask}}，则使用技能三“Furioso-Replica”后触发
+|-style="color:#E5CAA5"
+|| ||再现结束。
+|-
+|width="55px"|[[文件:battle_special_10115_16-1.ogg|50px]]||若拥有{{BuffPro|BurningWoundYisang}}，则使用技能三“Furioso-Replica”拼点时触发
+|-style="color:#E5CAA5"
+|| ||<font style="color:#50acff;font-size:90%"><i>*哔哔声*</i></font> 赫尔墨斯的意志。
+|-
+|width="55px"|[[文件:battle_special_10115_16-2.ogg|50px]]||若拥有{{BuffPro|BurningWoundYisang}}，则使用技能三“Furioso-Replica”第九币时触发
+|-style="color:#E5CAA5"
+|| ||保持激情。
+|-
+|width="55px"|[[文件:battle_special_10115_17.ogg|50px]]||若与[[堂吉诃德食指代行者-绽放E.G.O:代行]]同时在场，则首回合开始时概率触发
+|-style="color:#E5CAA5"
+|| ||啊，堂吉诃德……<font style="color:#50acff;font-size:90%"><i>*哔哔声*</i></font> 是啊，如果这次战斗能够顺利结束……我会表扬你的。
+|}
+</div></div>
+----
+
+===音效===
+<div class="mw-collapsible">
+<div class="mw-collapsible-content">
+{|class="wikitable" style="width: 100%"
+|-
+|width="130px"|特殊技能<br>{{罪孽颜色|暴怒|Furioso-Replica}}<br>第九枚硬币镰刀
+|width="75px"|[[文件:indexyisang_10_7-1.ogg|50px]]
+|width="75px"|[[文件:indexyisang_10_7-2.ogg|50px]]
+||[[文件:indexyisang_10_7-3.ogg|50px]]
+|-
+|}
+*该人格大部分的技能音效为[[敌方单位/1347|食指父辈-里恩]]的音效复用，可前往页面[[敌方单位/1347#音效|食指父辈-里恩]]查看。
+</div></div>
+
+==导航==
+{{李箱人格导航}}{{镜像世界人格导航|10115}}
+{{人格导航}}

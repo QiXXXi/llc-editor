@@ -1,0 +1,290 @@
+{{人格（上）|以实玛利高级定制:红派精品店}}
+{{技能链接|
+|1技能-图标=1081601
+|1技能-名称=啊啊…你听不见，对吗？
+|1技能-类型=突刺
+|1技能-罪孽=暴怒
+|1技能-硬币数=2
+|1技能-修正值=+1
+|1技能-1阶技能威力=3
+|1技能-1阶硬币威力=+3
+|1技能-1阶={{颜色|使用时}}若现存体力不低于80%，则使自身获得3层{{BuffPro|ChargeRougeAlly}}<br>{{硬币|1}}{{颜色|命中时}}使自身获得2层{{BuffPro|ChargeRougeAlly}}<br>{{硬币|2}}{{颜色|命中时}}对目标施加2层{{BuffPro|Laceration}}
+|1技能-2阶=若自身的{{BuffPro|ChargeRougeAlly}}强度不低于2级，则使本技能的硬币威力+1<br>{{颜色|使用时}}若现存体力不低于80%，则使自身获得3层{{BuffPro|ChargeRougeAlly}}<br>{{硬币|1}}{{颜色|命中时}}使自身获得3层{{BuffPro|ChargeRougeAlly}}<br>{{硬币|2}}{{颜色|命中时}}对目标施加2层{{BuffPro|Laceration}}
+|1技能-3阶技能威力=3
+|1技能-3阶硬币威力=+4
+|1技能-4阶技能威力=3
+|1技能-4阶硬币威力=+4
+|1技能-4阶=若自身的{{BuffPro|ChargeRougeAlly}}强度不低于2级，则使本技能的硬币威力+1<br>{{颜色|使用时}}若现存体力不低于80%，则使自身获得5层{{BuffPro|ChargeRougeAlly}}<br>{{颜色|使用时}}目标每带有3级{{BuffPro|Laceration}}强度，使本技能的拼点威力+1(最多+2)<br>{{硬币|1}}{{颜色|命中时}}使自身获得3层{{BuffPro|ChargeRougeAlly}}<br>{{硬币|2}}{{颜色|命中时}}对目标施加2层{{BuffPro|Laceration}}
+|2技能-图标=1081602
+|2技能-名称=听不见那声音，并不代表它不存在！
+|2技能-类型=突刺
+|2技能-罪孽=嫉妒
+|2技能-硬币数=2
+|2技能-修正值=+2
+|2技能-1阶技能威力=4
+|2技能-1阶硬币威力=+5
+|2技能-1阶={{硬币|1}}{{颜色|命中时}}使自身获得2层{{BuffPro|ChargeRougeAlly}}<br>{{颜色|命中时}}对目标施加2层{{BuffPro|Laceration}}<br>{{硬币|2}}若自身带有{{BuffPro|RougeIshmaelEclose}}，则重复使用本硬币1次(每个技能最多1次)<br>{{颜色|命中时}}使目标增加3级{{BuffPro|Laceration}}强度<br>{{颜色|重复使用 - 命中时}}使自身恢复体力上限(自身的{{BuffPro|ChargeRougeAlly}}强度×2)%的体力(最多10%)
+|2技能-2阶=自身每带有2级{{BuffPro|ChargeRougeAlly}}强度，使本技能的最终威力+1(最多+2)<br>{{颜色|使用时}}若自身的{{BuffPro|ChargeRougeAlly}}层数低于10层，则消耗自身体力上限3×(10-现存{{BuffPro|ChargeRougeAlly}}层数)%的体力并使自身获得至10层{{BuffPro|ChargeRougeAlly}}<br>{{颜色|使用时}}消耗自身10层{{BuffPro|ChargeRougeAlly}}并使本技能的硬币威力+1<br>{{颜色|使用时}}若目标的{{BuffPro|Laceration}}强度不低于6级，则使本技能的硬币威力+1<br>{{颜色|攻击前}}若自身带有{{BuffPro|RougeIshmaelEclose}}，则使本技能造成的伤害+20%<br>- 若自身未带有{{BuffPro|RougeIshmaelEclose}}，则消耗自身体力上限20%的体力并触发该效果<br>{{硬币|1}}{{颜色|命中时}}使自身获得4层{{BuffPro|ChargeRougeAlly}}<br>{{颜色|命中时}}对目标施加2层{{BuffPro|Laceration}}<br>{{硬币|2}}若自身带有{{BuffPro|RougeIshmaelEclose}}，则重复使用本硬币1次(每个技能最多1次)<br>{{颜色|命中时}}使目标增加3级{{BuffPro|Laceration}}强度<br>{{颜色|命中时}}若自身的{{BuffPro|ChargeRougeAlly}}强度不低于3级，则下回合对目标施加1层{{BuffPro|ScarletTakeDamageUp}}(每回合最多1次)<br>{{颜色|重复使用 - 命中时}}使自身恢复体力上限(自身的{{BuffPro|ChargeRougeAlly}}强度×3)%的体力(最多15%)
+|2技能-3阶技能威力=4
+|2技能-3阶硬币威力=+6
+|2技能-4阶技能威力=4
+|2技能-4阶硬币威力=+6
+|2技能-4阶=自身每带有2级{{BuffPro|ChargeRougeAlly}}强度，使本技能的最终威力+1(最多+2)<br>{{颜色|使用时}}若自身的{{BuffPro|ChargeRougeAlly}}层数低于10层，则消耗自身体力上限3×(10-现存{{BuffPro|ChargeRougeAlly}}层数)%的体力并使自身获得至10层{{BuffPro|ChargeRougeAlly}}<br>{{颜色|使用时}}消耗自身10层{{BuffPro|ChargeRougeAlly}}并使本技能的硬币威力+1<br>{{颜色|使用时}}若目标的{{BuffPro|Laceration}}强度不低于6级，则使本技能的硬币威力+1<br>{{颜色|攻击前}}若自身带有{{BuffPro|RougeIshmaelEclose}}，则使本技能造成的伤害+40%<br>- 若自身未带有{{BuffPro|RougeIshmaelEclose}}，则消耗自身体力上限20%的体力并触发该效果<br>{{硬币|1}}{{颜色|命中时}}使自身获得4层{{BuffPro|ChargeRougeAlly}}<br>{{颜色|命中时}}对目标施加2层{{BuffPro|Laceration}}<br>{{硬币|2}}若自身带有{{BuffPro|RougeIshmaelEclose}}，则重复使用本硬币1次(每个技能最多1次)<br>{{颜色|命中时}}使目标增加3级{{BuffPro|Laceration}}强度<br>{{颜色|命中时}}若自身的{{BuffPro|ChargeRougeAlly}}强度不低于2级，则下回合对目标施加1层{{BuffPro|ScarletTakeDamageUp}}(每回合最多1次)<br>{{颜色|重复使用 - 命中时}}使自身恢复体力上限(自身的{{BuffPro|ChargeRougeAlly}}强度×3)%的体力(最多15%)
+|3技能-图标=1081603
+|3技能-名称=将其刮削、剥离、用钉固定吧！
+|3技能-类型=突刺
+|3技能-罪孽=色欲
+|3技能-硬币数=3
+|3技能-修正值=+3
+|3技能-3阶技能威力=4
+|3技能-3阶硬币威力=+3
+|3技能-3阶=自身每带有1级{{BuffPro|ChargeRougeAlly}}强度，使本技能造成的伤害+5%(最多+25%)<br>{{颜色|战斗开始}}若现存体力低于自身体力上限的50%，或自身带有{{BuffPro|RougeIshmaelEclose}}，则使本技能的所有硬币转化为{{BuffPro|SuperCoin}}<br>{{颜色|使用时}}若自身的{{BuffPro|ChargeRougeAlly}}层数低于15层，则消耗自身体力上限3×(15-自身的{{BuffPro|ChargeRougeAlly}}层数)%的体力并使自身获得至15层{{BuffPro|ChargeRougeAlly}}<br>{{颜色|使用时}}消耗自身15层{{BuffPro|ChargeRougeAlly}}并使本技能的硬币威力+3<br>{{颜色|使用时}}目标每带有6级{{BuffPro|Laceration}}强度，使本技能的硬币威力+1(最多+2)<br>{{颜色|攻击前}}若自身带有{{BuffPro|RougeIshmaelEclose}}，则使本技能造成的伤害+40%<br>- 若自身未带有{{BuffPro|RougeIshmaelEclose}}，则消耗自身体力上限20%的体力并触发该效果 <br>{{硬币|1}}{{颜色|命中时}}对目标施加2层{{BuffPro|Laceration}}<br>{{硬币|2}}{{颜色|命中时}}使目标增加2级{{BuffPro|Laceration}}强度<br>{{硬币|3}}若自身带有{{BuffPro|RougeIshmaelEclose}}，则重复使用本硬币1次(每个技能最多1次)<br>{{颜色|命中时}}对目标造成本硬币最终伤害量(自身的{{BuffPro|ChargeRougeAlly}}强度×10)%的色欲伤害(最多30%)<br>{{颜色|重复使用 - 命中时}}使自身恢复体力上限(自身的{{BuffPro|ChargeRougeAlly}}强度×4)%的体力(最多20%)
+|3技能-4阶技能威力=5
+|3技能-4阶硬币威力=+3
+|3技能-4阶=自身每带有1级{{BuffPro|ChargeRougeAlly}}强度，使本技能造成的伤害+10%(最多+50%)<br>{{颜色|战斗开始}}若现存体力低于自身体力上限的50%，或自身带有{{BuffPro|RougeIshmaelEclose}}，则使本技能的所有硬币转化为{{BuffPro|SuperCoin}}<br>{{颜色|使用时}}若自身的{{BuffPro|ChargeRougeAlly}}层数低于15层，则消耗自身体力上限3×(15-自身的{{BuffPro|ChargeRougeAlly}}层数)%的体力并使自身获得至15层{{BuffPro|ChargeRougeAlly}}<br>{{颜色|使用时}}消耗自身15层{{BuffPro|ChargeRougeAlly}}并使本技能的硬币威力+3<br>{{颜色|使用时}}目标每带有6级{{BuffPro|Laceration}}强度，使本技能的硬币威力+1(最多+2)<br>{{颜色|攻击前}}若自身带有{{BuffPro|RougeIshmaelEclose}}，则使本技能造成的伤害+40%<br>- 若自身未带有{{BuffPro|RougeIshmaelEclose}}，则消耗自身体力上限20%的体力并触发该效果 <br>{{硬币|1}}{{颜色|命中时}}对目标施加2层{{BuffPro|Laceration}}<br>{{硬币|2}}{{颜色|命中时}}使目标增加4级{{BuffPro|Laceration}}强度<br>{{硬币|3}}若自身带有{{BuffPro|RougeIshmaelEclose}}，则重复使用本硬币1次(每个技能最多1次)<br>{{颜色|命中时}}对目标造成本硬币最终伤害量(自身的{{BuffPro|ChargeRougeAlly}}强度×10)%的色欲伤害(最多30%)<br>{{颜色|重复使用 - 命中时}}使自身恢复体力上限(自身的{{BuffPro|ChargeRougeAlly}}强度×4)%的体力(最多20%)
+|4技能-图标=1081604
+|4技能-名称=果然…这个世界还是有意义的吧？
+|类型=攻击
+|4技能-类型=突刺
+|4技能-罪孽=色欲
+|4技能-硬币数=2
+|4技能-修正值=+2
+|4技能-3阶技能威力=4
+|4技能-3阶硬币威力=+4
+|4技能-3阶={{颜色|可拼点反击}}<br>{{颜色|战斗开始}}若现存体力不高于体力上限的10%，则使自身获得2层{{BuffPro|RougeIshmaelCocoon}}并进入{{BuffPro|RougeIshmaelCocoon}}状态(每场战斗最多1次)<br>{{颜色|战斗开始}}若自身未带有{{BuffPro|RougeIshmaelEclose}}，则消耗自身体力上限20%的体力并在下回合使本技能对应行动槽的{{BuffPro|Aggro}}+10(每回合最多1次)<br>{{硬币|1}}{{颜色|命中时}}使自身获得4层{{BuffPro|ChargeRougeAlly}}<br>{{硬币|2}}{{颜色|命中时}}使目标增加2级{{BuffPro|Laceration}}强度
+|4技能-4阶技能威力=4
+|4技能-4阶硬币威力=+5
+|4技能-4阶={{颜色|可拼点反击}}<br>{{颜色|战斗开始}}若现存体力不高于体力上限的10%，则使自身获得2层{{BuffPro|RougeIshmaelCocoon}}并进入{{BuffPro|RougeIshmaelCocoon}}状态(每场战斗最多1次)<br>{{颜色|战斗开始}}若自身未带有{{BuffPro|RougeIshmaelEclose}}，则消耗自身体力上限20%的体力并在下回合使本技能对应行动槽的{{BuffPro|Aggro}}+10(每回合最多1次)<br>{{颜色|使用时}}自身每带有2级{{BuffPro|ChargeRougeAlly}}强度，使本技能的最终威力+1(最多+2)<br>{{颜色|使用时}}目标每带有4级{{BuffPro|Laceration}}强度，使本技能造成的伤害+10%(最多+40%)<br>{{硬币|1}}{{颜色|命中时}}使自身获得4层{{BuffPro|ChargeRougeAlly}}<br>{{硬币|2}}{{颜色|命中时}}使目标增加2级{{BuffPro|Laceration}}强度<br>{{颜色|命中时}}若自身带有{{BuffPro|RougeIshmaelEclose}}，则使自身恢复体力上限10%的体力(每回合最多1次)
+|7技能-图标=1081605
+|7技能-名称=顺从那声音，我欣然地深入我之中
+|7技能-罪孽=色欲
+|7技能-硬币数=1
+|7技能-修正值=+3
+|7技能-1阶技能威力=6
+|7技能-1阶硬币威力=+9
+|7技能-1阶={{BuffPro|RougeIshmaelCocoon}}专用技能<br>{{BuffPro|CanDuelGuard}}<br>{{颜色|战斗开始}}若自身的{{BuffPro|ChargeRougeAlly}}层数不低于10层，则消耗10层{{BuffPro|ChargeRougeAlly}}并在下回合使最先编入的2名友方单位获得1层{{BuffPro|ResultEnhancement}}(每回合最多1次)<br>{{颜色|战斗开始}}使自身恢复体力上限50%的体力(每回合最多1次)<br>{{颜色|拼点胜利}}使自身获得5层{{BuffPro|ChargeRougeAlly}}(每回合最多4次)<br>{{硬币|1}}{{BuffPro|SuperCoin}}
+|7技能-4阶技能威力=6
+|7技能-4阶硬币威力=+9
+|7技能-4阶={{BuffPro|RougeIshmaelCocoon}}专用技能<br>{{BuffPro|CanDuelGuard}}<br>{{颜色|战斗开始}}若自身的{{BuffPro|ChargeRougeAlly}}层数不低于10层，则消耗10层{{BuffPro|ChargeRougeAlly}}并在下回合使最先编入的2名友方单位获得1层{{BuffPro|ResultEnhancement}}(每回合最多1次)<br>- 若该友方单位属于红派，则下回合使自身获得5层{{BuffPro|ChargeRougeAlly}}并额外使该友方单位获得1层{{BuffPro|AttackDmgUp}}<br>{{颜色|战斗开始}}使自身恢复体力上限100%的体力(每回合最多1次)<br>{{颜色|拼点胜利}}随机解除自身带有的1种可解除的负面状态(每回合最多1次)<br>{{颜色|拼点胜利}}使自身获得5层{{BuffPro|ChargeRougeAlly}}(每回合最多4次)<br>{{硬币|1}}{{BuffPro|SuperCoin}}
+}}
+===被动===
+{{人格被动链接|1081602}}
+{{人格被动链接|1081601}}
+{{人格被动链接|1081621}}
+==人格相关信息==
+#该人格的二技能{{罪孽颜色|嫉妒|听不见那声音，并不代表它不存在！}}、三技能{{罪孽颜色|色欲|将其刮削、剥离、用钉固定吧！}}与守备技能{{罪孽颜色|色欲|果然…这个世界还是有意义的吧？}}拥有特殊拼点胜利动画。
+#战斗中，当该人格获得和解除{{BuffPro|RougeIshmaelCocoon}}时，将转换自身形态为更衣室模型并触发{{罪孽颜色|暴怒|血肉包裹}}/{{罪孽颜色|暴怒|破茧而出}}动画。
+#战斗中，若该人格带有{{BuffPro|RougeIshmaelEclose}}，则自身模型上将出现{{罪孽颜色|暴怒|喷射鲜血}}特效与红色粒子特效。
+
+==预览==
+===演示===
+{{RichTab
+|prefix=2
+|闲置
+|[[文件:10816Default.png|x300px|center]]
+|移动
+|[[文件:10816Move.png|x300px|center]]
+|闪避
+|[[文件:10816Evade.png|x300px|center]]
+|受伤
+|[[文件:10816Damaged.png|x300px|center]]
+|防御
+|[[文件:10816Guard.png|x300px|center]]
+|动态文件
+|<gallery>
+10816skill1.gif
+10816skill2.gif
+10816skill3.gif
+10816skill12.gif
+rouge_ishmael_idle-off-animation.gif
+rouge_ishmael_idle-on-animation.gif
+</gallery>
+}}{{#html:Personalitygif|{"1":"https://huiji-public.huijistatic.com/limbuscompany/uploads/5/5b/Rouge_ishmael_idle-off-animation.gif"} }}
+===语音台词===
+{{语音台词|
+|角色=10816
+|格式=2
+|获得时=您喜欢这件衣服吗？呵呵。就算想碰一碰也没有关系的哦。红派的时尚，就是要亲自用指尖去感受，才能体会其真正的价值。
+|早间问候=这个时间，照在黑派那里的阳光可是相当暖和呢。说不定这就是去刮开剥下那群家伙们擅自保存下来的黄金皮革的最佳季度。
+|午间问候=顾客的肉和皮……大部分情况下，我们都会用于制作服装。但……有时我也会将其直接摄取。<br>也有只能通过直接体会在口中咀嚼的感受与经验，才能掌握的材质呢。
+|晚间问候=在像这样的淡季中逛百货店，能在各种各样的地方见到黄金皮革呢。<br>有时在墙壁上，有时在人台中……用这样的皮料所制成的服装，往往引领潮流，风靡当季。
+|对话 1=仅仅销量高是没办法得到很多眼球的呢。虽然对楼下来说，在淡季前把库存抛售一空就行了……<br>但是对于我们而言，怎么卖、卖给谁是很重要的。在这一点上，我可比对家那些黑派的蠢货们要优秀哦。
+|对话 2=这位客人，您不会是觉得这件裙装定价过高吧？如您所见，由我设计的服装，黄金皮革的含量可都高得很呢。和楼下那些只放进一点残渣碎屑就加以大肆宣传的衣服，可不是一个档次。
+|对话 3=我并不是不能理解那些在我的店里游荡的狂人。因为自阳光中传来的那声音，温暖到能够拥抱我所有的痛苦……它是如此温柔。
+|同步后对话 1=即便那个声音是我的信仰，它也从来没有成为过我的神明。反反复复，即便我切实地祈祷着，回应我的也只有……不断重复着延伸的只言片语。<br>与此相对的，我们的新神……那位大人，则毫不吝啬地给予我们回答。同时，也毫不吝啬地提出新的疑问。
+|同步后对话 2=听到那低语声的时候、自己亲手制作的手帕被收下的时候……我总是觉得，自己的身体几乎要因感激而爆裂开来。<br>我如此坚信。那位大人将引导悲伤的我们……剥下百货店中所有的黄金皮革，用红派的衣装将我们包裹。
+|闲置=缠结吧……渴求吧……即便那声音已然褪色，我却依旧无法将其忘却。
+|进行同步=渴望吧！摄取吧！将黑派所浪费的黄金皮革全部剥下，分毫不留！
+|人格出战=敢挡在那位大人身前的家伙，就由我来亲手除掉。
+|进入战斗=跟随呼唤！
+|战斗中选中人格=要是穿着那样的服装，你去哪儿都不会受欢迎的……要不要，来我们的店里看看？
+|进行攻击=请让我再一次听到您的声音！
+|敌方混乱=愚昧……
+|陷入混乱=又被钉住了……
+|击杀敌方=请你退场！
+|友方阵亡=啊……我再次跌到了地上……
+|判定成功=多亏了那位大人在摇篮中醒来。
+|判定失败=……仅仅是这种程度的失败，不足以动摇我的信仰。
+|战斗胜利=我们本季的销量……超过了黑派呢。不过，那位大人不会就此感到满足的。不能停下呢。必须把那些家伙的黄金皮革全部剥下、彻底夺走才行……
+|EX CLEAR战斗胜利=虽说经历了漫长的一季，但在那位大人的恩典下，黑派终于从这层楼退场了呢。<br>好了。那么，就让我们用华丽的红来翻新这阴郁的黑吧。让更多的客人为红派的时尚而狂热！
+|战斗失败=啊啊……那声音……又听不到了……一言不发就抛下了我，您究竟去了什么地方？不行……！必须再一次、再一次地去重复。那位大人的声音，那位大人的话语！
+}}
+
+===技能语音===
+<div class="mw-collapsible">
+<div class="mw-collapsible-content">
+{| class="wikitable" style="width: 100%"
+|-
+|width="105px"|技能1-1
+|width="75px"|[[文件:battle_s1_10816_1_1.ogg|50px]]
+|width="75px"|[[文件:battle_s1_10186_1_1-01.ogg|50px]]
+|width="75px"|[[文件:battle_s1_10816_1_1-02.ogg|50px]]
+||[[文件:battle_s1_10816_1_1-03.ogg|50px]]
+|-
+||技能1-2
+||[[文件:battle_s1_10816_1_2.ogg|50px]]
+||[[文件:battle_s1_10816_1_2-01.ogg|50px]]
+||[[文件:battle_s1_10816_1_2-02.ogg|50px]]
+||[[文件:battle_s1_10816_1_2-03.ogg|50px]]
+|-
+||技能2-1
+||[[文件:battle_s2_10816_1_1.ogg|50px]]
+||[[文件:battle_s2_10816_1_1-01.ogg|50px]]
+||[[文件:battle_s2_10816_1_1-02.ogg|50px]]
+|-
+||技能2-2
+||[[文件:battle_s2_10816_1_2.ogg|50px]]
+||[[文件:battle_s2_10816_1_2-01.ogg|50px]]
+||[[文件:battle_s2_10816_1_2-02.ogg|50px]]
+|-
+||技能3-1
+||[[文件:battle_s3_10816_1_1.ogg|50px]]
+||[[文件:battle_s3_10816_1_1-01.ogg|50px]]
+||[[文件:battle_s3_10816_1_1-02.ogg|50px]]
+|-
+||技能3-2
+||[[文件:battle_s3_10816_1_2.ogg|50px]]
+||[[文件:battle_s3_10816_1_2-01.ogg|50px]]
+||[[文件:battle_s3_10816_1_2-02.ogg|50px]]
+|colspan="10" style="text-align: left;"|固定！
+|-
+||技能3-3
+||[[文件:battle_s3_10816_1_3.ogg|50px]]
+||[[文件:battle_s3_10816_1_3-01.ogg|50px]]
+||[[文件:battle_s3_10816_1_3-02.ogg|50px]]
+|colspan="10" style="text-align: left;"|击打！
+|-
+||技能3-4
+||[[文件:battle_s3_10816_1_4.ogg|50px]]
+||[[文件:battle_s3_10816_1_4-01.ogg|50px]]
+|colspan="10" style="text-align: left;"|钉入！
+|}
+</div></div>
+
+===特殊语音===
+<div class="mw-collapsible">
+<div class="mw-collapsible-content">
+{| class="wikitable" style="width:100%"
+|-
+|width="55px"|[[文件:battle_special_10816_1.ogg|50px]]||获得{{BuffPro|RougeIshmaelCocoon}}时触发
+|-style="color:#E5CAA5"
+|| ||我欣然地深入我之中。
+|-
+|width="55px"|[[文件:battle_special_10816_2.ogg|50px]]||获得{{BuffPro|RougeIshmaelEclose}}时触发
+|-style="color:#E5CAA5"
+|| ||脱下旁人强加的谎言，展现真正的我自己！
+|-
+|width="55px"|[[文件:battle_special_10816_3_1.ogg|50px]]||
+|-style="color:#E5CAA5"
+|| ||（语气词）
+|-
+|width="55px"|[[文件:battle_special_10816_2.ogg|50px]]||获得{{BuffPro|RougeIshmaelEclose}}时触发
+|-style="color:#E5CAA5"
+|| ||脱下旁人强加的谎言，展现真正的我自己！
+|-
+|width="55px"|[[文件:battle_special_10816_3_1-01.ogg|50px]]||
+|-style="color:#E5CAA5"
+|| ||（语气词）
+|-
+|width="55px"|[[文件:battle_special_10816_3_1-02.ogg|50px]]||
+|-style="color:#E5CAA5"
+|| ||（语气词）
+|-
+|width="55px"|[[文件:battle_special_10816_3_1-03.ogg|50px]]||
+|-style="color:#E5CAA5"
+|| ||（语气词）
+|-
+|width="55px"|[[文件:battle_special_10816_3_1-04.ogg|50px]]||
+|-style="color:#E5CAA5"
+|| ||（语气词）
+|-
+|width="55px"|[[文件:battle_special_10816_3_2.ogg|50px]]||
+|-style="color:#E5CAA5"
+|| ||（语气词）
+|-
+|width="55px"|[[文件:battle_special_10816_3_2.ogg|50px]]||
+|-style="color:#E5CAA5"
+|| ||（语气词）
+|-
+|width="55px"|[[文件:battle_special_10816_3_2-01.ogg|50px]]||
+|-style="color:#E5CAA5"
+|| ||（语气词）
+|-
+|width="55px"|[[文件:battle_special_10816_3_2-02.ogg|50px]]||
+|-style="color:#E5CAA5"
+|| ||（语气词）
+|-
+|width="55px"|[[文件:battle_special_10816_3_2-03.ogg|50px]]||
+|-style="color:#E5CAA5"
+|| ||（语气词）
+|-
+|width="55px"|[[文件:battle_special_10816_3_2-04.ogg|50px]]||
+|-style="color:#E5CAA5"
+|| ||（语气词）
+|}
+</div></div>
+
+===音效===
+<div class="mw-collapsible">
+<div class="mw-collapsible-content">
+{| class="wikitable" style="width: 100%"
+|-
+|width="75px"|技能1
+||[[文件:contemish_1_1.ogg|50px]]
+||[[文件:contemish_1_2.ogg|50px]]
+|-
+|width="75px"|技能2
+||[[文件:contemish_2_1-1.ogg|50px]]
+||[[文件:contemish_2_2-1.ogg|50px]]
+||[[文件:contemish_2_2-2.ogg|50px]]
+|-
+|width="75px"|技能3
+||[[文件:contemish_3_3-1.ogg|50px]]
+||[[文件:contemish_3_3-2.ogg|50px]]
+||[[文件:contemish_3_3-3.ogg|50px]]
+||[[文件:contemish_3_3-4.ogg|50px]]
+|-
+|width="75px"|技能5
+||[[文件:contemish_5_4-1.ogg|50px]]
+||[[文件:contemish_5_4-2.ogg|50px]]
+|-
+|width="75px"|技能7
+||[[文件:contemish_7_1.ogg|50px]]
+|-
+|width="75px"|拼点
+|width="75px"|[[文件:contemish_p_1.ogg|50px]]
+|width="75px"|[[文件:contemish_p_2.ogg|50px]]
+|width="75px"|[[文件:contemish_p_3.ogg|50px]]
+|width="75px"|[[文件:contemish_p_4.ogg|50px]]
+|width="75px"|[[文件:contemish_p_5.ogg|50px]]
+|[[文件:contemish_p_6.ogg|50px]]
+|-
+|width="75px"|其他
+||[[文件:contemish_s_1.ogg|50px]]
+|-
+|}
+</div></div>
+
+==导航==
+{{以实玛利人格导航}}{{镜像世界人格导航|10816}}
+{{人格导航}}
